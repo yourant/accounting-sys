@@ -2,9 +2,9 @@
 
 return [
 
-    'version'               => 'Verze',
-    'powered'               => 'Powered By Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'Účetní software zdarma',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Pixplexed Solutions',
+    'link'                  => 'https://www.Pixplexed.com',
+    'software'              => 'ERP',
 
 ];

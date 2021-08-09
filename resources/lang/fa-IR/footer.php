@@ -2,9 +2,9 @@
 
 return [
 
-    'version'               => 'نسخه',
-    'powered'               => 'طراحی شده توسط Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'نرم افزار حسابداری رایگان',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Pixplexed Solutions',
+    'link'                  => 'https://www.Pixplexed.com',
+    'software'              => 'ERP',
 
 ];

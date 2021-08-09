@@ -2,9 +2,9 @@
 
 return [
 
-    'version'               => 'Versio',
-    'powered'               => 'Toteutettu ohjelmistolla Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'Ilmainen kirjanpito-ohjelma',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Pixplexed Solutions',
+    'link'                  => 'https://www.Pixplexed.com',
+    'software'              => 'ERP',
 
 ];

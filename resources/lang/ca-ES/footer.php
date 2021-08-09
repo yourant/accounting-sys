@@ -2,9 +2,9 @@
 
 return [
 
-    'version'               => 'Versió',
-    'powered'               => 'Powered by Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'Programari lliure de Facturació/Comptabilitat',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Pixplexed Solutions',
+    'link'                  => 'https://www.Pixplexed.com',
+    'software'              => 'ERP',
 
 ];

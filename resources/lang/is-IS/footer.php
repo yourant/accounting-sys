@@ -2,9 +2,9 @@
 
 return [
 
-    'version'               => 'Útgáfa',
-    'powered'               => 'Keyrt af Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'Opinn bókhalds hugbúnaður',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Pixplexed Solutions',
+    'link'                  => 'https://www.Pixplexed.com',
+    'software'              => 'ERP',
 
 ];

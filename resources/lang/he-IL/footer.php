@@ -2,9 +2,9 @@
 
 return [
 
-    'version'               => 'גירסה',
-    'powered'               => 'מופעל על ידי Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'תוכנת הנהלת חשבונות חינם',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Pixplexed Solutions',
+    'link'                  => 'https://www.Pixplexed.com',
+    'software'              => 'ERP',
 
 ];

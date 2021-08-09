@@ -3,8 +3,8 @@
 return [
 
     'version'               => 'Version',
-    'powered'               => 'Drevet af Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'Gratis regnskabsprogram',
+    'powered'               => 'Powered By Pixplexed Solutions',
+    'link'                  => 'https://www.Pixplexed.com',
+    'software'              => 'ERP',
 
 ];

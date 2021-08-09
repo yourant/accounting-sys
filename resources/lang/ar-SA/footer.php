@@ -2,9 +2,9 @@
 
 return [
 
-    'version'               => 'إصدار',
-    'powered'               => 'بواسطة أكاونتينج',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'برنامج محاسبي مجاني',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Pixplexed Solutions',
+    'link'                  => 'https://www.Pixplexed.com',
+    'software'              => 'ERP',
 
 ];

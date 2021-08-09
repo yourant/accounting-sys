@@ -11,7 +11,7 @@
                     <div class="header-body text-center">
                         <div class="row justify-content-center">
                             <div class="col-xl-5 col-lg-6 col-md-8">
-                                <img class="mb-5" src="{{ asset('public/img/akaunting-logo-white.svg') }}" width="22%" alt="Akaunting"/>
+                                <img class="mb-5" src="{{ asset('public/img/erp-logo-2.png') }}" width="22%" alt="Akaunting"/>
                             </div>
                         </div>
                     </div>

@@ -2,9 +2,9 @@
 
 return [
 
-    'version'               => 'Версия',
-    'powered'               => 'С подкрепата на Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'Безплатен счетоводен софтуер',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Pixplexed Solutions',
+    'link'                  => 'https://www.Pixplexed.com',
+    'software'              => 'ERP',
 
 ];

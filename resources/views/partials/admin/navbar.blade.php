@@ -110,7 +110,7 @@
 
                 @can('read-common-notifications')
                     <li class="nav-item dropdown">
-                        <a class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="display: none;">
                             <span>
                                 <i class="far fa-bell"></i>
                             </span>
@@ -126,7 +126,7 @@
                                 </div>
                             @endif
 
-                            <div class="list-group list-group-flush">
+                            <div class="list-group list-group-flush" display="hidden">
                                 @stack('notification_new_apps_start')
 
                                 @if (!empty($new_apps) && count($new_apps))
@@ -278,7 +278,7 @@
 
                 @can('read-install-updates')
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ route('updates.index') }}" title="{{ $updates }} Updates Available" role="button" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link" href="{{ route('updates.index') }}" title="{{ $updates }} Updates Available" role="button" aria-haspopup="true" aria-expanded="false" style="display:none;">
                             <span>
                                 <i class="fa fa-sync-alt"></i>
                             </span>
@@ -293,7 +293,7 @@
 
                 <li class="nav-item d-none d-md-block">
                     <a class="nav-link" href="{{ url(trans('header.support_link')) }}" target="_blank" title="{{ trans('general.help') }}" role="button" aria-haspopup="true" aria-expanded="false">
-                        <i class="far fa-life-ring"></i>
+                        <i class="far fa-life-ring" style="display:none;"></i>
                     </a>
                 </li>
 
