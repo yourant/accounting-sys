@@ -15,7 +15,7 @@
 
                             @yield('new_button')
 
-                            @stack('header_button_end')
+                            <!--@stack('header_button_end')-->
                         </div>
                     </div>
                 </div>
