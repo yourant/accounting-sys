@@ -1,0 +1,1227 @@
+1629725533O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:4:{i:0;O:8:"stdClass":41:{s:2:"id";i:29;s:11:"category_id";i:13;s:9:"vendor_id";i:4;s:6:"amount";s:7:"69.0000";s:13:"compatibility";a:3:{i:0;s:2:"1x";i:1;s:2:"2x";i:2;s:3:"21x";}s:19:"available_languages";N;s:7:"version";s:6:"2.1.20";s:11:"dev_version";s:0:"";s:4:"demo";s:0:"";s:10:"repository";s:29:"akaunting/module-double-entry";s:12:"payment_type";s:6:"yearly";s:8:"featured";i:1;s:6:"status";i:2;s:12:"published_at";s:19:"2018-05-09 22:55:53";s:10:"created_at";s:19:"2018-05-09 22:55:53";s:10:"updated_at";s:19:"2021-08-17 17:06:45";s:10:"deleted_at";N;s:13:"category_name";s:10:"Accounting";s:11:"vendor_name";s:13:"Akaunting Inc";s:5:"price";s:3:"$90";s:13:"special_price";s:3:"$69";s:20:"subscription_message";s:158:"All purchases are billed yearly. You may cancel the subscription at any time and can continue to use the app. Subscription refers to support and updates only.";s:4:"vote";i:5;s:12:"total_review";i:33;s:10:"total_vote";i:158;s:8:"releases";b:0;s:12:"app_releases";O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:5:{i:0;O:8:"stdClass":6:{s:9:"item_slug";s:12:"double-entry";s:17:"akaunting_version";s:6:"2.1.22";s:7:"version";s:6:"2.1.20";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-08-17 17:06:45";s:9:"changelog";s:109:"<ul>
+<li>Added: New translations</li>
+<li>Fixed: Account is not created on the installation phase</li>
+</ul>
+";}i:1;O:8:"stdClass":6:{s:9:"item_slug";s:12:"double-entry";s:17:"akaunting_version";s:6:"2.1.20";s:7:"version";s:6:"2.1.19";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-07-29 15:35:27";s:9:"changelog";s:125:"<ul>
+<li>Fixed: Reports not showing currency conversion value</li>
+<li>Fixed: General ledger reporting inaccurate</li>
+</ul>
+";}i:2;O:8:"stdClass":6:{s:9:"item_slug";s:12:"double-entry";s:17:"akaunting_version";s:6:"2.1.19";s:7:"version";s:6:"2.1.18";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-07-15 18:16:03";s:9:"changelog";s:298:"<ul>
+<li>Changed: Descriptions at General Ledger is arranged</li>
+<li>Fixed: Opening balance of banking accounts is not considering at the installation step</li>
+<li>Fixed: Updating bank transfer does not reflect to journal entries</li>
+<li>Fixed: Date format in the Journal Entry forms</li>
+</ul>
+";}i:3;O:8:"stdClass":6:{s:9:"item_slug";s:12:"double-entry";s:17:"akaunting_version";s:6:"2.1.18";s:7:"version";s:6:"2.1.17";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-07-01 10:53:05";s:9:"changelog";s:215:"<ul>
+<li>Changed: Description column of general ledger</li>
+<li>Changed: Show will be used instead of edit for revenues and payments</li>
+<li>Fixed: Accounts must not able to disabled if used in settings</li>
+</ul>
+";}i:4;O:8:"stdClass":6:{s:9:"item_slug";s:12:"double-entry";s:17:"akaunting_version";s:6:"2.1.17";s:7:"version";s:6:"2.1.16";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-06-22 11:07:35";s:9:"changelog";s:107:"<ul>
+<li>Added: New translations</li>
+<li>Fixed: Calculation of the trial balance's grand total</li>
+</ul>
+";}}s:4:"from";i:1;s:9:"last_page";i:16;s:13:"next_page_url";s:46:"https://api.akaunting.com/apps/featured?page=2";s:4:"path";s:39:"https://api.akaunting.com/apps/featured";s:8:"per_page";s:1:"5";s:13:"prev_page_url";N;s:2:"to";i:5;s:5:"total";i:80;}s:11:"status_type";s:6:"active";s:12:"price_prefix";s:0:"";s:12:"price_suffix";s:0:"";s:12:"translations";a:2:{i:0;O:8:"stdClass":14:{s:2:"id";i:57;s:7:"item_id";i:29;s:6:"locale";s:2:"en";s:5:"price";s:3:"$90";s:4:"name";s:12:"Double-Entry";s:4:"slug";s:12:"double-entry";s:11:"description";s:689:"<p>Looking for&nbsp;Chart of Accounts, Journal Entry, General Ledger, Balance Sheet, and Trial Balance?&nbsp;This app brings the double-entry accounting features to Akaunting.</p>
+
+<p>Akaunting ships with single-entry accounting feature set. However, some of the businesses, whether they use the cash-basis accounting method or the accrual accounting method, use double-entry bookkeeping to keep their books. Double-entry accounting is a practice that helps minimize errors and increases the chance that your books balance.</p>
+
+<p>If you&#39;re an accountant, thanks to the multi-company feature of Akaunting, you can manage the financials of unlimited companies using this app.</p>
+";s:9:"sort_desc";s:43:"Chart of Accounts, Balance Sheets and more.";s:12:"installation";s:103:"<p>Install the app within one click from your Akaunting admin panel, Apps &gt; Double-Entry page.</p>
+";s:9:"changelog";b:0;s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}i:1;O:8:"stdClass":14:{s:2:"id";i:58;s:7:"item_id";i:29;s:6:"locale";s:2:"tr";s:5:"price";i:0;s:4:"name";s:12:"Çift Giriş";s:4:"slug";s:12:"double-entry";s:11:"description";s:689:"<p>Looking for&nbsp;Chart of Accounts, Journal Entry, General Ledger, Balance Sheet, and Trial Balance?&nbsp;This app brings the double-entry accounting features to Akaunting.</p>
+
+<p>Akaunting ships with single-entry accounting feature set. However, some of the businesses, whether they use the cash-basis accounting method or the accrual accounting method, use double-entry bookkeeping to keep their books. Double-entry accounting is a practice that helps minimize errors and increases the chance that your books balance.</p>
+
+<p>If you&#39;re an accountant, thanks to the multi-company feature of Akaunting, you can manage the financials of unlimited companies using this app.</p>
+";s:9:"sort_desc";s:43:"Chart of Accounts, Balance Sheets and more.";s:12:"installation";s:103:"<p>Install the app within one click from your Akaunting admin panel, Apps &gt; Double-Entry page.</p>
+";s:9:"changelog";s:6219:"<p>2.0.6 - 25 May 2020</p>
+
+<ul>
+	<li>Fixed: Cache command overuse</li>
+</ul>
+
+<p>2.0.5 - 19 May 2020</p>
+
+<h6>Fixed</h6>
+
+<ul>
+	<li>Trial Balance &amp; Balance Sheet print is empty</li>
+	<li>Editing Journal Entry creates duplicate ledger entries</li>
+	<li>Deleting invoice/bill payment not deleted from the ledger</li>
+	<li>Problem with transfers</li>
+	<li>COA (Account) selection is very big</li>
+	<li>Accounts payable/receivable not updated with tax</li>
+	<li>Duplicate ledger entries for revenue/payment</li>
+	<li>Incorrect general ledger starting balances</li>
+	<li>Balance Sheet is not balancing</li>
+	<li>Text overlapping problem on the report of general ledger</li>
+	<li>Wrong date in a journal entry edit page</li>
+	<li>Buttons of the journal entry</li>
+	<li>Check permissions</li>
+	<li>Route [chart_of_accounts.edit] not defined</li>
+</ul>
+
+<p>2.0.4 - 14 Apr 2020</p>
+
+<ul>
+	<li>Fixed: Trial Balance report date problem solved</li>
+</ul>
+
+<p>2.0.3 - 23 Mar 2020</p>
+
+<ul>
+	<li>Fixed: Invoice and Bill edit page account id select problem solved</li>
+</ul>
+
+<p>2.0.2 - 28 Feb 2020</p>
+
+<ul>
+	<li>Fixed: Journal entry save button</li>
+</ul>
+
+<p>2.0.1 - 27 Feb 2020</p>
+
+<ul>
+	<li>Fixed: COA delete problem solved</li>
+	<li>Fixed: Journal entry calculate problem solved</li>
+</ul>
+
+<p>2.0.0 - 13 Feb 2020</p>
+
+<ul>
+	<li>Added: Akaunting 2.0 compatibility</li>
+</ul>
+
+<p>1.1.10 - 30 Sep 2019</p>
+
+<ul>
+	<li>Added: General ledger description column</li>
+</ul>
+
+<p>1.1.9 - 18 Sep 2019</p>
+
+<ul>
+	<li>Fixed: Problem with enable/disable chart of accounts</li>
+</ul>
+
+<p>1.1.8 - 27 Jul 2019</p>
+
+<ul>
+	<li>Fixed: Problem with saving settings</li>
+</ul>
+
+<p>1.1.7 - 05 Jul 2019</p>
+
+<ul>
+	<li>Added: Setting for default Bank and Tax types</li>
+</ul>
+
+<p>1.1.6 - 24 Jun 2019</p>
+
+<ul>
+	<li>Fixed: Example file to import chart of accounts</li>
+</ul>
+
+<p>1.1.5 - 20 Jun 2019</p>
+
+<ul>
+	<li>Fixed: Showing type input twice in chart of accounts edit page</li>
+	<li>Fixed: Not creating new bank account if changed chart of account</li>
+</ul>
+
+<p>1.1.4 - 06 Jun 2019</p>
+
+<ul>
+	<li>Fixed: Not being able to delete default accounts</li>
+</ul>
+
+<p>1.1.3 - 29 May 2019</p>
+
+<ul>
+	<li>Fixed: Showing disabled chart of accounts</li>
+</ul>
+
+<p>1.1.2 - 09 Apr 2019</p>
+
+<ul>
+	<li>Fixed: Error on Journal Entry page</li>
+</ul>
+
+<p>1.1.1 - 06 Apr 2019</p>
+
+<ul>
+	<li>Fixed: Print Export not respecting date filter</li>
+	<li>Changed: Improved General Ledger</li>
+</ul>
+
+<p>1.1.0 - 04 Apr 2019</p>
+
+<ul>
+	<li>Added: Import-Export Chart of Accounts</li>
+	<li>Added: Copy a Chart of Account</li>
+</ul>
+
+<p>1.0.27 - 15 Mar 2019</p>
+
+<ul>
+	<li>Fixed: General Ledger list issue.</li>
+</ul>
+
+<p>1.0.26 - 14 Mar 2019</p>
+
+<ul>
+	<li>Added: Account filter in General Ledger</li>
+	<li>Fixed: Journal entry error with multi-lines</li>
+</ul>
+
+<p>1.0.25 - 27 Feb 2019</p>
+
+<ul>
+	<li>Added: Date filter.</li>
+</ul>
+
+<p>1.0.24 - 20 Feb 2019</p>
+
+<ul>
+	<li>Added: Settings for default accounts</li>
+</ul>
+
+<p>1.0.23 - 05 Feb 2019</p>
+
+<ul>
+	<li>Fixed: Balance Sheet showing expense and income accounts</li>
+</ul>
+
+<p>1.0.22 - 24 Jan 2019</p>
+
+<ul>
+	<li>Fixed: Not deleting ledger records after deleting an invoice/bill</li>
+</ul>
+
+<p>1.0.21 - 21 Jan 2019</p>
+
+<ul>
+	<li>Fixed: Not deleting journal entry after deleting the transfer</li>
+</ul>
+
+<p>1.0.20 - 18 Jan 2019</p>
+
+<ul>
+	<li>Fixed: Not coping item taxes during installation</li>
+	<li>Fixed: Problem with transfer reflection</li>
+</ul>
+
+<p>1.0.19 - 17 Jan 2019</p>
+
+<ul>
+	<li>Fixed: Improved performance of Journal Entry creation</li>
+</ul>
+
+<p>1.0.18 - 15 Jan 2019</p>
+
+<ul>
+	<li>Added: Types and totals to Balance Sheet</li>
+</ul>
+
+<p>1.0.17 - 14 Jan 2019</p>
+
+<ul>
+	<li>Fixed: Trying to update non-existing ledger records</li>
+</ul>
+
+<p>1.0.16 - 08 Jan 2019</p>
+
+<ul>
+	<li>Added: Export in Excel format</li>
+	<li>Changed: Chart of Accounts now ordered by code</li>
+	<li>Fixed: Missing some translations</li>
+</ul>
+
+<p>1.0.15 - 03 Jan 2019</p>
+
+<ul>
+	<li>Added: Multilingual chart of accounts, classes, and types</li>
+</ul>
+
+<p>1.0.14 - 03 Jan 2019</p>
+
+<ul>
+	<li>Fixed: Journal entry not reflecting correct amount to the bank account</li>
+	<li>Fixed: Module installs broken Classes and Types</li>
+</ul>
+
+<p>1.0.13 - 25 Dec 2018</p>
+
+<ul>
+	<li>Fixed: Not to edit bill/invoice</li>
+</ul>
+
+<p>1.0.12 - 21 Dec 2018</p>
+
+<ul>
+	<li>Fixed: Not creating a ledger entry for tax</li>
+	<li>Fixed: Not able to select multiple taxes</li>
+	<li>Fixed: Not copying accounts, incomes, and expenses after installation</li>
+</ul>
+
+<p>1.0.11 - 17 Oc 2018</p>
+
+<ul>
+	<li>Fixed: Sync between bank and chart of account now working correctly</li>
+</ul>
+
+<p>1.0.10 - 13 Oc 2018</p>
+
+<ul>
+	<li>Fixed: Not assigning revenue/payment to the proper account</li>
+	<li>Fixed: Trial balance not summing up balances</li>
+	<li>Fixed: Not loading select2 library</li>
+</ul>
+
+<p>1.0.9 - 12 Oc 2018</p>
+
+<ul>
+	<li>Fixed: Asset &amp; Liability depreciation</li>
+</ul>
+
+<p>1.0.8 - 13 Sep 2018</p>
+
+<ul>
+	<li>Changed: Journal Entry refactor</li>
+</ul>
+
+<p>1.0.7 - 10 Sep 2018</p>
+
+<ul>
+	<li>Added: Enable/Disable chart of accounts</li>
+	<li>Added: Protect system chart of accounts</li>
+	<li>Fixed: Journal Entry not reflected Bank Account</li>
+</ul>
+
+<p>1.0.6 - 04 Sep 2018</p>
+
+<ul>
+	<li>Fixed compatibility Akaunting 1.2.14</li>
+</ul>
+
+<p>1.0.5 - 02 Sep 2018</p>
+
+<ul>
+	<li>Fixed invoice/bill edit issue</li>
+</ul>
+
+<p>1.0.4 - 27 Jul 2018</p>
+
+<ul>
+	<li>Fixed compatibility with Project app</li>
+</ul>
+
+<p>1.0.3 - 30 Jun 2018</p>
+
+<ul>
+	<li>Import validation feature</li>
+</ul>
+
+<p>1.0.2 - 13 Jun 2018</p>
+
+<ul>
+	<li>Not populating accounts in invoice/bill edit page</li>
+	<li>Problem with eCommerce integrations</li>
+</ul>
+
+<p>1.0.1 - 01 Jun 2018</p>
+
+<ul>
+	<li>Fixed problem when creating an Invoice</li>
+	<li>Bill page error in some PHP versions</li>
+</ul>
+
+<p>1.0.0 - 09 May 2018</p>
+
+<ul>
+	<li>Initial release</li>
+</ul>
+";s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}}s:8:"category";O:8:"stdClass":8:{s:2:"id";i:13;s:6:"status";i:2;s:10:"created_at";s:19:"2018-01-18 14:44:24";s:10:"updated_at";s:19:"2018-01-18 14:44:24";s:10:"deleted_at";N;s:12:"translations";a:2:{i:0;O:8:"stdClass":6:{s:2:"id";i:25;s:11:"category_id";i:13;s:6:"locale";s:2:"en";s:4:"name";s:10:"Accounting";s:4:"slug";s:10:"accounting";s:10:"deleted_at";N;}i:1;O:8:"stdClass":6:{s:2:"id";i:26;s:11:"category_id";i:13;s:6:"locale";s:2:"tr";s:4:"name";s:8:"Muhasebe";s:4:"slug";s:10:"accounting";s:10:"deleted_at";N;}}s:4:"name";s:10:"Accounting";s:4:"slug";s:10:"accounting";}s:6:"vendor";O:8:"stdClass":19:{s:2:"id";i:4;s:7:"user_id";i:457;s:15:"vendor_group_id";i:1;s:8:"nickname";s:13:"Akaunting Inc";s:4:"slug";s:13:"akaunting-inc";s:6:"github";s:0:"";s:14:"referrer_email";N;s:16:"payoneer_account";s:18:"info@akaunting.com";s:7:"company";s:14:"Akaunting Inc.";s:7:"website";s:22:"https://akaunting.com/";s:11:"description";s:33:"<p>Free Accounting Software</p>
+";s:10:"commission";s:2:"30";s:15:"billing_details";O:8:"stdClass":0:{}s:15:"payment_details";O:8:"stdClass":0:{}s:6:"status";i:2;s:10:"created_at";s:19:"2017-11-01 22:05:45";s:10:"updated_at";s:19:"2017-11-08 00:13:55";s:10:"deleted_at";N;s:4:"user";O:8:"stdClass":12:{s:2:"id";i:457;s:5:"email";s:18:"info@akaunting.com";s:11:"permissions";O:8:"stdClass":135:{s:18:"block.blocks.index";b:1;s:19:"block.blocks.create";b:1;s:17:"block.blocks.edit";b:1;s:20:"block.blocks.destroy";b:1;s:16:"blog.posts.index";b:1;s:17:"blog.posts.create";b:1;s:15:"blog.posts.edit";b:1;s:18:"blog.posts.destroy";b:1;s:21:"blog.categories.index";b:1;s:22:"blog.categories.create";b:1;s:20:"blog.categories.edit";b:1;s:23:"blog.categories.destroy";b:1;s:15:"blog.tags.index";b:1;s:16:"blog.tags.create";b:1;s:14:"blog.tags.edit";b:1;s:17:"blog.tags.destroy";b:1;s:21:"cloud.companies.index";b:1;s:22:"cloud.companies.create";b:1;s:20:"cloud.companies.edit";b:1;s:23:"cloud.companies.destroy";b:1;s:29:"contact.contactrequests.index";b:1;s:28:"contact.contactrequests.show";b:1;s:31:"contact.contactrequests.destroy";b:1;s:18:"core.sidebar.group";b:1;s:15:"dashboard.index";b:1;s:16:"dashboard.update";b:1;s:15:"dashboard.reset";b:1;s:16:"docs.items.index";b:1;s:17:"docs.items.create";b:1;s:15:"docs.items.edit";b:1;s:18:"docs.items.destroy";b:1;s:18:"media.medias.index";b:1;s:19:"media.medias.create";b:1;s:17:"media.medias.edit";b:1;s:20:"media.medias.destroy";b:1;s:16:"menu.menus.index";b:1;s:17:"menu.menus.create";b:1;s:15:"menu.menus.edit";b:1;s:18:"menu.menus.destroy";b:1;s:20:"menu.menuitems.index";b:1;s:21:"menu.menuitems.create";b:1;s:19:"menu.menuitems.edit";b:1;s:22:"menu.menuitems.destroy";b:1;s:19:"module.core.version";b:1;s:20:"module.core.download";b:1;s:20:"module.vendors.index";b:1;s:21:"module.vendors.create";b:1;s:19:"module.vendors.edit";b:1;s:22:"module.vendors.destroy";b:1;s:25:"module.vendor_items.index";b:1;s:26:"module.vendor_items.create";b:1;s:24:"module.vendor_items.edit";b:1;s:27:"module.vendor_items.destroy";b:1;s:26:"module.vendor_groups.index";b:1;s:27:"module.vendor_groups.create";b:1;s:25:"module.vendor_groups.edit";b:1;s:28:"module.vendor_groups.destroy";b:1;s:24:"module.commissions.index";b:1;s:25:"module.commissions.create";b:1;s:23:"module.commissions.edit";b:1;s:26:"module.commissions.destroy";b:1;s:21:"module.balances.index";b:1;s:22:"module.balances.create";b:1;s:20:"module.balances.edit";b:1;s:23:"module.balances.destroy";b:1;s:23:"module.categories.index";b:1;s:22:"module.categories.slug";b:1;s:24:"module.categories.create";b:1;s:22:"module.categories.edit";b:1;s:25:"module.categories.destroy";b:1;s:18:"module.items.index";b:1;s:17:"module.items.slug";b:1;s:20:"module.items.version";b:1;s:21:"module.items.download";b:1;s:19:"module.items.create";b:1;s:17:"module.items.edit";b:1;s:20:"module.items.destroy";b:1;s:17:"module.paid.index";b:1;s:16:"module.new.index";b:1;s:17:"module.free.index";b:1;s:19:"module.orders.index";b:1;s:20:"module.orders.create";b:1;s:18:"module.orders.edit";b:1;s:21:"module.orders.destroy";b:1;s:29:"module.frontend.vendors.index";b:1;s:30:"module.frontend.vendors.create";b:1;s:28:"module.frontend.vendors.edit";b:1;s:31:"module.frontend.vendors.destroy";b:1;s:34:"module.frontend.vendor_items.index";b:1;s:35:"module.frontend.vendor_items.create";b:1;s:33:"module.frontend.vendor_items.edit";b:1;s:33:"module.frontend.vendor_items.show";b:1;s:36:"module.frontend.vendor_items.destroy";b:1;s:28:"module.frontend.orders.index";b:1;s:29:"module.frontend.orders.create";b:1;s:27:"module.frontend.orders.edit";b:1;s:30:"module.frontend.orders.destroy";b:1;s:16:"page.pages.index";b:1;s:17:"page.pages.create";b:1;s:15:"page.pages.edit";b:1;s:18:"page.pages.destroy";b:1;s:22:"setting.settings.index";b:1;s:21:"setting.settings.edit";b:1;s:14:"tag.tags.index";b:1;s:15:"tag.tags.create";b:1;s:13:"tag.tags.edit";b:1;s:16:"tag.tags.destroy";b:1;s:30:"translation.translations.index";b:1;s:29:"translation.translations.edit";b:1;s:31:"translation.translations.import";b:1;s:31:"translation.translations.export";b:1;s:16:"user.users.index";b:1;s:17:"user.users.create";b:1;s:15:"user.users.edit";b:1;s:18:"user.users.destroy";b:1;s:16:"user.roles.index";b:1;s:17:"user.roles.create";b:1;s:15:"user.roles.edit";b:1;s:18:"user.roles.destroy";b:1;s:22:"account.api-keys.index";b:1;s:23:"account.api-keys.create";b:1;s:24:"account.api-keys.destroy";b:1;s:20:"account.tokens.index";b:1;s:21:"account.tokens.create";b:1;s:22:"account.tokens.destroy";b:1;s:22:"workshop.sidebar.group";b:1;s:22:"workshop.modules.index";b:1;s:21:"workshop.modules.show";b:1;s:23:"workshop.modules.update";b:1;s:24:"workshop.modules.disable";b:1;s:23:"workshop.modules.enable";b:1;s:24:"workshop.modules.publish";b:1;s:21:"workshop.themes.index";b:1;s:20:"workshop.themes.show";b:1;s:23:"workshop.themes.publish";b:1;}s:10:"last_login";s:19:"2021-08-23 10:03:22";s:10:"first_name";s:9:"Akaunting";s:9:"last_name";s:3:"Inc";s:10:"created_at";s:19:"2017-11-01 21:24:31";s:10:"updated_at";s:19:"2021-08-23 10:03:22";s:11:"bill_fields";O:8:"stdClass":8:{s:9:"firstName";s:9:"Akaunting";s:8:"lastName";s:3:"Inc";s:7:"company";s:13:"Akaunting Inc";s:5:"email";s:18:"info@akaunting.com";s:15:"shippingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"billingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"identityNumber";s:11:"23362380457";s:12:"mobileNumber";s:11:"05000000000";}s:11:"iyzipay_key";s:28:"c6XJeExPXQUbeks9bVMkK3ln7SI=";s:6:"params";s:108:"{"location":{"continent":"Asia","country":"Turkey","region":"Istanbul","city":"Istanbul"},"stage":"revenue"}";s:10:"deleted_at";N;}}s:7:"reviews";a:33:{i:0;O:8:"stdClass":11:{s:2:"id";i:376;s:7:"item_id";i:29;s:7:"user_id";i:116959;s:6:"author";s:15:"Caroline Okello";s:11:"description";s:0:"";s:4:"text";s:211:"This is an awesome App for small business owners.  My Clients with small business love it because its simple to use and user friendly.  We also received quick support on tickets.  I appreciated that.  Thank you.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2021-08-01 19:46:30";s:10:"updated_at";s:19:"2021-08-02 10:30:09";s:10:"deleted_at";N;}i:1;O:8:"stdClass":11:{s:2:"id";i:368;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:6:"Jerome";s:11:"description";s:0:"";s:4:"text";s:124:"I love the flexibility of this app that I find it very easy and effective to use. Works great and meets all my requirements.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2021-07-14 20:07:00";s:10:"updated_at";s:19:"2021-07-28 20:06:08";s:10:"deleted_at";N;}i:2;O:8:"stdClass":11:{s:2:"id";i:360;s:7:"item_id";i:29;s:7:"user_id";i:130470;s:6:"author";s:5:"David";s:11:"description";s:0:"";s:4:"text";s:105:"Great, easy to use app with helpful functionality. Support team have been great too when I've had issues.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2021-06-26 10:38:11";s:10:"updated_at";s:19:"2021-06-26 10:54:04";s:10:"deleted_at";N;}i:3;O:8:"stdClass":11:{s:2:"id";i:339;s:7:"item_id";i:29;s:7:"user_id";i:125107;s:6:"author";s:7:"Desmond";s:11:"description";s:0:"";s:4:"text";s:91:"Very easy to use. Would be better if there is a CSV import functionality for journal entry.";s:6:"rating";i:4;s:6:"status";i:2;s:10:"created_at";s:19:"2021-05-03 15:41:14";s:10:"updated_at";s:19:"2021-05-10 23:23:34";s:10:"deleted_at";N;}i:4;O:8:"stdClass":11:{s:2:"id";i:335;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:7:"Trenton";s:11:"description";s:0:"";s:4:"text";s:226:"I've searched for an app like this for a long time and finally met Akaunting and this app. It answers all my needs with huge ease and works really great. Highly recommended if you're looking for a double-entry accounting app. ";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2021-04-25 22:04:00";s:10:"updated_at";s:19:"2021-04-26 22:57:05";s:10:"deleted_at";N;}i:5;O:8:"stdClass":11:{s:2:"id";i:325;s:7:"item_id";i:29;s:7:"user_id";i:119140;s:6:"author";s:6:"Hakeem";s:11:"description";s:0:"";s:4:"text";s:624:"This app really brings Akaunting in the same league as others such as QBO, Xero, etc. The functionalities are still somewhat premature, however, it is sufficient for basic double-entry bookkeeping.
+
+It could be nice if once we add this Double Entry app, the elements of single entry are removed entirely as it gets quite confusing, but manageable. Perhaps this could be easily done as this app is officially theirs anyway.
+
+I will be looking forward to see how well this app develops, as well as Akaunting itself!
+
+The support is very prompt and helpful. They helped resolve whatever issues we ran into. 
+
+Cheers! :)";s:6:"rating";i:4;s:6:"status";i:2;s:10:"created_at";s:19:"2021-04-02 18:11:51";s:10:"updated_at";s:19:"2021-04-20 18:43:14";s:10:"deleted_at";N;}i:6;O:8:"stdClass":11:{s:2:"id";i:302;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:3:"Pam";s:11:"description";s:0:"";s:4:"text";s:92:"It has good features and is really easy to use when adding accounts, creating entries, etc. ";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-11-30 16:11:00";s:10:"updated_at";s:19:"2020-12-04 16:21:19";s:10:"deleted_at";N;}i:7;O:8:"stdClass":11:{s:2:"id";i:301;s:7:"item_id";i:29;s:7:"user_id";i:77631;s:6:"author";s:5:"Diego";s:11:"description";s:0:"";s:4:"text";s:364:"It's really easy to use, recording transactions and preparing balances and statements is a piece of cake. It really simplified our annual balance sheet preparation, our accountants log in and they have all the info they need.
+
+The development team is so helpful, they fixed several issues I reported. The only thing I miss is an API for creating journal entries.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-11-23 18:49:16";s:10:"updated_at";s:19:"2020-11-23 22:08:00";s:10:"deleted_at";N;}i:8;O:8:"stdClass":11:{s:2:"id";i:281;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:7:"Vukomir";s:11:"description";s:0:"";s:4:"text";s:137:"Very easy to use and understand. Could be better if we can select more currencies when creating an entry but I still find it very useful.";s:6:"rating";i:4;s:6:"status";i:2;s:10:"created_at";s:19:"2020-10-11 17:10:00";s:10:"updated_at";s:19:"2020-11-06 17:18:39";s:10:"deleted_at";N;}i:9;O:8:"stdClass":11:{s:2:"id";i:214;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:5:"Sofie";s:11:"description";s:0:"";s:4:"text";s:224:"This app makes Akaunting a real accounting software. It allows me to keep my company's records even without a need for an accountant.  It has a really easy-to-use interface and it makes this app very friendly one more time. ";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-09-29 16:09:00";s:10:"updated_at";s:19:"2020-11-03 17:47:42";s:10:"deleted_at";N;}i:10;O:8:"stdClass":11:{s:2:"id";i:236;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:4:"Gene";s:11:"description";s:0:"";s:4:"text";s:99:"It is really easy to use and it also comes with many useful default accounts which is really great.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-09-17 15:09:00";s:10:"updated_at";s:19:"2020-11-03 15:16:32";s:10:"deleted_at";N;}i:11;O:8:"stdClass":11:{s:2:"id";i:193;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:9:"Francisco";s:11:"description";s:0:"";s:4:"text";s:137:"It's so simple and easy that you didn't required to hire any accountant on extra wages. You only need basic knowledge to use this module.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-08-10 14:09:47";s:10:"updated_at";s:19:"2020-08-10 14:09:47";s:10:"deleted_at";N;}i:12;O:8:"stdClass":11:{s:2:"id";i:192;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:7:"Mohamed";s:11:"description";s:0:"";s:4:"text";s:65:"I enjoy how you can have multiple companies in one users profile.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-07-17 14:09:47";s:10:"updated_at";s:19:"2020-07-17 14:09:47";s:10:"deleted_at";N;}i:13;O:8:"stdClass":11:{s:2:"id";i:163;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:6:"Rajesh";s:11:"description";s:0:"";s:4:"text";s:328:"We set up our Chart of Accounts a couple of months after purchasing the app and were able to re-code everything in order to line up with the new Chart of Accounts. Our adjusted Balance Sheet and P&L reports were a breeze to produce. When it's time for taxes, our CPA simply logs and gets everything she needs. It's a life saver.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-06-24 14:09:47";s:10:"updated_at";s:19:"2020-06-24 14:09:47";s:10:"deleted_at";N;}i:14;O:8:"stdClass":11:{s:2:"id";i:162;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:9:"Kelvinson";s:11:"description";s:0:"";s:4:"text";s:184:"This app has made accounting for my new small business a breeze. Creating chart of accounts and assigning invoice items is simple and straightforward. It's very easy to "do the books".";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-06-12 14:09:47";s:10:"updated_at";s:19:"2020-06-12 14:09:47";s:10:"deleted_at";N;}i:15;O:8:"stdClass":11:{s:2:"id";i:161;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:8:"Michaela";s:11:"description";s:0:"";s:4:"text";s:312:"The application is convenient, its interface is much simpler than that of QuickBooks. I can use it both myself and with the team. For this, team schedules are provided. I'd like it more if it had more options as one can not access the report from the mobile app. Overall I had a positive experience with the app.";s:6:"rating";i:4;s:6:"status";i:2;s:10:"created_at";s:19:"2020-06-08 14:09:47";s:10:"updated_at";s:19:"2020-06-08 14:09:47";s:10:"deleted_at";N;}i:16;O:8:"stdClass":11:{s:2:"id";i:115;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:6:"Daniel";s:11:"description";s:0:"";s:4:"text";s:278:"The reason for switching to Akaunting is the extremely difficult to use of MYOB and it's dinosaur in the industry. MYOB is expensive and just horrible to use. This app is a must for "real" accounting and I believe it will make Akaunting a leader in accounting software industry.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-05-21 14:09:47";s:10:"updated_at";s:19:"2020-05-21 14:09:47";s:10:"deleted_at";N;}i:17;O:8:"stdClass":11:{s:2:"id";i:114;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:4:"Arun";s:11:"description";s:0:"";s:4:"text";s:98:"The latest version fixed a lot of issues I had reported. Thank you guys for keeping it up-to-date.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-05-19 14:09:47";s:10:"updated_at";s:19:"2020-05-19 14:09:47";s:10:"deleted_at";N;}i:18;O:8:"stdClass":11:{s:2:"id";i:91;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:4:"Pina";s:11:"description";s:0:"";s:4:"text";s:175:"I love how easy is printing needed month end reports such as Profit & Loss Statements, Balance Sheets, Trial Balances, etc. is simple and requires minimal steps to accomplish.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-05-04 14:09:47";s:10:"updated_at";s:19:"2020-05-04 14:09:47";s:10:"deleted_at";N;}i:19;O:8:"stdClass":11:{s:2:"id";i:90;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:6:"Yvonne";s:11:"description";s:0:"";s:4:"text";s:282:"It's pretty easy to take my reports in to my accountant each month/year and have her do my taxes. I own a small business with 4 or more employees and this app has made it possible for me to do my own books all these times and keep better track of what is going on with our finances.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-20 14:09:47";s:10:"updated_at";s:19:"2020-04-20 14:09:47";s:10:"deleted_at";N;}i:20;O:8:"stdClass":11:{s:2:"id";i:89;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:7:"Michael";s:11:"description";s:0:"";s:4:"text";s:250:"Reporting is very simple and logical for accountant. It is very easy to generate income statement and balance sheet, double click on any number and export details in Excel right away.
+
+I would like to have COA selection per Revenue and Payment too.";s:6:"rating";i:3;s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-12 14:09:47";s:10:"updated_at";s:19:"2020-04-12 14:09:47";s:10:"deleted_at";N;}i:21;O:8:"stdClass":11:{s:2:"id";i:73;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:6:"Austin";s:11:"description";s:0:"";s:4:"text";s:332:"We are a growing company and it is great to be able to rely on double-entry accounting for our book-keeping needs. The app is very user friendly and the reporting is much better then default one. Any bumps or questions we have run into have been quickly solved by their support. Given the opportunity we would choose this app again.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-08 14:09:47";s:10:"updated_at";s:19:"2020-04-08 14:09:47";s:10:"deleted_at";N;}i:22;O:8:"stdClass":11:{s:2:"id";i:60;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:7:"Bradley";s:11:"description";s:0:"";s:4:"text";s:471:"Accounting departments will love this! It turns Akaunting into a more accounting compliant software because we can assign each invoice item to a different chart of account and therefore get a more precise report. While we can print and export reports to excel, I would love if we could send the report via email directly from Akaunting :-) 
+
+All in all, we now save a huge amount of time because we don't have to reconcile the data between projects/invoices/accounting.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-02 14:09:47";s:10:"updated_at";s:19:"2020-04-02 14:09:47";s:10:"deleted_at";N;}i:23;O:8:"stdClass":11:{s:2:"id";i:59;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:4:"Leah";s:11:"description";s:0:"";s:4:"text";s:230:"This is just amazing. Does everything we need it to do, easy to work with, create unlimited reports, and the team is great at helping you get set up and answering any questions quickly. All Akaunting apps should be just like this!";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-03-15 14:09:47";s:10:"updated_at";s:19:"2020-03-15 14:09:47";s:10:"deleted_at";N;}i:24;O:8:"stdClass":11:{s:2:"id";i:78;s:7:"item_id";i:29;s:7:"user_id";i:50;s:6:"author";s:3:"Ben";s:11:"description";s:0:"";s:4:"text";s:296:"Our management decided to implement double entry accounting and what a great app it has been. I no longer have to do any double entry or speak to finance/credit control to see if my customers accounts are up to date. As an account manager it makes my life much easier. Cant recommend this enough.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-01-30 14:09:47";s:10:"updated_at";s:19:"2020-01-30 14:09:47";s:10:"deleted_at";N;}i:25;O:8:"stdClass":11:{s:2:"id";i:43;s:7:"item_id";i:29;s:7:"user_id";i:36119;s:6:"author";s:7:"Eduardo";s:11:"description";s:0:"";s:4:"text";s:85:"Perfect!
+
+Exactly what I need AND MORE! An excellent app that everyone should have.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2019-09-24 19:57:46";s:10:"updated_at";s:19:"2019-09-24 21:46:19";s:10:"deleted_at";N;}i:26;O:8:"stdClass":11:{s:2:"id";i:28;s:7:"item_id";i:29;s:7:"user_id";i:36503;s:6:"author";s:5:"Linda";s:11:"description";s:0:"";s:4:"text";s:394:"Double-Entry app not only saves me a lot of time but also makes on-the-go and accurate accounting possible for our business. We're a middle-sized company and recording transactions to the proper ledger is very important, otherwise, it's very hard to see the correct in and out. I would suggest to the Akaunting team to add Double-Entry to the core as it's really a must for companies like ours.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2019-05-15 18:45:28";s:10:"updated_at";s:19:"2019-05-15 18:45:28";s:10:"deleted_at";N;}i:27;O:8:"stdClass":11:{s:2:"id";i:17;s:7:"item_id";i:29;s:7:"user_id";i:29101;s:6:"author";s:5:"Lukas";s:11:"description";s:0:"";s:4:"text";s:127:"This app turns Akaunting into something actually manageable. Love the ability to track in and out between accounts time easily.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2019-03-01 21:00:00";s:10:"updated_at";s:19:"2019-03-01 21:00:00";s:10:"deleted_at";N;}i:28;O:8:"stdClass":11:{s:2:"id";i:13;s:7:"item_id";i:29;s:7:"user_id";i:19503;s:6:"author";s:4:"Aziz";s:11:"description";s:0:"";s:4:"text";s:333:"the most wanted function for me just came and Im extremely happy with it,
+i just wished if there is a way to give the journal-entry to give each line a separate description. i do use it a lot and i need to give each line its description better than make each entry with only one line with its description on the only top text field.";s:6:"rating";i:4;s:6:"status";i:2;s:10:"created_at";s:19:"2018-12-11 08:14:27";s:10:"updated_at";s:19:"2018-12-11 08:58:15";s:10:"deleted_at";N;}i:29;O:8:"stdClass":11:{s:2:"id";i:12;s:7:"item_id";i:29;s:7:"user_id";i:341;s:6:"author";s:7:"Michael";s:11:"description";s:0:"";s:4:"text";s:516:"Accounting was probably the most intimidating part of starting a business for the first time. I went with Akaunting because it looked very easy in comparing with others, especially QBO. However, as the core of Akaunting is single-entry, the acquisition of this app is very important because it helps us in an easy way the implantation of follow-ups regarding the turnover of our company.
+
+I don't like how the balance sheet is shown atm but devs are working on improving it based on my feedback so I can handle it.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2018-12-04 11:38:24";s:10:"updated_at";s:19:"2018-12-04 11:40:26";s:10:"deleted_at";N;}i:30;O:8:"stdClass":11:{s:2:"id";i:10;s:7:"item_id";i:29;s:7:"user_id";i:387;s:6:"author";s:5:"Faith";s:11:"description";s:0:"";s:4:"text";s:200:"I love what Akaunting offers within the core and through this app. Manual journal entries resolve my bookkeeping errors. Trial balance is my favorite report and would recommend adding an aging report.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2018-11-29 14:14:18";s:10:"updated_at";s:19:"2018-11-29 14:14:18";s:10:"deleted_at";N;}i:31;O:8:"stdClass":11:{s:2:"id";i:7;s:7:"item_id";i:29;s:7:"user_id";i:51;s:6:"author";s:5:"Sonam";s:11:"description";s:0:"";s:4:"text";s:808:"Akaunting offers a single-entry bookkeeping service on its core platform which is great if one tries to keep their books. But, at our company, we have some investors and need to be more diligent to stakeholders. So, we have a crucial need to hold our books as a chart of accounts. With the double-entry accounting app, we are able to make a transaction in two separate accounts for one transaction.
+
+We used to use Freshbooks for bookkeeping and realized that it was not easy to set the assets equal to the liabilities and the equity. So, we started to look for tools that offer double-entry service. The investors and management team is concerned about data privacy. And, we ended up using Akaunting, and it's double-entry app.
+
+Pros: Double-entry app increases financial accountability.
+Cons: None :-)";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2018-10-18 20:56:20";s:10:"updated_at";s:19:"2018-12-04 11:41:14";s:10:"deleted_at";N;}i:32;O:8:"stdClass":11:{s:2:"id";i:5;s:7:"item_id";i:29;s:7:"user_id";i:2;s:6:"author";s:3:"Jon";s:11:"description";s:0:"";s:4:"text";s:140:"Double entry bookkeeping was the missing feature of Akaunting and I'm glad to see it getting improved each day. Keep up the great work guys.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2018-09-12 14:10:18";s:10:"updated_at";s:19:"2018-09-14 13:46:38";s:10:"deleted_at";N;}}s:5:"files";O:8:"stdClass":1:{s:1:"2";O:8:"stdClass":13:{s:2:"id";i:2234;s:8:"filename";s:23:"double-entry-logo_1.png";s:4:"path";O:8:"stdClass":0:{}s:9:"extension";s:3:"png";s:8:"mimetype";s:10:"image/jpeg";s:8:"filesize";s:5:"47185";s:9:"folder_id";i:0;s:10:"created_at";s:19:"2020-04-14 16:44:12";s:10:"updated_at";s:19:"2020-04-14 16:44:12";s:10:"deleted_at";N;s:11:"path_string";s:94:"https://akaunting.com/public/assets/media/4-akaunting-inc/double-entry/double-entry-logo_1.png";s:10:"media_type";s:5:"image";s:5:"pivot";O:8:"stdClass":6:{s:12:"imageable_id";i:29;s:7:"file_id";i:2234;s:4:"zone";s:9:"thumbnail";s:2:"id";i:1869;s:10:"created_at";s:19:"2020-04-14 16:44:12";s:10:"updated_at";s:19:"2021-06-23 18:40:20";}}}s:4:"name";s:12:"Double-Entry";s:4:"slug";s:12:"double-entry";s:11:"description";s:689:"<p>Looking for&nbsp;Chart of Accounts, Journal Entry, General Ledger, Balance Sheet, and Trial Balance?&nbsp;This app brings the double-entry accounting features to Akaunting.</p>
+
+<p>Akaunting ships with single-entry accounting feature set. However, some of the businesses, whether they use the cash-basis accounting method or the accrual accounting method, use double-entry bookkeeping to keep their books. Double-entry accounting is a practice that helps minimize errors and increases the chance that your books balance.</p>
+
+<p>If you&#39;re an accountant, thanks to the multi-company feature of Akaunting, you can manage the financials of unlimited companies using this app.</p>
+";s:12:"installation";s:103:"<p>Install the app within one click from your Akaunting admin panel, Apps &gt; Double-Entry page.</p>
+";s:9:"changelog";b:0;s:3:"faq";s:0:"";}i:1;O:8:"stdClass":41:{s:2:"id";i:35;s:11:"category_id";i:13;s:9:"vendor_id";i:206;s:6:"amount";s:7:"49.0000";s:13:"compatibility";a:3:{i:0;s:2:"1x";i:1;s:2:"2x";i:2;s:3:"21x";}s:19:"available_languages";N;s:7:"version";s:5:"2.1.6";s:11:"dev_version";s:0:"";s:4:"demo";s:38:"http://estimates-demo.burakcakirel.com";s:10:"repository";s:26:"akaunting/module-estimates";s:12:"payment_type";s:6:"yearly";s:8:"featured";i:1;s:6:"status";i:2;s:12:"published_at";s:19:"2018-10-02 18:43:14";s:10:"created_at";s:19:"2018-10-02 18:43:14";s:10:"updated_at";s:19:"2021-06-25 11:26:25";s:10:"deleted_at";N;s:13:"category_name";s:10:"Accounting";s:11:"vendor_name";s:15:"Burak Çakırel";s:5:"price";s:3:"$64";s:13:"special_price";s:3:"$49";s:20:"subscription_message";s:158:"All purchases are billed yearly. You may cancel the subscription at any time and can continue to use the app. Subscription refers to support and updates only.";s:4:"vote";i:5;s:12:"total_review";i:17;s:10:"total_vote";i:84;s:8:"releases";b:0;s:12:"app_releases";O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:5:{i:0;O:8:"stdClass":6:{s:9:"item_slug";s:9:"estimates";s:17:"akaunting_version";s:6:"2.1.11";s:7:"version";s:5:"2.1.6";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-05-03 15:37:14";s:9:"changelog";s:105:"<ul>
+<li>Fixed: Not sending PDF attachment via email</li>
+<li>Fixed: 500 error on signed urls</li>
+</ul>
+";}i:1;O:8:"stdClass":6:{s:9:"item_slug";s:9:"estimates";s:17:"akaunting_version";s:6:"2.1.10";s:7:"version";s:5:"2.1.5";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-04-22 02:04:40";s:9:"changelog";s:48:"<ul><li>Akaunting 2.1.10 compatibility</li></ul>";}i:2;O:8:"stdClass":6:{s:9:"item_slug";s:9:"estimates";s:17:"akaunting_version";s:6:"2.1.10";s:7:"version";s:5:"2.1.4";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-04-21 16:28:31";s:9:"changelog";s:48:"<ul><li>Akaunting 2.1.10 compatibility</li></ul>";}i:3;O:8:"stdClass":6:{s:9:"item_slug";s:9:"estimates";s:17:"akaunting_version";s:5:"2.1.0";s:7:"version";s:5:"2.1.3";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-02-22 00:00:00";s:9:"changelog";s:172:"<ul><li>Fixed: Estimate menu item is shown for all companies</li><li>Fixed: Not showing "Mark Sent" button</li><li>Fixed: Settings are not applied to the estimate</li></ul>";}i:4;O:8:"stdClass":6:{s:9:"item_slug";s:9:"estimates";s:17:"akaunting_version";s:5:"2.1.0";s:7:"version";s:5:"2.1.2";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-02-01 00:00:00";s:9:"changelog";s:166:"<ul><li>Fixed: Forbidden access for share URL</li><li>Fixed: Not change estimate colour</li><li>Fixed: Missing approve/refuse buttons in the customer portal</li></ul>";}}s:4:"from";i:1;s:9:"last_page";i:6;s:13:"next_page_url";s:46:"https://api.akaunting.com/apps/featured?page=2";s:4:"path";s:39:"https://api.akaunting.com/apps/featured";s:8:"per_page";s:1:"5";s:13:"prev_page_url";N;s:2:"to";i:5;s:5:"total";i:29;}s:11:"status_type";s:6:"active";s:12:"price_prefix";s:0:"";s:12:"price_suffix";s:0:"";s:12:"translations";a:2:{i:0;O:8:"stdClass":14:{s:2:"id";i:69;s:7:"item_id";i:35;s:6:"locale";s:2:"en";s:5:"price";s:3:"$64";s:4:"name";s:18:"Estimates (Quotes)";s:4:"slug";s:9:"estimates";s:11:"description";s:1249:"<p>Are you looking for the best project app which is just right before the Invoices? Here it is for you.</p>
+
+<p>Turn your estimates into invoices with just one move. You can provide sales quotes to your customers. You will be able to track the sales opportunities, generate estimates for them and then convert this estimate into an invoice.&nbsp;</p>
+
+<p>From now on, you do not need to create and re-write separate estimate and invoice documents. Instead, you can just convert one into the other with a click of a button. Estimates app allows you to send your client a price estimate for potential services or projects. When the client is happy to confirm, they can simply click on &quot;Approve,&quot; and it will convert the estimate into a pre-formatted invoice and allow the client to submit payment online.</p>
+
+<ul>
+	<li>Easy interface to use.</li>
+	<li>Able to pay online converted Estimates.</li>
+	<li>See your estimates by category in the dashboard easily.</li>
+	<li>A quicker and easier way to communicate with your customers.</li>
+	<li>Follow the status of your Estimates and easily can be edited.</li>
+	<li>Unlimited estimates can be created.</li>
+	<li>Attach your files and create Items as many as you want.</li>
+</ul>
+";s:9:"sort_desc";N;s:12:"installation";s:100:"<p>Install the app within one click from your Akaunting admin panel, Apps &gt; Estimates page.</p>
+";s:9:"changelog";b:0;s:3:"faq";s:474:"<p><strong>Estimates vs Proposals</strong></p>
+
+<ul>
+	<li>A quote (estimate) is a reply to a request for product, price, and availability. Generally speaking, the client knows what they want and are looking for specific information on targeted items.</li>
+	<li>A proposal is a reply to a request for a solution or requirement. The client is usually unsure of what they want or are open and looking at options to address their requirements.</li>
+</ul>
+
+<p>&nbsp;</p>
+";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}i:1;O:8:"stdClass":14:{s:2:"id";i:70;s:7:"item_id";i:35;s:6:"locale";s:2:"tr";s:5:"price";i:0;s:4:"name";s:8:"Proforma";s:4:"slug";s:9:"estimates";s:11:"description";s:1249:"<p>Are you looking for the best project app which is just right before the Invoices? Here it is for you.</p>
+
+<p>Turn your estimates into invoices with just one move. You can provide sales quotes to your customers. You will be able to track the sales opportunities, generate estimates for them and then convert this estimate into an invoice.&nbsp;</p>
+
+<p>From now on, you do not need to create and re-write separate estimate and invoice documents. Instead, you can just convert one into the other with a click of a button. Estimates app allows you to send your client a price estimate for potential services or projects. When the client is happy to confirm, they can simply click on &quot;Approve,&quot; and it will convert the estimate into a pre-formatted invoice and allow the client to submit payment online.</p>
+
+<ul>
+	<li>Easy interface to use.</li>
+	<li>Able to pay online converted Estimates.</li>
+	<li>See your estimates by category in the dashboard easily.</li>
+	<li>A quicker and easier way to communicate with your customers.</li>
+	<li>Follow the status of your Estimates and easily can be edited.</li>
+	<li>Unlimited estimates can be created.</li>
+	<li>Attach your files and create Items as many as you want.</li>
+</ul>
+";s:9:"sort_desc";N;s:12:"installation";s:100:"<p>Install the app within one click from your Akaunting admin panel, Apps &gt; Estimates page.</p>
+";s:9:"changelog";s:4682:"<p><strong>2.1.3</strong> - 22 Feb 2021</p>
+
+<ul>
+	<li>Fixed: Estimate menu item is shown for all companies</li>
+	<li>Fixed: Not showing &quot;Mark Sent&quot; button</li>
+	<li>Fixed: Settings are not applied to the estimate</li>
+</ul>
+
+<p><strong>2.1.2</strong> - 1 Feb 2021</p>
+
+<ul>
+	<li>Fixed: Forbidden access for share URL</li>
+	<li>Fixed: Not change estimate colour</li>
+	<li>Fixed: Missing approve/refuse buttons in the customer portal</li>
+</ul>
+
+<p><strong>2.1.1</strong> - 29 Jan 2021</p>
+
+<ul>
+	<li>Added: Sales&amp;Purchase Order app compatibility</li>
+	<li>Added: New settings page</li>
+	<li>Added: New settings page</li>
+	<li>Added: Search and filter estimates</li>
+	<li>Fixed: Import/Export Issue</li>
+	<li>Fixed: No records in Latest Estimate Widget</li>
+	<li>Fixed: Sent status is showed as Not Sent even if it&#39;s sent</li>
+	<li>Fixed: Missing empty page translations and image</li>
+</ul>
+
+<p><strong>2.1.0</strong> - 16 Jan 2021</p>
+
+<ul>
+	<li>Added: Akaunting 2.1 Compatibility</li>
+</ul>
+
+<p><strong>2.0.11</strong> - 19 Jul 2020</p>
+
+<ul>
+	<li>Fixed: Permission issue on portal</li>
+</ul>
+
+<p><strong>2.0.10</strong> - 16 Jul 2020</p>
+
+<ul>
+	<li>Performance improvements on console commands</li>
+	<li>Modify permissions</li>
+	<li>Fixed: Company logo is not displayed in signed page</li>
+</ul>
+
+<p><strong>2.0.9</strong> - 09 Jul 2020</p>
+
+<ul>
+	<li>Change console commands</li>
+</ul>
+
+<p><strong>2.0.8</strong> - 06 Jul 2020</p>
+
+<ul>
+	<li>Akaunting 2.0.16 compatibility</li>
+	<li>Fixed: Error when printing with classic template</li>
+</ul>
+
+<p><strong>2.0.7</strong> - 30 Jun 2020</p>
+
+<ul>
+	<li>Added: Custom Fields compatibility</li>
+	<li>Fixed: Bulk Actions</li>
+</ul>
+
+<p><strong>2.0.6</strong> - 07 Jun 2020</p>
+
+<ul>
+	<li>Fixed: Not found estimates.min.js file in portal</li>
+	<li>Fixed: Wrong total amount after converting an estimate to an invoice</li>
+</ul>
+
+<p><strong>2.0.5</strong> - 20 May 2020</p>
+
+<ul>
+	<li>Fixed: Error on creating an invoice when converting an estimate to an invoice</li>
+</ul>
+
+<p><strong>2.0.4</strong> - 14 May 2020</p>
+
+<ul>
+	<li>Fixed: &quot;Add New&quot; button in item line in estimate create/edit page</li>
+</ul>
+
+<p><strong>2.0.3</strong> - 02 Apr 2020</p>
+
+<ul>
+	<li>Fixed: JS errors in new estimate page</li>
+</ul>
+
+<p><strong>2.0.2</strong> - 20 Mar 2020</p>
+
+<ul>
+	<li>Fixed: Empty item name after v2 upgrade</li>
+	<li>Fixed: Empty items once converting to an invoice</li>
+	<li>Fixed: Show import error message</li>
+</ul>
+
+<p><strong>2.0.1</strong> - 25 Feb 2020</p>
+
+<ul>
+	<li>Fixed: PHP 7.4 compatibility</li>
+	<li>Fixed: Missing language text</li>
+</ul>
+
+<p><strong>2.0.0</strong> - 18 Feb 2020</p>
+
+<ul>
+	<li>Added: Akaunting 2.0 compatibility</li>
+	<li>Added: Email templates</li>
+	<li>Added: Estimate number prefix option</li>
+	<li>Added: Estimate summary report</li>
+	<li>Added: Estimate widgets (By Category, Latest and Total)</li>
+	<li>Added: Import/Export estimates</li>
+</ul>
+
+<p>1.0.9 - 04 Jan 2020</p>
+
+<ul>
+	<li>Fixed: Error when deleting a company</li>
+	<li>Fixed: When creating an estimate the item&#39;s quantity decreased</li>
+</ul>
+
+<p>1.0.8 - 11 Jul 2019</p>
+
+<ul>
+	<li>Fixed: Difference between Tax Total Calculation edit and show page</li>
+</ul>
+
+<p>1.0.7 - 28 Apr 2019</p>
+
+<ul>
+	<li>Fixed: Euro symbol not being displayed in PDF</li>
+</ul>
+
+<p>1.0.6 - 17 Apr 2019</p>
+
+<ul>
+	<li>Fixed: Does not calculate the total amount when adding a new item</li>
+	<li>Added Spanish translation (Thanks Jason Lloyd)</li>
+</ul>
+
+<p>1.0.5 - 20 Jan 2019</p>
+
+<ul>
+	<li>Akaunting 1.3.10 compatibility</li>
+	<li>Delete unnecessary language file</li>
+	<li>Fixed: Totals are not displayed at shared link page</li>
+</ul>
+
+<p>1.0.4 - 27&nbsp;Dec 2018</p>
+
+<ul>
+	<li>Allow to&nbsp;approve/refuse&nbsp;estimate through a unique link</li>
+	<li>Added French translation (Thanks Blaise Drayer)</li>
+	<li>Fixed: Error on Akaunting Cloud&nbsp;when creating a new&nbsp;company</li>
+	<li>Fixed: Not adding the module to modules table when creating a new company</li>
+	<li>Changed: Default language file name changed to &quot;general&quot;</li>
+</ul>
+
+<p>1.0.3 - 26 Nov 2018</p>
+
+<ul>
+	<li>Fix the issue when creating a new estimate</li>
+</ul>
+
+<p>1.0.2 - 25 Nov 2018</p>
+
+<ul>
+	<li>Compatible with Akaunting 1.3.3 version</li>
+</ul>
+
+<p>1.0.1 - 18 Nov 2018</p>
+
+<ul>
+	<li>Fixed blank PDF issue</li>
+	<li>Customer email text can be changed from settings</li>
+</ul>
+
+<p>1.0.0 - 02 Oct 2018</p>
+
+<ul>
+	<li>Initial release</li>
+</ul>
+";s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}}s:8:"category";O:8:"stdClass":8:{s:2:"id";i:13;s:6:"status";i:2;s:10:"created_at";s:19:"2018-01-18 14:44:24";s:10:"updated_at";s:19:"2018-01-18 14:44:24";s:10:"deleted_at";N;s:12:"translations";a:2:{i:0;O:8:"stdClass":6:{s:2:"id";i:25;s:11:"category_id";i:13;s:6:"locale";s:2:"en";s:4:"name";s:10:"Accounting";s:4:"slug";s:10:"accounting";s:10:"deleted_at";N;}i:1;O:8:"stdClass":6:{s:2:"id";i:26;s:11:"category_id";i:13;s:6:"locale";s:2:"tr";s:4:"name";s:8:"Muhasebe";s:4:"slug";s:10:"accounting";s:10:"deleted_at";N;}}s:4:"name";s:10:"Accounting";s:4:"slug";s:10:"accounting";}s:6:"vendor";O:8:"stdClass":19:{s:2:"id";i:206;s:7:"user_id";i:13;s:15:"vendor_group_id";i:1;s:8:"nickname";s:15:"Burak Çakırel";s:4:"slug";s:13:"burak-cakirel";s:6:"github";s:12:"burakcakirel";s:14:"referrer_email";N;s:16:"payoneer_account";s:12:"burakcakirel";s:7:"company";s:15:"Burak Çakırel";s:7:"website";s:19:"burakcakirel.com.tr";s:11:"description";s:17:"Burak Çakırel
+";s:10:"commission";s:2:"30";s:15:"billing_details";O:8:"stdClass":6:{s:4:"name";s:0:"";s:7:"address";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:9:"post_code";s:0:"";s:7:"country";s:0:"";}s:15:"payment_details";O:8:"stdClass":9:{s:12:"payment_type";s:8:"payoneer";s:18:"payment_type_email";s:22:"burakcakirel@gmail.com";s:12:"account_name";s:0:"";s:14:"account_number";s:0:"";s:10:"swift_code";s:0:"";s:9:"bank_name";s:0:"";s:9:"bank_city";s:0:"";s:12:"bank_country";s:0:"";s:13:"currency_code";s:0:"";}s:6:"status";i:2;s:10:"created_at";s:19:"2018-09-29 18:50:05";s:10:"updated_at";s:19:"2020-12-30 14:16:48";s:10:"deleted_at";N;s:4:"user";O:8:"stdClass":12:{s:2:"id";i:13;s:5:"email";s:22:"burakcakirel@gmail.com";s:11:"permissions";a:0:{}s:10:"last_login";s:19:"2021-08-18 13:49:33";s:10:"first_name";s:5:"Burak";s:9:"last_name";s:9:"Çakırel";s:10:"created_at";s:19:"2017-09-15 09:08:39";s:10:"updated_at";s:19:"2021-08-18 13:49:33";s:11:"bill_fields";N;s:11:"iyzipay_key";N;s:6:"params";s:112:"{"location":{"continent":"Asia","country":"Turkey","region":"Istanbul","city":"Istanbul"},"stage":"acquisition"}";s:10:"deleted_at";N;}}s:7:"reviews";a:17:{i:0;O:8:"stdClass":11:{s:2:"id";i:371;s:7:"item_id";i:35;s:7:"user_id";i:50;s:6:"author";s:5:"Milko";s:11:"description";s:0:"";s:4:"text";s:115:"This is a must-have app if you’re sending offers to your customers. This app makes the process easier. Great app!";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2021-07-22 20:07:00";s:10:"updated_at";s:19:"2021-07-28 20:13:26";s:10:"deleted_at";N;}i:1;O:8:"stdClass":11:{s:2:"id";i:319;s:7:"item_id";i:35;s:7:"user_id";i:102699;s:6:"author";s:7:"Syaffin";s:11:"description";s:0:"";s:4:"text";s:249:"I love this app but I have one request for the developer to create the description/remarks column besides the item because I want to elaborate the works that need to be done to my customer.  I hope you can consider my request. Wish you all the best.";s:6:"rating";i:4;s:6:"status";i:2;s:10:"created_at";s:19:"2021-02-02 16:14:35";s:10:"updated_at";s:19:"2021-02-02 16:35:20";s:10:"deleted_at";N;}i:2;O:8:"stdClass":11:{s:2:"id";i:263;s:7:"item_id";i:35;s:7:"user_id";i:50;s:6:"author";s:6:"Lioara";s:11:"description";s:0:"";s:4:"text";s:90:"Well-organized, easy to use, and strong support! It's worth the money. Highly recommended.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-10-20 16:10:00";s:10:"updated_at";s:19:"2020-11-04 16:58:48";s:10:"deleted_at";N;}i:3;O:8:"stdClass":11:{s:2:"id";i:216;s:7:"item_id";i:35;s:7:"user_id";i:50;s:6:"author";s:3:"Amr";s:11:"description";s:0:"";s:4:"text";s:221:"I am using Estimates for a long time it makes creating estimates really easy with its easy interface. But what I like most is that I can convert an estimate to an invoice with just one click! That's great, thank you guys!";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-09-08 15:09:00";s:10:"updated_at";s:19:"2020-11-03 17:45:02";s:10:"deleted_at";N;}i:4;O:8:"stdClass":11:{s:2:"id";i:195;s:7:"item_id";i:35;s:7:"user_id";i:50;s:6:"author";s:4:"Adam";s:11:"description";s:0:"";s:4:"text";s:91:"It helps me progress new client opportunities faster, and the document analytics are great.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-08-07 23:29:32";s:10:"updated_at";s:19:"2020-08-07 01:51:57";s:10:"deleted_at";N;}i:5;O:8:"stdClass":11:{s:2:"id";i:194;s:7:"item_id";i:35;s:7:"user_id";i:50;s:6:"author";s:6:"Naresh";s:11:"description";s:0:"";s:4:"text";s:171:"The app is very easy to use. It is very convenient for the client. No more printing, scanning or faxing. The embedded link feature is great for quotes that you send often.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-07-24 23:29:32";s:10:"updated_at";s:19:"2020-07-24 01:51:57";s:10:"deleted_at";N;}i:6;O:8:"stdClass":11:{s:2:"id";i:157;s:7:"item_id";i:35;s:7:"user_id";i:50;s:6:"author";s:5:"Ralph";s:11:"description";s:0:"";s:4:"text";s:221:"I'm able to create great looking quotes in minutes.
+
+My clients get a great quote and I can get a good sense of their interest from the statistics on the platform.
+
+It is just phenomenally intuitive and well designed.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-06-19 23:29:32";s:10:"updated_at";s:19:"2020-06-19 01:51:57";s:10:"deleted_at";N;}i:7;O:8:"stdClass":11:{s:2:"id";i:156;s:7:"item_id";i:35;s:7:"user_id";i:50;s:6:"author";s:3:"Joe";s:11:"description";s:0:"";s:4:"text";s:274:"I love how easy this is to use. Everything I put together looks instantly professional and polished. It's super versatile. I've used it for quotes, reports, recommendations and more. It's made a huge difference to my business and everyone I share the link with is impressed.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-05-31 23:29:32";s:10:"updated_at";s:19:"2020-05-31 01:51:57";s:10:"deleted_at";N;}i:8;O:8:"stdClass":11:{s:2:"id";i:112;s:7:"item_id";i:35;s:7:"user_id";i:56200;s:6:"author";s:6:"Eugene";s:11:"description";s:0:"";s:4:"text";s:128:"This is really a time saver, and doing quotes now is so easy.
+This developer is quick to respond, and happy to help. Thank you.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-05-15 23:29:32";s:10:"updated_at";s:19:"2020-05-16 01:51:57";s:10:"deleted_at";N;}i:9;O:8:"stdClass":11:{s:2:"id";i:93;s:7:"item_id";i:35;s:7:"user_id";i:50;s:6:"author";s:5:"Ahmad";s:11:"description";s:0:"";s:4:"text";s:271:"This app makes my sales process very smooth. I can create an estimate, get the customer to approve online, roll to an invoice, have them automatically roll to the corresponding monthly invoice, send via email, and track when it's paid.
+
+The support guy is also helpful.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-22 14:09:47";s:10:"updated_at";s:19:"2020-04-22 14:09:47";s:10:"deleted_at";N;}i:10;O:8:"stdClass":11:{s:2:"id";i:92;s:7:"item_id";i:35;s:7:"user_id";i:50;s:6:"author";s:3:"Amy";s:11:"description";s:0:"";s:4:"text";s:156:"I can walk out a customer's door, sit just about anywhere, prepare and send an estimate right on the spot. I like how easy it is to turn them into invoices.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-03 14:09:47";s:10:"updated_at";s:19:"2020-04-03 14:09:47";s:10:"deleted_at";N;}i:11;O:8:"stdClass":11:{s:2:"id";i:82;s:7:"item_id";i:35;s:7:"user_id";i:50;s:6:"author";s:8:"Jonathan";s:11:"description";s:0:"";s:4:"text";s:345:"The integration between our vendors and accounting make the process of generating a professional estimate through placing an order extremely easy. In the past what would take our company days to do can all be done within minutes - no exaggerating! The output is consistent and professional. The details are accurate. It's a wonderful time saver.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-03-18 14:09:47";s:10:"updated_at";s:19:"2020-03-18 14:09:47";s:10:"deleted_at";N;}i:12;O:8:"stdClass":11:{s:2:"id";i:81;s:7:"item_id";i:35;s:7:"user_id";i:50;s:6:"author";s:5:"Amber";s:11:"description";s:0:"";s:4:"text";s:130:"Super clean interface, easy to create estimates for the whole team, add new line items, and deliver quickly to prospects. Love it!";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-01-25 14:09:47";s:10:"updated_at";s:19:"2020-01-25 14:09:47";s:10:"deleted_at";N;}i:13;O:8:"stdClass":11:{s:2:"id";i:80;s:7:"item_id";i:35;s:7:"user_id";i:50;s:6:"author";s:4:"Kaho";s:11:"description";s:0:"";s:4:"text";s:290:"I especially love the ease of use from an admin and user perspective. The value is amazing. It was easy to set up and start using and working with quotes has been so wonderful.
+
+Overall, it helped us solve our problem of consolidating our resources and presenting quotes to our customers.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2019-10-17 14:09:47";s:10:"updated_at";s:19:"2019-10-17 14:09:47";s:10:"deleted_at";N;}i:14;O:8:"stdClass":11:{s:2:"id";i:24;s:7:"item_id";i:35;s:7:"user_id";i:29349;s:6:"author";s:5:"Jason";s:11:"description";s:0:"";s:4:"text";s:134:"Estimates made easy.  A must have if you sell services. Try it  with confidence because you'll get a great support from the developer.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2019-04-18 10:18:59";s:10:"updated_at";s:19:"2019-04-18 11:04:57";s:10:"deleted_at";N;}i:15;O:8:"stdClass":11:{s:2:"id";i:19;s:7:"item_id";i:35;s:7:"user_id";i:25536;s:6:"author";s:6:"Kaylee";s:11:"description";s:0:"";s:4:"text";s:177:"Very functional and easy tool for sending quotes before invoicing. It is extremely easy to use. You can be set up and ready to go very quickly. Their customer support is superb.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2019-03-15 18:08:28";s:10:"updated_at";s:19:"2019-03-14 21:00:00";s:10:"deleted_at";N;}i:16;O:8:"stdClass":11:{s:2:"id";i:6;s:7:"item_id";i:35;s:7:"user_id";i:50;s:6:"author";s:4:"Alex";s:11:"description";s:0:"";s:4:"text";s:171:"I was looking for a quotation system so that my clients could accept the quotes and I could convert to invoice within one click. This app does it perfectly, thanks, Burak.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2018-10-20 20:50:48";s:10:"updated_at";s:19:"2018-10-20 20:50:48";s:10:"deleted_at";N;}}s:5:"files";O:8:"stdClass":1:{s:1:"1";O:8:"stdClass":13:{s:2:"id";i:2227;s:8:"filename";s:20:"estimates-logo_1.jpg";s:4:"path";O:8:"stdClass":0:{}s:9:"extension";s:3:"jpg";s:8:"mimetype";s:10:"image/jpeg";s:8:"filesize";s:5:"43999";s:9:"folder_id";i:0;s:10:"created_at";s:19:"2020-04-13 13:37:45";s:10:"updated_at";s:19:"2020-04-13 13:37:45";s:10:"deleted_at";N;s:11:"path_string";s:90:"https://akaunting.com/public/assets/media/206-burak-cakirel/estimates/estimates-logo_1.jpg";s:10:"media_type";s:5:"image";s:5:"pivot";O:8:"stdClass":6:{s:12:"imageable_id";i:35;s:7:"file_id";i:2227;s:4:"zone";s:9:"thumbnail";s:2:"id";i:1864;s:10:"created_at";s:19:"2020-04-13 13:44:02";s:10:"updated_at";s:19:"2021-06-25 11:26:25";}}}s:4:"name";s:18:"Estimates (Quotes)";s:4:"slug";s:9:"estimates";s:11:"description";s:1249:"<p>Are you looking for the best project app which is just right before the Invoices? Here it is for you.</p>
+
+<p>Turn your estimates into invoices with just one move. You can provide sales quotes to your customers. You will be able to track the sales opportunities, generate estimates for them and then convert this estimate into an invoice.&nbsp;</p>
+
+<p>From now on, you do not need to create and re-write separate estimate and invoice documents. Instead, you can just convert one into the other with a click of a button. Estimates app allows you to send your client a price estimate for potential services or projects. When the client is happy to confirm, they can simply click on &quot;Approve,&quot; and it will convert the estimate into a pre-formatted invoice and allow the client to submit payment online.</p>
+
+<ul>
+	<li>Easy interface to use.</li>
+	<li>Able to pay online converted Estimates.</li>
+	<li>See your estimates by category in the dashboard easily.</li>
+	<li>A quicker and easier way to communicate with your customers.</li>
+	<li>Follow the status of your Estimates and easily can be edited.</li>
+	<li>Unlimited estimates can be created.</li>
+	<li>Attach your files and create Items as many as you want.</li>
+</ul>
+";s:12:"installation";s:100:"<p>Install the app within one click from your Akaunting admin panel, Apps &gt; Estimates page.</p>
+";s:9:"changelog";b:0;s:3:"faq";s:474:"<p><strong>Estimates vs Proposals</strong></p>
+
+<ul>
+	<li>A quote (estimate) is a reply to a request for product, price, and availability. Generally speaking, the client knows what they want and are looking for specific information on targeted items.</li>
+	<li>A proposal is a reply to a request for a solution or requirement. The client is usually unsure of what they want or are open and looking at options to address their requirements.</li>
+</ul>
+
+<p>&nbsp;</p>
+";}i:2;O:8:"stdClass":41:{s:2:"id";i:53;s:11:"category_id";i:10;s:9:"vendor_id";i:4;s:6:"amount";s:7:"69.0000";s:13:"compatibility";a:3:{i:0;s:2:"1x";i:1;s:2:"2x";i:2;s:3:"21x";}s:19:"available_languages";N;s:7:"version";s:5:"3.0.3";s:11:"dev_version";s:5:"3.0.3";s:4:"demo";s:0:"";s:10:"repository";s:26:"akaunting/module-inventory";s:12:"payment_type";s:6:"yearly";s:8:"featured";i:1;s:6:"status";i:2;s:12:"published_at";s:19:"2019-04-09 14:04:00";s:10:"created_at";s:19:"2019-02-04 14:30:56";s:10:"updated_at";s:19:"2021-08-22 18:30:35";s:10:"deleted_at";N;s:13:"category_name";s:9:"Inventory";s:11:"vendor_name";s:13:"Akaunting Inc";s:5:"price";s:3:"$90";s:13:"special_price";s:3:"$69";s:20:"subscription_message";s:158:"All purchases are billed yearly. You may cancel the subscription at any time and can continue to use the app. Subscription refers to support and updates only.";s:4:"vote";i:5;s:12:"total_review";i:23;s:10:"total_vote";i:113;s:8:"releases";b:0;s:12:"app_releases";O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:5:{i:0;O:8:"stdClass":6:{s:9:"item_slug";s:9:"inventory";s:17:"akaunting_version";s:6:"2.1.22";s:7:"version";s:5:"3.0.3";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-08-22 18:30:35";s:9:"changelog";s:38:"<ul>
+<li>Added: Empty Page</li>
+</ul>
+";}i:1;O:8:"stdClass":6:{s:9:"item_slug";s:9:"inventory";s:17:"akaunting_version";s:6:"2.1.22";s:7:"version";s:5:"3.0.2";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-08-18 17:57:44";s:9:"changelog";s:56:"<ul>
+<li>Fixed: Transfer order history issue</li>
+</ul>
+";}i:2;O:8:"stdClass":6:{s:9:"item_slug";s:9:"inventory";s:17:"akaunting_version";s:6:"2.1.22";s:7:"version";s:5:"3.0.1";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-08-18 11:44:35";s:9:"changelog";s:74:"<ul>
+<li>Added: Integration with the Credit/Debit Notes module</li>
+</ul>
+";}i:3;O:8:"stdClass":6:{s:9:"item_slug";s:9:"inventory";s:17:"akaunting_version";s:6:"2.1.22";s:7:"version";s:5:"3.0.0";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-08-15 14:21:30";s:9:"changelog";s:385:"<ul>
+<li>Added: Adjustment</li>
+<li>Added: Dashboard</li>
+<li>Added: Transfer order show page</li>
+<li>Added: Transfer order multi items </li>
+<li>Added: Item create page add group</li>
+<li>Added: Warehouse added country/cities fields</li>
+<li>Updated: Item show page</li>
+<li>Updated: Warehouse show page</li>
+<li>Updated: History</li>
+<li>Updated: Options change variants</li>
+</ul>
+";}i:4;O:8:"stdClass":6:{s:9:"item_slug";s:9:"inventory";s:17:"akaunting_version";s:6:"2.1.21";s:7:"version";s:6:"2.2.10";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-08-04 13:02:21";s:9:"changelog";s:52:"<ul>
+<li>Fixed: Item reorder level issue</li>
+</ul>
+";}}s:4:"from";i:1;s:9:"last_page";i:13;s:13:"next_page_url";s:46:"https://api.akaunting.com/apps/featured?page=2";s:4:"path";s:39:"https://api.akaunting.com/apps/featured";s:8:"per_page";s:1:"5";s:13:"prev_page_url";N;s:2:"to";i:5;s:5:"total";i:62;}s:11:"status_type";s:6:"active";s:12:"price_prefix";s:0:"";s:12:"price_suffix";s:0:"";s:12:"translations";a:2:{i:0;O:8:"stdClass":14:{s:2:"id";i:105;s:7:"item_id";i:53;s:6:"locale";s:2:"en";s:5:"price";s:3:"$90";s:4:"name";s:9:"Inventory";s:4:"slug";s:9:"inventory";s:11:"description";s:1560:"<p>Almost all product-based businesses need reliable and simple inventory management software. Introducing an easy way for companies and small businesses to keep track of their inventory.</p>
+
+<p>The Akaunting and Inventory management is under one roof. An easy way to manage your ordering, storing, and using a company&#39;s inventory with the Inventory App.&nbsp;</p>
+
+<p>The current inventory of Akaunting lets you keep track of your stock at a basic level. With this app, you can do advanced inventory management using native inventory features like Composite Bulk Adjustments. You will be able to see a complete overview of all the stocked products that you have. You can also automatically generate in-detailed reports with the simple click of a button.</p>
+
+<p>Inventory app is one of the most needed applications for managing all products, from raw materials to finished products and running warehouse processes. With this app, you can easily monitor the stock status, run your supply chains smoothly, and thus significantly reduce the risks such as excess stock or shortage.</p>
+
+<ul>
+	<li>A complete overview of all the stocked products that you have.</li>
+	<li>Automatically generates in-detailed reports with the simple click of a button.</li>
+	<li>Inventory App also has many other dynamic features and tools to help with inventory control and management.</li>
+</ul>
+
+<p>Take inventory management to the next level by creating a fully customizable product catalog to take complete control over your sale and purchase processes.</p>
+";s:9:"sort_desc";s:47:"<p>The future of the Inventory management</p>
+";s:12:"installation";s:118:"<p>Install the app within one click from your Akaunting &gt; Apps &gt; Inventory page then go to&nbsp;Inventory.</p>
+";s:9:"changelog";b:0;s:3:"faq";s:0:"";s:15:"marketing_title";s:38:"The future of the Inventory management";s:21:"marketing_description";s:494:"<p><span id="docs-internal-guid-7fcfa5a1-7fff-dc4d-504b-082462c9805f"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(85, 85, 85); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Almost all product-based businesses need reliable and simple inventory management software. Introducing an easy way for companies and small businesses to keep track of their inventory.</span></span></p>
+";s:10:"deleted_at";N;}i:1;O:8:"stdClass":14:{s:2:"id";i:106;s:7:"item_id";i:53;s:6:"locale";s:2:"tr";s:5:"price";i:0;s:4:"name";s:14:"Stok Yönetimi";s:4:"slug";s:9:"inventory";s:11:"description";s:1560:"<p>Almost all product-based businesses need reliable and simple inventory management software. Introducing an easy way for companies and small businesses to keep track of their inventory.</p>
+
+<p>The Akaunting and Inventory management is under one roof. An easy way to manage your ordering, storing, and using a company&#39;s inventory with the Inventory App.&nbsp;</p>
+
+<p>The current inventory of Akaunting lets you keep track of your stock at a basic level. With this app, you can do advanced inventory management using native inventory features like Composite Bulk Adjustments. You will be able to see a complete overview of all the stocked products that you have. You can also automatically generate in-detailed reports with the simple click of a button.</p>
+
+<p>Inventory app is one of the most needed applications for managing all products, from raw materials to finished products and running warehouse processes. With this app, you can easily monitor the stock status, run your supply chains smoothly, and thus significantly reduce the risks such as excess stock or shortage.</p>
+
+<ul>
+	<li>A complete overview of all the stocked products that you have.</li>
+	<li>Automatically generates in-detailed reports with the simple click of a button.</li>
+	<li>Inventory App also has many other dynamic features and tools to help with inventory control and management.</li>
+</ul>
+
+<p>Take inventory management to the next level by creating a fully customizable product catalog to take complete control over your sale and purchase processes.</p>
+";s:9:"sort_desc";s:47:"<p>The future of the Inventory management</p>
+";s:12:"installation";s:148:"<p>Uygulamayı Akaunting &gt; Uygulamalar &gt; Inventory sayfanızdan tek bir tıklamayla y&uuml;kleyin, ardından&nbsp;Inventory&#39;e gidin.</p>
+";s:9:"changelog";s:5259:"<p>2.1.2 - 01 Şub 2021</p>
+
+<ul>
+	<li>Eklendi: Arama &ouml;zelliği</li>
+	<li>Eklendi: Varsayılan depo &ouml;zlelliği</li>
+	<li>D&uuml;zenlendi: &Ouml;ğelere fotoğraf ekleme sorunu</li>
+	<li>D&uuml;zenlendi: &Ouml;ğeleri i&ccedil;e aktarma sorunu</li>
+	<li>D&uuml;zenlendi: Faturalarda &ouml;ğe deposunun se&ccedil;ili gelmeme sorunu</li>
+</ul>
+
+<p>2.1.1 - 22 Oca 2021</p>
+
+<ul>
+	<li>Fixed: History not working</li>
+</ul>
+
+<p>2.1.0 - 16 Oca 2021</p>
+
+<ul>
+	<li>Eklendi: Akaunting 2.0 uyumluluğu</li>
+</ul>
+
+<p>2.0.27 - 22 Ara 2020</p>
+
+<ul>
+	<li>Eklendi: &Ouml;zellik testleri</li>
+	<li>G&uuml;ncellendi: Dil &ccedil;evirileri</li>
+</ul>
+
+<p>2.0.26 - 10 Ara 2020</p>
+
+<ul>
+	<li>D&uuml;zeldildi: &ouml;ğe i&ccedil;e aktarma sorunu</li>
+</ul>
+
+<p>2.0.25 - 18 Kas 2020</p>
+
+<ul>
+	<li>D&uuml;zeldildi: Transfer emirleri d&uuml;zeltildi</li>
+</ul>
+
+<p>2.0.24 - 10 Kas 2020</p>
+
+<ul>
+	<li>D&uuml;zeldildi: Raporlardaki 500 hatası</li>
+</ul>
+
+<p>2.0.23 - 09 Kas 2020</p>
+
+<ul>
+	<li>Eklendi: Satış ve satın alım raporları</li>
+	<li>D&uuml;zeltildi: Fatura &ouml;deme ekleme sorunu</li>
+	<li>D&uuml;&uuml;zeltildi: &Ouml;ğe d&uuml;zenleme sorunu</li>
+</ul>
+
+<p>2.0.22 - 05 Kas 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Transfer emirleri sayfa izinleri</li>
+</ul>
+
+<p>2.0.21 - 02 Kas 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Grup oluşturma hatası</li>
+</ul>
+
+<p>2.0.20 - 20 Eki 2020</p>
+
+<ul>
+	<li>Eklendi: I&ccedil;e aktar ve dışa aktar</li>
+	<li>Eklendi: &Ccedil;oklu depo &ouml;zelliği</li>
+	<li>Eklendi: Transfer emri</li>
+	<li>D&uuml;zeltildi: Grup resim ekleme hatası</li>
+</ul>
+
+<p>2.0.19 - 18 Eyl 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Grup oluşturma hatası</li>
+</ul>
+
+<p>2.0.18 - 03 Eyl 2020</p>
+
+<ul>
+	<li>Eklendi: Stok raporları</li>
+</ul>
+
+<p>2.0.17 - 30 Haz 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Fatura silme hatası</li>
+</ul>
+
+<p>2.0.16 - 17 Haz 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: &Ccedil;oklu şirket uyumluluğu</li>
+	<li>D&uuml;zeltildi: Fatura &Uuml;r&uuml;nler/Hizmetler miktarı sorunu</li>
+</ul>
+
+<p>2.0.15 - 07 Haz 2020</p>
+
+<ul>
+	<li style="box-sizing: border-box; margin-top: 0.25em;">D&uuml;zeltildi: Men&uuml; sıralamaları</li>
+</ul>
+
+<p>2.0.14 - 02 Haz 2020</p>
+
+<ul>
+	<li style="box-sizing: border-box; margin-top: 0.25em;">D&uuml;zeltildi: Listener sistemi</li>
+</ul>
+
+<p>2.0.13 - 22 Haz 2020</p>
+
+<ul>
+	<li style="box-sizing: border-box; margin-top: 0.25em;">D&uuml;zeltildi: Ondalıklı stok ekleme sorunu</li>
+</ul>
+
+<p>2.0.12 - 19 Haz 2020</p>
+
+<ul>
+	<li style="box-sizing: border-box; margin-top: 0.25em;">D&uuml;zeltildi: Maximum &Uuml;r&uuml;nler/Hizmetler sınırı kaldırıldıl</li>
+</ul>
+
+<p>2.0.11 - 26 May 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: &Uuml;r&uuml;nler/Hizmetler silme sorunu</li>
+</ul>
+
+<p>2.0.10 - 21 May 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Cache sistemi</li>
+</ul>
+
+<p>2.0.9 - 5 May 2020</p>
+
+<ul>
+	<li>Eklendi: T&uuml;rk&ccedil;e dil paketi.</li>
+</ul>
+
+<p>2.0.8 - 1 May 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: &Uuml;r&uuml;nlere stok ekleyememe sorunu.</li>
+	<li>D&uuml;zeltildi: Fatura oluşturamama sorunu.</li>
+	<li>D&uuml;zeltildi: Depoya &uuml;r&uuml;n ekleyememe sorunu.</li>
+</ul>
+
+<p>2.0.7 - 10 Nis 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Grup oluşturma hatası.</li>
+</ul>
+
+<p>2.0.6 - 8 Nis 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Rapor hatası.</li>
+	<li>D&uuml;zeltildi: Ayarlar hatası.</li>
+</ul>
+
+<p>2.0.5 - 24 Mar 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Stok y&ouml;netimi aktif et kontrol&uuml;</li>
+	<li>D&uuml;zeltildi: &Uuml;r&uuml;nler/Hizmetler d&uuml;zenle sayfası</li>
+</ul>
+
+<p>2.0.4 - 18 Mar 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Fatura stok kontrol&uuml;.</li>
+</ul>
+
+<p>2.0.3 - 11 Mar 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Woocommerce entegrasyon sorunu.</li>
+</ul>
+
+<p>2.0.2 - 09 Mar 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: &Uuml;r&uuml;nler/Hizmetler adeti sorunu.</li>
+</ul>
+
+<p>2.0.1 - 28 Şub 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: İtem silememe sorunu</li>
+	<li>D&uuml;zeltildi: Se&ccedil;enekler sayfası d&uuml;zenleme</li>
+	<li>D&uuml;zeltildi: &Uuml;r&uuml;n gruplama&nbsp;d&uuml;zenleme sayfası</li>
+</ul>
+
+<p>2.0.0 - 13 Şub 2020</p>
+
+<ul>
+	<li>Eklendi: Akaunting 2.0 uyumluluğu</li>
+</ul>
+
+<p>1.0.6 - 18 Eyl 2019</p>
+
+<ul>
+	<li>D&uuml;zeltildi: &Uuml;r&uuml;n d&uuml;zenleme sayfasında depo değiştirme</li>
+</ul>
+
+<p>1.0.5 - 10 Eyl 2019</p>
+
+<ul>
+	<li>D&uuml;zeltildi:&nbsp;&Uuml;retici modelindeki sorunlar</li>
+</ul>
+
+<p>1.0.4 - 23 May 2019</p>
+
+<ul>
+	<li>Eklendi:&nbsp;&Ccedil;oklu depo eklendi</li>
+	<li>D&uuml;zeltildi:&nbsp;Grup &uuml;r&uuml;n</li>
+</ul>
+
+<p>1.0.3 - 07 May 2019</p>
+
+<ul>
+	<li>D&uuml;zeltildi:&nbsp;&Uuml;r&uuml;n g&ouml;r&uuml;nt&uuml;lenme</li>
+	<li>D&uuml;zeltildi:&nbsp;&Ccedil;oklu şirket</li>
+</ul>
+
+<p>1.0.2 -19 Nis 2019</p>
+
+<ul>
+	<li>D&uuml;zeltildi:&nbsp;Gelir ve gider faturası &uuml;r&uuml;n ekleme</li>
+</ul>
+
+<p>1.0.1-18 Nis 2019</p>
+
+<ul>
+	<li>D&uuml;zeltildi:&nbsp;&Ccedil;oklu şirket ayarlama</li>
+</ul>
+
+<p>1.0.0 - 09 Nis 2019</p>
+
+<ul>
+	<li>İlk S&uuml;r&uuml;m</li>
+</ul>
+";s:3:"faq";s:0:"";s:15:"marketing_title";s:0:"";s:21:"marketing_description";s:0:"";s:10:"deleted_at";N;}}s:8:"category";O:8:"stdClass":8:{s:2:"id";i:10;s:6:"status";i:2;s:10:"created_at";s:19:"2017-11-05 15:01:34";s:10:"updated_at";s:19:"2017-11-05 21:56:06";s:10:"deleted_at";N;s:12:"translations";a:2:{i:0;O:8:"stdClass":6:{s:2:"id";i:19;s:11:"category_id";i:10;s:6:"locale";s:2:"en";s:4:"name";s:9:"Inventory";s:4:"slug";s:9:"inventory";s:10:"deleted_at";N;}i:1;O:8:"stdClass":6:{s:2:"id";i:20;s:11:"category_id";i:10;s:6:"locale";s:2:"tr";s:4:"name";s:8:"Envanter";s:4:"slug";s:9:"inventory";s:10:"deleted_at";N;}}s:4:"name";s:9:"Inventory";s:4:"slug";s:9:"inventory";}s:6:"vendor";O:8:"stdClass":19:{s:2:"id";i:4;s:7:"user_id";i:457;s:15:"vendor_group_id";i:1;s:8:"nickname";s:13:"Akaunting Inc";s:4:"slug";s:13:"akaunting-inc";s:6:"github";s:0:"";s:14:"referrer_email";N;s:16:"payoneer_account";s:18:"info@akaunting.com";s:7:"company";s:14:"Akaunting Inc.";s:7:"website";s:22:"https://akaunting.com/";s:11:"description";s:33:"<p>Free Accounting Software</p>
+";s:10:"commission";s:2:"30";s:15:"billing_details";O:8:"stdClass":0:{}s:15:"payment_details";O:8:"stdClass":0:{}s:6:"status";i:2;s:10:"created_at";s:19:"2017-11-01 22:05:45";s:10:"updated_at";s:19:"2017-11-08 00:13:55";s:10:"deleted_at";N;s:4:"user";O:8:"stdClass":12:{s:2:"id";i:457;s:5:"email";s:18:"info@akaunting.com";s:11:"permissions";O:8:"stdClass":135:{s:18:"block.blocks.index";b:1;s:19:"block.blocks.create";b:1;s:17:"block.blocks.edit";b:1;s:20:"block.blocks.destroy";b:1;s:16:"blog.posts.index";b:1;s:17:"blog.posts.create";b:1;s:15:"blog.posts.edit";b:1;s:18:"blog.posts.destroy";b:1;s:21:"blog.categories.index";b:1;s:22:"blog.categories.create";b:1;s:20:"blog.categories.edit";b:1;s:23:"blog.categories.destroy";b:1;s:15:"blog.tags.index";b:1;s:16:"blog.tags.create";b:1;s:14:"blog.tags.edit";b:1;s:17:"blog.tags.destroy";b:1;s:21:"cloud.companies.index";b:1;s:22:"cloud.companies.create";b:1;s:20:"cloud.companies.edit";b:1;s:23:"cloud.companies.destroy";b:1;s:29:"contact.contactrequests.index";b:1;s:28:"contact.contactrequests.show";b:1;s:31:"contact.contactrequests.destroy";b:1;s:18:"core.sidebar.group";b:1;s:15:"dashboard.index";b:1;s:16:"dashboard.update";b:1;s:15:"dashboard.reset";b:1;s:16:"docs.items.index";b:1;s:17:"docs.items.create";b:1;s:15:"docs.items.edit";b:1;s:18:"docs.items.destroy";b:1;s:18:"media.medias.index";b:1;s:19:"media.medias.create";b:1;s:17:"media.medias.edit";b:1;s:20:"media.medias.destroy";b:1;s:16:"menu.menus.index";b:1;s:17:"menu.menus.create";b:1;s:15:"menu.menus.edit";b:1;s:18:"menu.menus.destroy";b:1;s:20:"menu.menuitems.index";b:1;s:21:"menu.menuitems.create";b:1;s:19:"menu.menuitems.edit";b:1;s:22:"menu.menuitems.destroy";b:1;s:19:"module.core.version";b:1;s:20:"module.core.download";b:1;s:20:"module.vendors.index";b:1;s:21:"module.vendors.create";b:1;s:19:"module.vendors.edit";b:1;s:22:"module.vendors.destroy";b:1;s:25:"module.vendor_items.index";b:1;s:26:"module.vendor_items.create";b:1;s:24:"module.vendor_items.edit";b:1;s:27:"module.vendor_items.destroy";b:1;s:26:"module.vendor_groups.index";b:1;s:27:"module.vendor_groups.create";b:1;s:25:"module.vendor_groups.edit";b:1;s:28:"module.vendor_groups.destroy";b:1;s:24:"module.commissions.index";b:1;s:25:"module.commissions.create";b:1;s:23:"module.commissions.edit";b:1;s:26:"module.commissions.destroy";b:1;s:21:"module.balances.index";b:1;s:22:"module.balances.create";b:1;s:20:"module.balances.edit";b:1;s:23:"module.balances.destroy";b:1;s:23:"module.categories.index";b:1;s:22:"module.categories.slug";b:1;s:24:"module.categories.create";b:1;s:22:"module.categories.edit";b:1;s:25:"module.categories.destroy";b:1;s:18:"module.items.index";b:1;s:17:"module.items.slug";b:1;s:20:"module.items.version";b:1;s:21:"module.items.download";b:1;s:19:"module.items.create";b:1;s:17:"module.items.edit";b:1;s:20:"module.items.destroy";b:1;s:17:"module.paid.index";b:1;s:16:"module.new.index";b:1;s:17:"module.free.index";b:1;s:19:"module.orders.index";b:1;s:20:"module.orders.create";b:1;s:18:"module.orders.edit";b:1;s:21:"module.orders.destroy";b:1;s:29:"module.frontend.vendors.index";b:1;s:30:"module.frontend.vendors.create";b:1;s:28:"module.frontend.vendors.edit";b:1;s:31:"module.frontend.vendors.destroy";b:1;s:34:"module.frontend.vendor_items.index";b:1;s:35:"module.frontend.vendor_items.create";b:1;s:33:"module.frontend.vendor_items.edit";b:1;s:33:"module.frontend.vendor_items.show";b:1;s:36:"module.frontend.vendor_items.destroy";b:1;s:28:"module.frontend.orders.index";b:1;s:29:"module.frontend.orders.create";b:1;s:27:"module.frontend.orders.edit";b:1;s:30:"module.frontend.orders.destroy";b:1;s:16:"page.pages.index";b:1;s:17:"page.pages.create";b:1;s:15:"page.pages.edit";b:1;s:18:"page.pages.destroy";b:1;s:22:"setting.settings.index";b:1;s:21:"setting.settings.edit";b:1;s:14:"tag.tags.index";b:1;s:15:"tag.tags.create";b:1;s:13:"tag.tags.edit";b:1;s:16:"tag.tags.destroy";b:1;s:30:"translation.translations.index";b:1;s:29:"translation.translations.edit";b:1;s:31:"translation.translations.import";b:1;s:31:"translation.translations.export";b:1;s:16:"user.users.index";b:1;s:17:"user.users.create";b:1;s:15:"user.users.edit";b:1;s:18:"user.users.destroy";b:1;s:16:"user.roles.index";b:1;s:17:"user.roles.create";b:1;s:15:"user.roles.edit";b:1;s:18:"user.roles.destroy";b:1;s:22:"account.api-keys.index";b:1;s:23:"account.api-keys.create";b:1;s:24:"account.api-keys.destroy";b:1;s:20:"account.tokens.index";b:1;s:21:"account.tokens.create";b:1;s:22:"account.tokens.destroy";b:1;s:22:"workshop.sidebar.group";b:1;s:22:"workshop.modules.index";b:1;s:21:"workshop.modules.show";b:1;s:23:"workshop.modules.update";b:1;s:24:"workshop.modules.disable";b:1;s:23:"workshop.modules.enable";b:1;s:24:"workshop.modules.publish";b:1;s:21:"workshop.themes.index";b:1;s:20:"workshop.themes.show";b:1;s:23:"workshop.themes.publish";b:1;}s:10:"last_login";s:19:"2021-08-23 10:03:22";s:10:"first_name";s:9:"Akaunting";s:9:"last_name";s:3:"Inc";s:10:"created_at";s:19:"2017-11-01 21:24:31";s:10:"updated_at";s:19:"2021-08-23 10:03:22";s:11:"bill_fields";O:8:"stdClass":8:{s:9:"firstName";s:9:"Akaunting";s:8:"lastName";s:3:"Inc";s:7:"company";s:13:"Akaunting Inc";s:5:"email";s:18:"info@akaunting.com";s:15:"shippingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"billingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"identityNumber";s:11:"23362380457";s:12:"mobileNumber";s:11:"05000000000";}s:11:"iyzipay_key";s:28:"c6XJeExPXQUbeks9bVMkK3ln7SI=";s:6:"params";s:108:"{"location":{"continent":"Asia","country":"Turkey","region":"Istanbul","city":"Istanbul"},"stage":"revenue"}";s:10:"deleted_at";N;}}s:7:"reviews";a:23:{i:0;O:8:"stdClass":11:{s:2:"id";i:370;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:6:"Cooper";s:11:"description";s:0:"";s:4:"text";s:127:"They’re always keeping up the good work. Inventory is very useful for my business and it helps me a lot to keep it organized.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2021-07-18 20:07:00";s:10:"updated_at";s:19:"2021-07-28 20:10:47";s:10:"deleted_at";N;}i:1;O:8:"stdClass":11:{s:2:"id";i:333;s:7:"item_id";i:53;s:7:"user_id";i:119194;s:6:"author";s:5:"Herve";s:11:"description";s:0:"";s:4:"text";s:334:"I highly recommend this app because efficient management of your stock starts with it.
+
+And with the addition of a stocktaking section, it will be perfect.
+
+The charm of this application is also found in the availability of the technical service which is really to be congratulated. He is responsive, attentive to their customers.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2021-04-20 18:30:24";s:10:"updated_at";s:19:"2021-04-21 13:15:47";s:10:"deleted_at";N;}i:2;O:8:"stdClass":11:{s:2:"id";i:332;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:10:"Frøystein";s:11:"description";s:0:"";s:4:"text";s:159:"It is really great that I can use several warehouses for my items with inventory. This is a nice functionality and I can recommend this app even just for this.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2021-03-29 12:03:00";s:10:"updated_at";s:19:"2021-04-20 12:07:29";s:10:"deleted_at";N;}i:3;O:8:"stdClass":11:{s:2:"id";i:303;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:4:"Dena";s:11:"description";s:0:"";s:4:"text";s:97:"Recommended! Halim was really great at figuring out my issue and helped me to solve it instantly.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-11-17 16:11:00";s:10:"updated_at";s:19:"2020-12-04 16:23:43";s:10:"deleted_at";N;}i:4;O:8:"stdClass":11:{s:2:"id";i:217;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:5:"Pavle";s:11:"description";s:0:"";s:4:"text";s:100:"My business has several similar items and Inventory's Groups functionality saved my life! Great app!";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-10-05 13:10:00";s:10:"updated_at";s:19:"2020-11-03 17:37:31";s:10:"deleted_at";N;}i:5;O:8:"stdClass":11:{s:2:"id";i:235;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:8:"Vasilisa";s:11:"description";s:0:"";s:4:"text";s:82:"I am satisfied with the Inventory! There are always updates that improve the app! ";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-09-24 14:09:00";s:10:"updated_at";s:19:"2020-11-03 14:49:22";s:10:"deleted_at";N;}i:6;O:8:"stdClass":11:{s:2:"id";i:233;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:4:"Rory";s:11:"description";s:0:"";s:4:"text";s:63:"The app does what it says reliably. Excellent customer service.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-09-11 14:09:00";s:10:"updated_at";s:19:"2020-11-03 14:43:19";s:10:"deleted_at";N;}i:7;O:8:"stdClass":11:{s:2:"id";i:198;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:4:"Liza";s:11:"description";s:0:"";s:4:"text";s:122:"It is a great tool we use as a small business to keep track of our assets: where they are and who is responsible for them.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-08-18 14:09:47";s:10:"updated_at";s:19:"2020-08-18 14:09:47";s:10:"deleted_at";N;}i:8;O:8:"stdClass":11:{s:2:"id";i:197;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:8:"Mariyana";s:11:"description";s:0:"";s:4:"text";s:109:"Their support is really quite good. I worked with Cihan on a recent issue and he was very fast and efficient.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-07-09 14:09:47";s:10:"updated_at";s:19:"2020-07-09 14:09:47";s:10:"deleted_at";N;}i:9;O:8:"stdClass":11:{s:2:"id";i:155;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:5:"Nitin";s:11:"description";s:0:"";s:4:"text";s:154:"So far so good. Easy to use. Easy to organize.
+
+The app has great functionality and useful reports. I would like one list versus several pages of items.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-06-23 14:09:47";s:10:"updated_at";s:19:"2020-06-23 14:09:47";s:10:"deleted_at";N;}i:10;O:8:"stdClass":11:{s:2:"id";i:154;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:6:"Jeremy";s:11:"description";s:0:"";s:4:"text";s:227:"Easy to use, fully featured solution to track and maintain assets of all kinds. It's pretty easy to locate our assets that have been checked out. We're happy with the app and know our teams will benefit from using it regularly.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-06-11 14:09:47";s:10:"updated_at";s:19:"2020-06-11 14:09:47";s:10:"deleted_at";N;}i:11;O:8:"stdClass":11:{s:2:"id";i:153;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:6:"Jossap";s:11:"description";s:0:"";s:4:"text";s:198:"Great inventory management tool. However, it is sometimes hard to find a specific functions.
+
+The best part is clearly their customer service. We get quick replies if needed. They know the system!";s:6:"rating";i:4;s:6:"status";i:2;s:10:"created_at";s:19:"2020-05-30 14:09:47";s:10:"updated_at";s:19:"2020-05-30 14:09:47";s:10:"deleted_at";N;}i:12;O:8:"stdClass":11:{s:2:"id";i:116;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:6:"Elliot";s:11:"description";s:0:"";s:4:"text";s:130:"Addressed inventory management in a complete fashion-reporting, workflow and ease of use are great things to remember for its use.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-05-13 14:09:47";s:10:"updated_at";s:19:"2020-05-13 14:09:47";s:10:"deleted_at";N;}i:13;O:8:"stdClass":11:{s:2:"id";i:98;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:6:"Harrie";s:11:"description";s:0:"";s:4:"text";s:241:"This app has helped us to capture manufacturing costs, manage inventory, identify workflow issues, and streamline our production. We are now confident that our inventory value and cost of goods sold are being recorded correctly in Akaunting.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-05-04 14:09:47";s:10:"updated_at";s:19:"2020-05-04 14:09:47";s:10:"deleted_at";N;}i:14;O:8:"stdClass":11:{s:2:"id";i:97;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:5:"Diego";s:11:"description";s:0:"";s:4:"text";s:89:"When all Akaunting apps work together it's wonderful. Support is always fast and helpful.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-26 14:09:47";s:10:"updated_at";s:19:"2020-04-26 14:09:47";s:10:"deleted_at";N;}i:15;O:8:"stdClass":11:{s:2:"id";i:96;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:4:"Mike";s:11:"description";s:0:"";s:4:"text";s:272:"I like the feature of creating groups to organize different assets. Creating groups really helps me keep my assets organized.
+
+It makes monthly inventory checks a breeze and keeps our team accountable for things that break or go missing from inventory. Really great app.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-10 14:09:47";s:10:"updated_at";s:19:"2020-04-10 14:09:47";s:10:"deleted_at";N;}i:16;O:8:"stdClass":11:{s:2:"id";i:76;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:6:"Stakyi";s:11:"description";s:0:"";s:4:"text";s:159:"We went to Inventory app 3 months ago, and have been delighted with the simplicity of use, great tech support and the assistance that the team always gives us.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-03-31 14:09:47";s:10:"updated_at";s:19:"2020-03-31 14:09:47";s:10:"deleted_at";N;}i:17;O:8:"stdClass":11:{s:2:"id";i:75;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:5:"Hyrum";s:11:"description";s:0:"";s:4:"text";s:265:"Inventory integrates well with all aspects of our business in order for the data to 'make sense' to the accountants. The support team is very helpful in explaining the functions when we get stuck, which enables us to know the product better, and get more out of it.";s:6:"rating";i:4;s:6:"status";i:2;s:10:"created_at";s:19:"2020-02-23 14:09:47";s:10:"updated_at";s:19:"2020-02-23 14:09:47";s:10:"deleted_at";N;}i:18;O:8:"stdClass":11:{s:2:"id";i:74;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:4:"Jeff";s:11:"description";s:0:"";s:4:"text";s:434:"We looked at a ton of other inventory management programs and what I like best about this app is that they have built it into Akaunting. Other programs seem to create 2 workflow problems for every technical problem they try to solve or tout unique features that are of no use to a lot of companies. This app keeps it simple, communicates well with Akautning and has had a solution in place for most every problem I've brought to them.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-01-13 14:09:47";s:10:"updated_at";s:19:"2020-01-13 14:09:47";s:10:"deleted_at";N;}i:19;O:8:"stdClass":11:{s:2:"id";i:77;s:7:"item_id";i:53;s:7:"user_id";i:50;s:6:"author";s:6:"Morgan";s:11:"description";s:0:"";s:4:"text";s:196:"Finally an inventory application I can use for my small business. We have only 3 employees, and after doing some research I found that the features and the price are really great for our business.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2019-11-15 14:09:47";s:10:"updated_at";s:19:"2019-11-15 14:09:47";s:10:"deleted_at";N;}i:20;O:8:"stdClass":11:{s:2:"id";i:29;s:7:"item_id";i:53;s:7:"user_id";i:515;s:6:"author";s:5:"Ahmad";s:11:"description";s:0:"";s:4:"text";s:48:"Such a great app, thank you!
+Highly recommended";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2019-05-21 17:24:43";s:10:"updated_at";s:19:"2019-05-21 17:30:22";s:10:"deleted_at";N;}i:21;O:8:"stdClass":11:{s:2:"id";i:27;s:7:"item_id";i:53;s:7:"user_id";i:36513;s:6:"author";s:6:"Celina";s:11:"description";s:0:"";s:4:"text";s:203:"Very very versatile app, I'm impressed by its features. It's wonderful how you can create item batches, groups, maintain inventory items and also do analysis, all at one place, without leaving Akaunting.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2019-05-14 18:29:02";s:10:"updated_at";s:19:"2019-05-17 18:31:08";s:10:"deleted_at";N;}i:22;O:8:"stdClass":11:{s:2:"id";i:26;s:7:"item_id";i:53;s:7:"user_id";i:36587;s:6:"author";s:4:"Lana";s:11:"description";s:0:"";s:4:"text";s:254:"Inventory has made it very easy for us to manage our orders and streamline inventory for all our outlets. We love the user-friendly interface and responsive support. We highly recommend this app for businesses looking for a simple yet effective solution.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2019-05-02 18:21:44";s:10:"updated_at";s:19:"2019-05-02 18:21:44";s:10:"deleted_at";N;}}s:5:"files";a:1:{i:0;O:8:"stdClass":13:{s:2:"id";i:2236;s:8:"filename";s:18:"inventory-logo.jpg";s:4:"path";O:8:"stdClass":0:{}s:9:"extension";s:3:"jpg";s:8:"mimetype";s:10:"image/jpeg";s:8:"filesize";s:5:"46730";s:9:"folder_id";i:0;s:10:"created_at";s:19:"2020-04-14 17:06:57";s:10:"updated_at";s:19:"2020-04-14 17:06:57";s:10:"deleted_at";N;s:11:"path_string";s:86:"https://akaunting.com/public/assets/media/4-akaunting-inc/inventory/inventory-logo.jpg";s:10:"media_type";s:5:"image";s:5:"pivot";O:8:"stdClass":6:{s:12:"imageable_id";i:53;s:7:"file_id";i:2236;s:4:"zone";s:9:"thumbnail";s:2:"id";i:1871;s:10:"created_at";s:19:"2020-04-14 17:06:57";s:10:"updated_at";s:19:"2021-08-17 18:54:27";}}}s:4:"name";s:9:"Inventory";s:4:"slug";s:9:"inventory";s:11:"description";s:1560:"<p>Almost all product-based businesses need reliable and simple inventory management software. Introducing an easy way for companies and small businesses to keep track of their inventory.</p>
+
+<p>The Akaunting and Inventory management is under one roof. An easy way to manage your ordering, storing, and using a company&#39;s inventory with the Inventory App.&nbsp;</p>
+
+<p>The current inventory of Akaunting lets you keep track of your stock at a basic level. With this app, you can do advanced inventory management using native inventory features like Composite Bulk Adjustments. You will be able to see a complete overview of all the stocked products that you have. You can also automatically generate in-detailed reports with the simple click of a button.</p>
+
+<p>Inventory app is one of the most needed applications for managing all products, from raw materials to finished products and running warehouse processes. With this app, you can easily monitor the stock status, run your supply chains smoothly, and thus significantly reduce the risks such as excess stock or shortage.</p>
+
+<ul>
+	<li>A complete overview of all the stocked products that you have.</li>
+	<li>Automatically generates in-detailed reports with the simple click of a button.</li>
+	<li>Inventory App also has many other dynamic features and tools to help with inventory control and management.</li>
+</ul>
+
+<p>Take inventory management to the next level by creating a fully customizable product catalog to take complete control over your sale and purchase processes.</p>
+";s:12:"installation";s:118:"<p>Install the app within one click from your Akaunting &gt; Apps &gt; Inventory page then go to&nbsp;Inventory.</p>
+";s:9:"changelog";b:0;s:3:"faq";s:0:"";}i:3;O:8:"stdClass":41:{s:2:"id";i:71;s:11:"category_id";i:20;s:9:"vendor_id";i:284;s:6:"amount";s:7:"49.0000";s:13:"compatibility";a:3:{i:0;s:2:"1x";i:1;s:2:"2x";i:2;s:3:"21x";}s:19:"available_languages";N;s:7:"version";s:6:"3.0.10";s:11:"dev_version";s:5:"3.0.1";s:4:"demo";s:0:"";s:10:"repository";s:25:"akaunting/module-projects";s:12:"payment_type";s:6:"yearly";s:8:"featured";i:1;s:6:"status";i:2;s:12:"published_at";s:19:"2019-06-19 08:57:50";s:10:"created_at";s:19:"2019-06-19 08:56:41";s:10:"updated_at";s:19:"2021-07-26 11:40:14";s:10:"deleted_at";N;s:13:"category_name";s:9:"Operation";s:11:"vendor_name";s:11:"Sevan Nerse";s:5:"price";s:3:"$64";s:13:"special_price";s:3:"$49";s:20:"subscription_message";s:158:"All purchases are billed yearly. You may cancel the subscription at any time and can continue to use the app. Subscription refers to support and updates only.";s:4:"vote";i:5;s:12:"total_review";i:15;s:10:"total_vote";i:74;s:8:"releases";b:0;s:12:"app_releases";O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:5:{i:0;O:8:"stdClass":6:{s:9:"item_slug";s:8:"projects";s:17:"akaunting_version";s:6:"2.1.20";s:7:"version";s:6:"3.0.10";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-07-26 11:40:14";s:9:"changelog";s:133:"<ul>
+<li>Changed: Exporting records made compatible with the core</li>
+<li>Fixed: Creating milestones throws server error</li>
+</ul>
+";}i:1;O:8:"stdClass":6:{s:9:"item_slug";s:8:"projects";s:17:"akaunting_version";s:6:"2.1.20";s:7:"version";s:5:"3.0.9";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-07-16 17:13:12";s:9:"changelog";s:122:"<ul>
+<li>Added: Exporting timesheet details of a project</li>
+<li>Fixed: Start/End Date of Tasks is not stable</li>
+</ul>
+";}i:2;O:8:"stdClass":6:{s:9:"item_slug";s:8:"projects";s:17:"akaunting_version";s:6:"2.1.19";s:7:"version";s:5:"3.0.9";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-07-16 15:29:26";s:9:"changelog";s:122:"<ul>
+<li>Added: Exporting timesheet details of a project</li>
+<li>Fixed: Start/End Date of Tasks is not stable</li>
+</ul>
+";}i:3;O:8:"stdClass":6:{s:9:"item_slug";s:8:"projects";s:17:"akaunting_version";s:6:"2.1.19";s:7:"version";s:5:"3.0.8";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-07-09 16:35:51";s:9:"changelog";s:84:"<ul>
+<li>Fixed: Creating tasks or milestones with different date formats</li>
+</ul>
+";}i:4;O:8:"stdClass":6:{s:9:"item_slug";s:8:"projects";s:17:"akaunting_version";s:6:"2.1.18";s:7:"version";s:5:"3.0.7";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-06-28 17:25:36";s:9:"changelog";s:189:"<ul>
+<li>Added: Sending notification to members while creating task</li>
+<li>Added: New translations</li>
+<li>Changed: Users could see only tasks that are assigned to themselves</li>
+</ul>
+";}}s:4:"from";i:1;s:9:"last_page";i:7;s:13:"next_page_url";s:46:"https://api.akaunting.com/apps/featured?page=2";s:4:"path";s:39:"https://api.akaunting.com/apps/featured";s:8:"per_page";s:1:"5";s:13:"prev_page_url";N;s:2:"to";i:5;s:5:"total";i:33;}s:11:"status_type";s:6:"active";s:12:"price_prefix";s:0:"";s:12:"price_suffix";s:0:"";s:12:"translations";a:2:{i:0;O:8:"stdClass":14:{s:2:"id";i:141;s:7:"item_id";i:71;s:6:"locale";s:2:"en";s:5:"price";s:3:"$64";s:4:"name";s:8:"Projects";s:4:"slug";s:8:"projects";s:11:"description";s:1092:"<p>Project Management and Team Collaboration Software All in One.</p>
+<p>This app allows you to manage teamwork and deliver projects timely. You can create unlimited projects, attach them to incomes and expense transactions, discuss with your team, upload files, and a lot more.</p>
+<p>Features:</p>
+<ul>
+<li>Get a bird's eye view of all your company projects</li>
+<li>Create unlimited tasks and involve as many people as you want</li>
+<li>Keep all your team's discussions in one place for easy reference</li>
+<li>Allow your team to comment on projects and speedy feedback</li>
+<li>See all of your project files in one place</li>
+<li>Know every bit of the update in a project from the activities page</li>
+<li>Attach invoices, revenues, bills, and payments to projects</li>
+<li>Track the profit and loss per project from the overview page</li>
+<li>Track the time spent on a task</li>
+<li>Convert spent times of tasks easily to invoices with different methods</li>
+<li>Specialized project overview for project owners</li>
+</ul>
+<p>Produce better work faster with your team.</p>";s:9:"sort_desc";N;s:12:"installation";s:131:"<p>Install the app within one click from your <strong>Akaunting &gt; Apps &gt; Projects</strong> page then go to&nbsp;Projects.</p>";s:9:"changelog";b:0;s:3:"faq";s:134:"<p>I'm a user of the old Projects app, what should I do?</p>
+<p>Just install this/new one, all of your old data will be migrated.</p>";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}i:1;O:8:"stdClass":14:{s:2:"id";i:142;s:7:"item_id";i:71;s:6:"locale";s:2:"tr";s:5:"price";i:0;s:4:"name";s:15:"Proje Yönetimi";s:4:"slug";s:8:"projects";s:11:"description";s:952:"<p>Project Management and Team Collaboration Software All in One.</p>
+<p>This app allows you to manage teamwork and deliver projects timely. You can create unlimited projects, attach them to incomes and expense transactions, discuss with your team, upload files, and a lot more.</p>
+<p>Features</p>
+<ul>
+<li>Get a bird's eye view of all your company projects</li>
+<li>Create unlimited tasks and involve as many people as you want</li>
+<li>Keep all your team's discussions in one place for easy reference</li>
+<li>Allow your team to comment on projects and speedy feedback</li>
+<li>See all of your project files in one place</li>
+<li>Know every bit of the update in a project from the activities page</li>
+<li>Attach invoices, revenues, bills, and payments to projects</li>
+<li>Track the profit and loss per project from the overview page</li>
+<li>Track the time spent on a task</li>
+</ul>
+<p>Produce better work faster with your team.</p>";s:9:"sort_desc";N;s:12:"installation";s:162:"<p>Uygulamayı <strong>Akaunting &gt; Uygulamalar &gt;&nbsp;Projeler</strong> sayfanızdan tek bir tıklamayla y&uuml;kleyin, ardından&nbsp;Projeler'e gidin.</p>";s:9:"changelog";s:5087:"<p>3.0.2 - 10 Mart 2021</p>
+
+<ul>
+	<li>Eklendi: Yeni dil &ccedil;evirileri</li>
+	<li>D&uuml;zeltildi:&nbsp;Proje silme hatasi giderildi</li>
+	<li>D&uuml;zeltildi: Proje ucret bilgisi bos olamaz</li>
+</ul>
+
+<p>3.0.1 - 3 Subat 2021</p>
+
+<ul>
+	<li>Eklendi:&nbsp;Yeni dil &ccedil;evirileri</li>
+	<li>Eklendi: Belgeler sayfasına ve kullanıcılar kısmına kısayollar</li>
+	<li>D&uuml;zeltildi: Belgelerin dışa aktarım hatası</li>
+	<li>D&uuml;zeltildi: G&ouml;stergeler sayfasındaki tarih aralıgı&nbsp;parametresi</li>
+	<li>D&uuml;zeltildi:&nbsp;G&ouml;rev bitiş&nbsp;tarihi baslangı&ccedil;&nbsp;ile ayni olabilir</li>
+	<li>D&uuml;zeltildi: Aşama s&uuml;re&ccedil;lerindeki kontroller arttırıldı</li>
+</ul>
+
+<p>3.0.0 - 16 Ocak 2021</p>
+
+<ul>
+	<li>Eklendi: Akaunting 2.1.x ile uyumluluk</li>
+	<li>Eklendi:&nbsp;Gorevler i&ccedil;in zaman takibi</li>
+	<li>Eklendi:&nbsp;Proje bazlı&nbsp;zaman kayıtlari</li>
+	<li>Eklendi:&nbsp;Proje faturalandırma</li>
+	<li>Eklendi: Proje sahiplerinin proje ile ilgili detaylari takip edebilmesi i&ccedil;in portal erisimi</li>
+</ul>
+
+<p>2.0.11 - 31 Ekim 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: &Uuml;yeler kontrol&uuml;ndeki stil problemi &ccedil;&ouml;z&uuml;ld&uuml;</li>
+	<li>D&uuml;zeltildi: Gravatar ayarının ismi d&uuml;zeltildi</li>
+</ul>
+
+<p>2.0.10 - 10 Ekim 2020</p>
+
+<ul>
+	<li>Eklendi: Yeni dil tercihleri</li>
+	<li>D&uuml;zeltildi: Alt g&ouml;revlerdeki &ouml;ncelik ve durum g&ouml;sterimi d&uuml;zenlendi</li>
+</ul>
+
+<p>2.0.9 - 9 Ekim 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Kullanıcı profil resimlerinin g&ouml;sterimi</li>
+	<li>D&uuml;zeltildi: Eklenen ilk alt g&ouml;revin listelenmesi</li>
+	<li>D&uuml;zeltildi: Durum ve &ouml;ncelik bilgilerinin g&uuml;ncellenme sayfasında yanlış g&ouml;sterimi</li>
+</ul>
+
+<p>2.0.8 - 6 Ekim 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Alt g&ouml;revler detayında durum ve &ouml;ncelik bilgilerinin boş gelmesi</li>
+</ul>
+
+<p>2.0.7 - 25 Eyl&uuml;l 2020</p>
+
+<ul>
+	<li>Eklendi: Arap&ccedil;a, Danimarkaca, Almanca, İspanyolca, Fransızca, İtalyanca, Japonca, Portekizce dil destekleri eklendi</li>
+	<li>D&uuml;zeltildi: Kullanıcı profil resmiyle alakalı bir sorun giderildi</li>
+</ul>
+
+<p>2.0.6 - 18 Temmuz 2020</p>
+
+<ul>
+	<li>G&uuml;ncellendi: Proje oluştururken hem m&uuml;şteri hem tedarik&ccedil;i se&ccedil;ilebilir hale getirildi</li>
+	<li>D&uuml;zeltildi: Double Entry ve Projects raporları uyumlu hale getirildi</li>
+	<li>D&uuml;zeltildi: Eklenti bulunan &ouml;deme belgesinde proje se&ccedil;ilebilmesi d&uuml;zeltildi</li>
+</ul>
+
+<p>2.0.5 - 7 Temmuz 2020</p>
+
+<ul>
+	<li>G&uuml;ncellendi: men&uuml; sırası değiştirildi.</li>
+</ul>
+
+<p>2.0.4 - 27 Nisan 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: a&ccedil;ılış sayfasındaki resim sorunu giderildi.</li>
+</ul>
+
+<p>2.0.3 - 25 Nisan 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: G&ouml;rsel hatalar giderildi.</li>
+</ul>
+
+<p>2.0.2 - 27 Mart 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Proje yazdırma işlemindeki hata giderildi.</li>
+	<li>Eklendi: Projeye ait hareketlerin excel olarak dışa aktarılması sağlandı.</li>
+</ul>
+
+<p>2.0.1 - 24 Şubat 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: K&uuml;&ccedil;&uuml;k hata.</li>
+</ul>
+
+<p>2.0.0 - 18 Şubat 2020</p>
+
+<ul>
+	<li>Eklendi: Akaunting 2.0 ile uyumlu hale getirildi.</li>
+</ul>
+
+<p>1.0.8 - 13 Aralık 2019</p>
+
+<ul>
+	<li>D&uuml;zeltildi: K&uuml;&ccedil;&uuml;k hata.</li>
+</ul>
+
+<p>1.0.7 - 28 Ağustos 2019</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Belgeler i&ccedil;erisindeki proje kontrol logosu d&uuml;zeltildi.</li>
+	<li>D&uuml;zeltildi: G&ouml;rev ve alt g&ouml;revlerin g&ouml;r&uuml;nt&uuml;leme formlarında bazı kontroller pasif duruma getirildi.</li>
+</ul>
+
+<p>1.0.6 - 20 Temmuz 2019</p>
+
+<ul>
+	<li>Eklendi: G&ouml;rev ve alt g&ouml;revleri g&ouml;r&uuml;nt&uuml;leme &ouml;zelliği eklendi.</li>
+	<li>D&uuml;zeltildi: K&uuml;&ccedil;&uuml;k hata.</li>
+</ul>
+
+<p>1.0.5 - 12 Temmuz 2019</p>
+
+<ul>
+	<li>D&uuml;zeltildi: K&uuml;&ccedil;&uuml;k hata.</li>
+</ul>
+
+<p>1.0.4 -&nbsp;4 Temmuz 2019</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Tahakkuk edilen faturaları dikkate alacak hale getirildi.</li>
+	<li>Eklendi: G&ouml;r&uuml;n&uuml;m sayfasına net karlılık bilgisi eklendi.</li>
+	<li>Eklendi: Transactions tablosuna kategori s&uuml;tunu eklendi.</li>
+</ul>
+
+<p>1.0.3 - 27 Haziran&nbsp;2019</p>
+
+<ul>
+	<li>D&uuml;zeltildi: K&uuml;&ccedil;&uuml;k hata.</li>
+	<li>Eklendi: Bir projenin işlemlerini bir excel belgesi olarak dışa aktarma.</li>
+	<li>Eklendi:&nbsp;Tek bir tıkla alt g&ouml;revlerin durumunu değiştirme.</li>
+	<li>Eklendi:&nbsp;Kullanıcıları projelere veya alt g&ouml;revlere atama.</li>
+	<li>Eklendi: İzinler.</li>
+</ul>
+
+<p>1.0.2 - 19 Haziran&nbsp;2019</p>
+
+<ul>
+	<li>D&uuml;zeltildi: Proje durumlarını değiştirme.</li>
+</ul>
+
+<p>1.0.1 - 19 Haziran 2019</p>
+
+<ul>
+	<li>D&uuml;zeltildi: K&uuml;&ccedil;&uuml;k hata.</li>
+</ul>
+
+<p>1.0.0 - 19 Haziran 2019</p>
+
+<ul>
+	<li>İlk S&uuml;r&uuml;m.</li>
+</ul>
+";s:3:"faq";s:134:"<p>I'm a user of the old Projects app, what should I do?</p>
+<p>Just install this/new one, all of your old data will be migrated.</p>";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}}s:8:"category";O:8:"stdClass":8:{s:2:"id";i:9;s:6:"status";i:2;s:10:"created_at";s:19:"2017-11-05 15:01:21";s:10:"updated_at";s:19:"2017-11-05 15:01:21";s:10:"deleted_at";N;s:12:"translations";a:2:{i:0;O:8:"stdClass":6:{s:2:"id";i:17;s:11:"category_id";i:9;s:6:"locale";s:2:"en";s:4:"name";s:9:"Operation";s:4:"slug";s:9:"operation";s:10:"deleted_at";N;}i:1;O:8:"stdClass":6:{s:2:"id";i:18;s:11:"category_id";i:9;s:6:"locale";s:2:"tr";s:4:"name";s:10:"İşleyiş";s:4:"slug";s:7:"isleyis";s:10:"deleted_at";N;}}s:4:"name";s:9:"Operation";s:4:"slug";s:9:"operation";}s:6:"vendor";O:8:"stdClass":19:{s:2:"id";i:284;s:7:"user_id";i:19036;s:15:"vendor_group_id";i:1;s:8:"nickname";s:11:"Sevan Nerse";s:4:"slug";s:11:"sevan-nerse";s:6:"github";s:10:"sevannerse";s:14:"referrer_email";N;s:16:"payoneer_account";s:0:"";s:7:"company";s:11:"Sevan Nerse";s:7:"website";s:0:"";s:11:"description";s:0:"";s:10:"commission";s:2:"30";s:15:"billing_details";O:8:"stdClass":6:{s:4:"name";s:11:"Sevan Nerse";s:7:"address";s:51:"Pancarlı sok. No:11 D:8 Kartaltepe Mah. Bakırköy";s:4:"city";s:9:"İstanbul";s:5:"state";s:0:"";s:9:"post_code";s:0:"";s:7:"country";s:3:"TUR";}s:15:"payment_details";O:8:"stdClass":9:{s:12:"payment_type";s:8:"payoneer";s:18:"payment_type_email";s:21:"nerse.sevan@gmail.com";s:12:"account_name";s:11:"Sevan Nerse";s:14:"account_number";s:26:"TR380004600192888000437608";s:10:"swift_code";s:0:"";s:9:"bank_name";s:11:"AKBANK TAŞ";s:9:"bank_city";s:9:"İstanbul";s:12:"bank_country";s:3:"TUR";s:13:"currency_code";s:0:"";}s:6:"status";i:2;s:10:"created_at";s:19:"2018-12-22 08:15:16";s:10:"updated_at";s:19:"2020-12-30 13:31:03";s:10:"deleted_at";N;s:4:"user";O:8:"stdClass":12:{s:2:"id";i:19036;s:5:"email";s:21:"nerse.sevan@gmail.com";s:11:"permissions";a:0:{}s:10:"last_login";s:19:"2021-08-21 10:24:18";s:10:"first_name";s:5:"Sevan";s:9:"last_name";s:5:"Nerse";s:10:"created_at";s:19:"2018-11-27 20:41:06";s:10:"updated_at";s:19:"2021-08-21 10:24:18";s:11:"bill_fields";O:8:"stdClass":8:{s:9:"firstName";s:5:"Sevan";s:8:"lastName";s:5:"Nerse";s:7:"company";s:4:"null";s:5:"email";s:21:"nerse.sevan@gmail.com";s:15:"shippingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"billingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"identityNumber";s:13:"4876039219036";s:12:"mobileNumber";s:11:"05000000000";}s:11:"iyzipay_key";N;s:6:"params";s:439:"{"email_verification":{"timed_out":false,"disposable":false,"first_name":"Unknown","deliverability":"high","smtp_score":3,"overall_score":4,"generic":false,"common":true,"dns_valid":true,"honeypot":false,"frequent_complainer":false,"suspect":false,"recent_abuse":false,"valid":true,"success":true,"request_id":"4DrwVD8IZZZ3LH"},"location":{"continent":"Asia","country":"Turkey","region":"Istanbul","city":"Istanbul"},"stage":"acquisition"}";s:10:"deleted_at";N;}}s:7:"reviews";a:15:{i:0;O:8:"stdClass":11:{s:2:"id";i:372;s:7:"item_id";i:71;s:7:"user_id";i:50;s:6:"author";s:5:"Jonna";s:11:"description";s:0:"";s:4:"text";s:211:"Projects is user-friendly, efficient, and intelligent for us to work with. Working with records such as invoices, bills and etc., and staying in touch with my team on projects was exactly what I’m looking for.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2021-07-19 20:07:00";s:10:"updated_at";s:19:"2021-07-28 20:15:23";s:10:"deleted_at";N;}i:1;O:8:"stdClass":11:{s:2:"id";i:327;s:7:"item_id";i:71;s:7:"user_id";i:91123;s:6:"author";s:7:"Ioannis";s:11:"description";s:0:"";s:4:"text";s:329:"It's really great to have this app available in the akaunting platform.
+It helps me organize projects and easily see if there are any pending invoices that are part of a project. There are some things that can be improved but the author was more than happy to assist and include them in upcoming releases after requesting those.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2021-04-09 17:49:52";s:10:"updated_at";s:19:"2021-04-12 14:56:14";s:10:"deleted_at";N;}i:2;O:8:"stdClass":11:{s:2:"id";i:272;s:7:"item_id";i:71;s:7:"user_id";i:50;s:6:"author";s:6:"Dwight";s:11:"description";s:0:"";s:4:"text";s:173:"Me and my team especially like this module because of how simple to use it. So we can focus on doing our job rather than figuring out of correct usage of the app. Thank you!";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-10-19 17:10:00";s:10:"updated_at";s:19:"2020-11-04 17:18:22";s:10:"deleted_at";N;}i:3;O:8:"stdClass":11:{s:2:"id";i:218;s:7:"item_id";i:71;s:7:"user_id";i:50;s:6:"author";s:9:"Jens Kijk";s:11:"description";s:0:"";s:4:"text";s:181:"It has a great dashboard that I can see all the tasks, users, payments, etc. And I like how I can create discussions easily and discuss things about our projects with my teammates. ";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-09-08 10:09:00";s:10:"updated_at";s:19:"2020-11-03 17:50:16";s:10:"deleted_at";N;}i:4;O:8:"stdClass":11:{s:2:"id";i:201;s:7:"item_id";i:71;s:7:"user_id";i:50;s:6:"author";s:6:"Nilesh";s:11:"description";s:0:"";s:4:"text";s:213:"The ability for my team to assign tasks to each other and set a time and day for them to be due. It eliminates the ability to forget about due dates. I like how you can add details and information on the task box.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-08-15 14:09:47";s:10:"updated_at";s:19:"2020-08-15 14:09:47";s:10:"deleted_at";N;}i:5;O:8:"stdClass":11:{s:2:"id";i:200;s:7:"item_id";i:71;s:7:"user_id";i:50;s:6:"author";s:5:"David";s:11:"description";s:0:"";s:4:"text";s:98:"I like the prioritization of tasks and due dates help me stay focused on the most important tasks.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-07-28 14:09:47";s:10:"updated_at";s:19:"2020-07-28 14:09:47";s:10:"deleted_at";N;}i:6;O:8:"stdClass":11:{s:2:"id";i:164;s:7:"item_id";i:71;s:7:"user_id";i:50;s:6:"author";s:3:"Mat";s:11:"description";s:0:"";s:4:"text";s:258:"It is great to be able to create to-do lists and tick off tasks as you go. The collaborative nature of the app means that everyone involved with a certain project can view the to-do list and clearly see who is responsible for the completion of certain tasks.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-06-11 14:09:47";s:10:"updated_at";s:19:"2020-06-11 14:09:47";s:10:"deleted_at";N;}i:7;O:8:"stdClass":11:{s:2:"id";i:145;s:7:"item_id";i:71;s:7:"user_id";i:50;s:6:"author";s:3:"Han";s:11:"description";s:0:"";s:4:"text";s:213:"Has been really helpful in keeping track of and prioritizing tasks, especially as part of a team of colleagues. We can all see how each other are doing and what the status of things are. Highly recommend this app.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-05-21 14:09:47";s:10:"updated_at";s:19:"2020-05-21 14:09:47";s:10:"deleted_at";N;}i:8;O:8:"stdClass":11:{s:2:"id";i:101;s:7:"item_id";i:71;s:7:"user_id";i:50;s:6:"author";s:5:"James";s:11:"description";s:0:"";s:4:"text";s:283:"This apps makes easy to see exactly who is doing what, set up deadlines, and have conversations on relevant tasks right there within the base. You can also choose who gets notified when there is activity or conversation around a particular task. And the support team is really great.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-05-04 14:09:47";s:10:"updated_at";s:19:"2020-05-04 14:09:47";s:10:"deleted_at";N;}i:9;O:8:"stdClass":11:{s:2:"id";i:100;s:7:"item_id";i:71;s:7:"user_id";i:50;s:6:"author";s:5:"Lucas";s:11:"description";s:0:"";s:4:"text";s:220:"It is a perfect tool is super useful for managing work teams and coordinating teams is super easy to use, has an intuitive interface and easy, is very simple to configure it. I love the ability to put widgets everywhere.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-15 14:09:47";s:10:"updated_at";s:19:"2020-04-15 14:09:47";s:10:"deleted_at";N;}i:10;O:8:"stdClass":11:{s:2:"id";i:99;s:7:"item_id";i:71;s:7:"user_id";i:50;s:6:"author";s:7:"Shaveel";s:11:"description";s:0:"";s:4:"text";s:304:"The ease of creating new projects and the tasks needed for each and assigning them to team members is awesome. It is a very simple app which is what I like best. Project management is hard enough as it is, a project management platform needs to be simple and clean and easy to use and this provides that.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-03-07 14:09:47";s:10:"updated_at";s:19:"2020-03-07 14:09:47";s:10:"deleted_at";N;}i:11;O:8:"stdClass":11:{s:2:"id";i:79;s:7:"item_id";i:71;s:7:"user_id";i:50;s:6:"author";s:5:"Kerry";s:11:"description";s:0:"";s:4:"text";s:64:"Really quick and easy to setup. All our work is now centralized!";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-01-13 14:09:47";s:10:"updated_at";s:19:"2020-01-13 14:09:47";s:10:"deleted_at";N;}i:12;O:8:"stdClass":11:{s:2:"id";i:38;s:7:"item_id";i:71;s:7:"user_id";i:39973;s:6:"author";s:5:"Sefer";s:11:"description";s:0:"";s:4:"text";s:319:"Very effective app. You can manage your expense or revenue by project bases. And also you can see the details or transaction about related project. 
+
+App developers are very polite and open minded. When you have any propose for new update, they can be very eager to implement your request. 
+
+Thanks Project app team";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2019-09-06 16:13:30";s:10:"updated_at";s:19:"2019-09-06 16:35:34";s:10:"deleted_at";N;}i:13;O:8:"stdClass":11:{s:2:"id";i:34;s:7:"item_id";i:71;s:7:"user_id";i:168;s:6:"author";s:7:"Geovane";s:11:"description";s:0:"";s:4:"text";s:379:"Wow the new version rocks. Creating projects, assigning to users and tracking the progress is so simple and user-friendly. I find it very intuitive and you basically don't need training on it.
+
+As Jo said, it had some problems at the beginning but the developer fixed them super quickly and since the new version released yesterday it works like a charm.
+
+Highly recommended!";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2019-06-28 16:18:43";s:10:"updated_at";s:19:"2019-06-28 16:46:32";s:10:"deleted_at";N;}i:14;O:8:"stdClass":11:{s:2:"id";i:33;s:7:"item_id";i:71;s:7:"user_id";i:18814;s:6:"author";s:4:"John";s:11:"description";s:0:"";s:4:"text";s:391:"This new Project app is totally different from the previous one.
+It has great new feature such as tasks, discussion, history of transaction.
+The respond of the developer also fast 
+
+This is a whorty app to have if your company has projects or even branches
+
+Only give 4 stars because it still have some bugs (that I just reported when I wrote this review) that I'm certain will be fixed soon";s:6:"rating";i:4;s:6:"status";i:2;s:10:"created_at";s:19:"2019-06-25 04:36:20";s:10:"updated_at";s:19:"2019-06-25 11:21:49";s:10:"deleted_at";N;}}s:5:"files";O:8:"stdClass":1:{s:1:"1";O:8:"stdClass":13:{s:2:"id";i:2239;s:8:"filename";s:17:"projects-logo.jpg";s:4:"path";O:8:"stdClass":0:{}s:9:"extension";s:3:"jpg";s:8:"mimetype";s:10:"image/jpeg";s:8:"filesize";s:5:"34710";s:9:"folder_id";i:0;s:10:"created_at";s:19:"2020-04-14 17:47:01";s:10:"updated_at";s:19:"2020-04-14 17:47:01";s:10:"deleted_at";N;s:11:"path_string";s:59:"https://akaunting.com/public/assets/media/projects-logo.jpg";s:10:"media_type";s:5:"image";s:5:"pivot";O:8:"stdClass":6:{s:12:"imageable_id";i:71;s:7:"file_id";i:2239;s:4:"zone";s:9:"thumbnail";s:2:"id";i:1875;s:10:"created_at";s:19:"2020-04-14 17:49:35";s:10:"updated_at";s:19:"2021-06-23 16:55:40";}}}s:4:"name";s:8:"Projects";s:4:"slug";s:8:"projects";s:11:"description";s:1092:"<p>Project Management and Team Collaboration Software All in One.</p>
+<p>This app allows you to manage teamwork and deliver projects timely. You can create unlimited projects, attach them to incomes and expense transactions, discuss with your team, upload files, and a lot more.</p>
+<p>Features:</p>
+<ul>
+<li>Get a bird's eye view of all your company projects</li>
+<li>Create unlimited tasks and involve as many people as you want</li>
+<li>Keep all your team's discussions in one place for easy reference</li>
+<li>Allow your team to comment on projects and speedy feedback</li>
+<li>See all of your project files in one place</li>
+<li>Know every bit of the update in a project from the activities page</li>
+<li>Attach invoices, revenues, bills, and payments to projects</li>
+<li>Track the profit and loss per project from the overview page</li>
+<li>Track the time spent on a task</li>
+<li>Convert spent times of tasks easily to invoices with different methods</li>
+<li>Specialized project overview for project owners</li>
+</ul>
+<p>Produce better work faster with your team.</p>";s:12:"installation";s:131:"<p>Install the app within one click from your <strong>Akaunting &gt; Apps &gt; Projects</strong> page then go to&nbsp;Projects.</p>";s:9:"changelog";b:0;s:3:"faq";s:134:"<p>I'm a user of the old Projects app, what should I do?</p>
+<p>Just install this/new one, all of your old data will be migrated.</p>";}}s:4:"from";i:1;s:9:"last_page";i:1;s:13:"next_page_url";N;s:4:"path";s:39:"https://api.akaunting.com/apps/featured";s:8:"per_page";s:1:"4";s:13:"prev_page_url";N;s:2:"to";i:4;s:5:"total";i:4;}

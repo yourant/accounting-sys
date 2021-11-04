@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\akaunting-master-from-mbp\resources\views/partials/reports/content/header.blade.php ENDPATH**/ ?>

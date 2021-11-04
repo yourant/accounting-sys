@@ -484,7 +484,7 @@ a.text-yellow:focus
 .badge-dark
 {
     color: #fff;
-    background-color: #191919;
+    background-color: #FF0000;
 }
 .badge-dark[href]:hover,
 .badge-dark[href]:focus

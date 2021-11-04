@@ -1,0 +1,475 @@
+1629711488O:8:"stdClass":3:{s:7:"modules";O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:8:{i:0;O:8:"stdClass":42:{s:2:"id";i:154;s:11:"category_id";i:0;s:9:"vendor_id";i:1350;s:6:"amount";s:7:"49.0000";s:13:"compatibility";a:1:{i:0;s:3:"21x";}s:19:"available_languages";N;s:7:"version";s:5:"1.0.0";s:11:"dev_version";N;s:4:"demo";s:0:"";s:10:"repository";s:21:"akaunting/module-eway";s:12:"payment_type";s:6:"yearly";s:8:"featured";i:0;s:6:"status";i:2;s:12:"published_at";s:19:"2021-07-02 12:01:31";s:10:"created_at";s:19:"2021-07-02 15:01:31";s:10:"updated_at";s:19:"2021-07-02 17:34:09";s:10:"deleted_at";N;s:13:"category_name";s:14:"Payment Method";s:11:"vendor_name";s:17:"Enes Sacid Büker";s:5:"price";s:3:"$64";s:13:"special_price";s:3:"$49";s:20:"subscription_message";s:158:"All purchases are billed yearly. You may cancel the subscription at any time and can continue to use the app. Subscription refers to support and updates only.";s:4:"vote";i:0;s:12:"total_review";i:0;s:10:"total_vote";i:0;s:8:"releases";b:0;s:12:"app_releases";O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:1:{i:0;O:8:"stdClass":6:{s:9:"item_slug";s:4:"eway";s:17:"akaunting_version";s:6:"2.1.19";s:7:"version";s:5:"1.0.0";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-07-02 15:35:21";s:9:"changelog";s:37:"<ul>
+<li>Initial release.</li>
+</ul>
+";}}s:4:"from";i:1;s:9:"last_page";i:1;s:13:"next_page_url";N;s:4:"path";s:56:"https://api.akaunting.com/apps/categories/payment-method";s:8:"per_page";s:1:"5";s:13:"prev_page_url";N;s:2:"to";i:1;s:5:"total";i:1;}s:11:"status_type";s:6:"active";s:12:"price_prefix";s:0:"";s:12:"price_suffix";s:0:"";s:10:"categories";a:1:{i:0;O:8:"stdClass":5:{s:7:"item_id";i:154;s:11:"category_id";i:1;s:10:"created_at";s:19:"2021-07-02 15:01:31";s:10:"updated_at";s:19:"2021-07-02 15:01:31";s:10:"deleted_at";N;}}s:12:"translations";a:2:{i:0;O:8:"stdClass":14:{s:2:"id";i:307;s:7:"item_id";i:154;s:6:"locale";s:2:"en";s:5:"price";s:3:"$64";s:4:"name";s:4:"eWay";s:4:"slug";s:4:"eway";s:11:"description";s:632:"<p>eWay is a global payment provider that processes secure credit card payments for merchants.</p>
+
+<p>With the eWay app, you can easily accept payments through your Akaunting for your invoices. Once you enter your eWay credentials into Akaunting within the app, the only thing that needs to be done is sending your invoices to your customer, as you are used to.&nbsp;</p>
+
+<p>eWay is currently working only in the following countries and with only the following currencies:</p>
+
+<ul>
+	<li>Australia (AUD)</li>
+	<li>New Zealand (NZD)</li>
+	<li>Singapore (SGD)</li>
+	<li>Hong Kong (HKD)</li>
+	<li>Macau (MOP)</li>
+</ul>
+";s:9:"sort_desc";N;s:12:"installation";s:261:"<ul>
+	<li>Install the app within one click from your Akaunting</li>
+	<li>Go to Settings &gt; eWay</li>
+	<li>Enter the Name, Api Key, Api Password of your eWay account and select the Mode.&nbsp;</li>
+	<li>You&#39;re ready to get paid with eWay!</li>
+</ul>
+";s:9:"changelog";b:0;s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}i:1;O:8:"stdClass":14:{s:2:"id";i:308;s:7:"item_id";i:154;s:6:"locale";s:2:"tr";s:5:"price";i:0;s:4:"name";s:4:"eWay";s:4:"slug";s:4:"eway";s:11:"description";s:632:"<p>eWay is a global payment provider that processes secure credit card payments for merchants.</p>
+
+<p>With the eWay app, you can easily accept payments through your Akaunting for your invoices. Once you enter your eWay credentials into Akaunting within the app, the only thing that needs to be done is sending your invoices to your customer, as you are used to.&nbsp;</p>
+
+<p>eWay is currently working only in the following countries and with only the following currencies:</p>
+
+<ul>
+	<li>Australia (AUD)</li>
+	<li>New Zealand (NZD)</li>
+	<li>Singapore (SGD)</li>
+	<li>Hong Kong (HKD)</li>
+	<li>Macau (MOP)</li>
+</ul>
+";s:9:"sort_desc";N;s:12:"installation";s:261:"<ul>
+	<li>Install the app within one click from your Akaunting</li>
+	<li>Go to Settings &gt; eWay</li>
+	<li>Enter the Name, Api Key, Api Password of your eWay account and select the Mode.&nbsp;</li>
+	<li>You&#39;re ready to get paid with eWay!</li>
+</ul>
+";s:9:"changelog";s:0:"";s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}}s:8:"category";O:8:"stdClass":8:{s:2:"id";i:1;s:6:"status";i:2;s:10:"created_at";s:19:"2017-09-11 15:14:53";s:10:"updated_at";s:19:"2017-09-11 15:14:53";s:10:"deleted_at";N;s:12:"translations";a:2:{i:0;O:8:"stdClass":6:{s:2:"id";i:1;s:11:"category_id";i:1;s:6:"locale";s:2:"en";s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";s:10:"deleted_at";N;}i:1;O:8:"stdClass":6:{s:2:"id";i:2;s:11:"category_id";i:1;s:6:"locale";s:2:"tr";s:4:"name";s:13:"Ödeme Metodu";s:4:"slug";s:12:"odeme-metodu";s:10:"deleted_at";N;}}s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";}s:6:"vendor";O:8:"stdClass":19:{s:2:"id";i:1350;s:7:"user_id";i:93160;s:15:"vendor_group_id";i:1;s:8:"nickname";s:5:"Enes ";s:4:"slug";s:16:"enes-sacid-buker";s:6:"github";s:15:"EnesSacid-Buker";s:14:"referrer_email";s:19:"esbuker58@gmail.com";s:16:"payoneer_account";s:0:"";s:7:"company";s:17:"Enes Sacid Büker";s:7:"website";s:0:"";s:11:"description";s:27:"<p>Enesin description</p>
+";s:10:"commission";s:2:"30";s:15:"billing_details";O:8:"stdClass":6:{s:4:"name";s:17:"Enes Sacid Büker";s:7:"address";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:9:"post_code";s:0:"";s:7:"country";s:0:"";}s:15:"payment_details";O:8:"stdClass":9:{s:12:"payment_type";N;s:18:"payment_type_email";N;s:12:"account_name";s:0:"";s:14:"account_number";s:0:"";s:10:"swift_code";s:0:"";s:9:"bank_name";s:0:"";s:9:"bank_city";s:0:"";s:12:"bank_country";s:0:"";s:13:"currency_code";s:0:"";}s:6:"status";i:2;s:10:"created_at";s:19:"2021-07-02 10:34:03";s:10:"updated_at";s:19:"2021-07-02 19:30:08";s:10:"deleted_at";N;s:4:"user";O:8:"stdClass":12:{s:2:"id";i:93160;s:5:"email";s:19:"esbuker58@gmail.com";s:11:"permissions";a:0:{}s:10:"last_login";s:19:"2021-08-13 17:34:49";s:10:"first_name";s:10:"Enes Sacid";s:9:"last_name";s:6:"Büker";s:10:"created_at";s:19:"2020-10-20 11:24:04";s:10:"updated_at";s:19:"2021-08-13 17:34:49";s:11:"bill_fields";O:8:"stdClass":8:{s:9:"firstName";s:10:"Enes Sacid";s:8:"lastName";s:6:"Büker";s:7:"company";s:4:"null";s:5:"email";s:19:"esbuker58@gmail.com";s:15:"shippingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"billingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"identityNumber";s:12:"243416093160";s:12:"mobileNumber";s:11:"05000000000";}s:11:"iyzipay_key";N;s:6:"params";s:148:"{"email_verification":null,"location":{"continent":"Asia","country":"Turkey","region":"Istanbul","city":"Ba\u011fc\u0131lar"},"stage":"acquisition"}";s:10:"deleted_at";N;}}s:7:"reviews";a:0:{}s:5:"files";O:8:"stdClass":1:{s:1:"1";O:8:"stdClass":13:{s:2:"id";i:5722;s:8:"filename";s:15:"eway-logo_1.png";s:4:"path";O:8:"stdClass":0:{}s:9:"extension";s:3:"png";s:8:"mimetype";s:9:"image/png";s:8:"filesize";s:5:"57326";s:9:"folder_id";i:0;s:10:"created_at";s:19:"2021-07-02 17:33:51";s:10:"updated_at";s:19:"2021-07-02 19:30:08";s:10:"deleted_at";N;s:11:"path_string";s:84:"https://akaunting.com/public/assets/media/1350-enes-sacid-buker/eway/eway-logo_1.png";s:10:"media_type";s:5:"image";s:5:"pivot";O:8:"stdClass":6:{s:12:"imageable_id";i:154;s:7:"file_id";i:5722;s:4:"zone";s:9:"thumbnail";s:2:"id";i:4997;s:10:"created_at";s:19:"2021-07-02 17:34:09";s:10:"updated_at";s:19:"2021-07-02 17:34:10";}}}s:4:"name";s:4:"eWay";s:4:"slug";s:4:"eway";s:11:"description";s:632:"<p>eWay is a global payment provider that processes secure credit card payments for merchants.</p>
+
+<p>With the eWay app, you can easily accept payments through your Akaunting for your invoices. Once you enter your eWay credentials into Akaunting within the app, the only thing that needs to be done is sending your invoices to your customer, as you are used to.&nbsp;</p>
+
+<p>eWay is currently working only in the following countries and with only the following currencies:</p>
+
+<ul>
+	<li>Australia (AUD)</li>
+	<li>New Zealand (NZD)</li>
+	<li>Singapore (SGD)</li>
+	<li>Hong Kong (HKD)</li>
+	<li>Macau (MOP)</li>
+</ul>
+";s:12:"installation";s:261:"<ul>
+	<li>Install the app within one click from your Akaunting</li>
+	<li>Go to Settings &gt; eWay</li>
+	<li>Enter the Name, Api Key, Api Password of your eWay account and select the Mode.&nbsp;</li>
+	<li>You&#39;re ready to get paid with eWay!</li>
+</ul>
+";s:9:"changelog";b:0;s:3:"faq";s:0:"";}i:1;O:8:"stdClass":42:{s:2:"id";i:167;s:11:"category_id";i:0;s:9:"vendor_id";i:860;s:6:"amount";s:7:"49.0000";s:13:"compatibility";a:1:{i:0;s:3:"21x";}s:19:"available_languages";N;s:7:"version";s:5:"1.0.0";s:11:"dev_version";N;s:4:"demo";s:0:"";s:10:"repository";s:28:"akaunting/module-flutterwave";s:12:"payment_type";s:6:"yearly";s:8:"featured";i:0;s:6:"status";i:2;s:12:"published_at";s:19:"2021-08-13 13:13:20";s:10:"created_at";s:19:"2021-08-13 16:13:20";s:10:"updated_at";s:19:"2021-08-14 01:14:26";s:10:"deleted_at";N;s:13:"category_name";s:14:"Payment Method";s:11:"vendor_name";s:12:"Mauko Maunde";s:5:"price";s:3:"$64";s:13:"special_price";s:3:"$49";s:20:"subscription_message";s:158:"All purchases are billed yearly. You may cancel the subscription at any time and can continue to use the app. Subscription refers to support and updates only.";s:4:"vote";i:0;s:12:"total_review";i:0;s:10:"total_vote";i:0;s:8:"releases";b:0;s:12:"app_releases";O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:1:{i:0;O:8:"stdClass":6:{s:9:"item_slug";s:11:"flutterwave";s:17:"akaunting_version";s:6:"2.1.22";s:7:"version";s:5:"1.0.0";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-08-13 16:40:18";s:9:"changelog";s:71:"<p>This is the first release of the Flutterwave app for Akaunting.</p>
+";}}s:4:"from";i:1;s:9:"last_page";i:1;s:13:"next_page_url";N;s:4:"path";s:56:"https://api.akaunting.com/apps/categories/payment-method";s:8:"per_page";s:1:"5";s:13:"prev_page_url";N;s:2:"to";i:1;s:5:"total";i:1;}s:11:"status_type";s:6:"active";s:12:"price_prefix";s:0:"";s:12:"price_suffix";s:0:"";s:10:"categories";a:1:{i:0;O:8:"stdClass":5:{s:7:"item_id";i:167;s:11:"category_id";i:1;s:10:"created_at";s:19:"2021-08-13 16:13:20";s:10:"updated_at";s:19:"2021-08-13 16:13:20";s:10:"deleted_at";N;}}s:12:"translations";a:2:{i:0;O:8:"stdClass":14:{s:2:"id";i:333;s:7:"item_id";i:167;s:6:"locale";s:2:"en";s:5:"price";s:3:"$64";s:4:"name";s:11:"Flutterwave";s:4:"slug";s:11:"flutterwave";s:11:"description";s:946:"<p>Flutterwave is a payment gateway to make and accept payments.</p>
+
+<p>With the Flutterwave app, you can easily accept payments through your Akaunting for your invoices. Once you enter your Flutterwave credentials into Akaunting within the app, the only thing that needs to be done is sending your invoices to your customer, as you are used to. This app also gives you the flexibility of managing your financials over Akaunting.</p>
+
+<p>Flutterwave offers a range of services that make it possible for you to send and receive money across the world in minutes. Accept payments via Cards, Banks and Mobile Money across Africa.</p>
+
+<p>Supported payment methods include:</p>
+
+<ul>
+	<li>Card payments</li>
+	<li>Account payments</li>
+	<li>UK Account payments</li>
+	<li>Mpesa</li>
+	<li>Ussd payments</li>
+	<li>Rwanda mobile money</li>
+	<li>Uganda mobile money</li>
+	<li>Zambia mobile money</li>
+	<li>Ghana mobile money</li>
+</ul>
+";s:9:"sort_desc";N;s:12:"installation";s:414:"<ul>
+	<li>Install the app within one click from your Akaunting &gt; Apps &gt; Flutterwave page then go to Settings &gt; Flutterwave</li>
+	<li>If you have not created an account yet, go to https://dashboard.flutterwave.com/signup and create an account. Navigate to the settings page and click on the API tabs to get your public and secret key.</li>
+	<li>Add your API keys to your Akaunting Settings</li>
+</ul>
+";s:9:"changelog";b:0;s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}i:1;O:8:"stdClass":14:{s:2:"id";i:334;s:7:"item_id";i:167;s:6:"locale";s:2:"tr";s:5:"price";i:0;s:4:"name";s:11:"Flutterwave";s:4:"slug";s:11:"flutterwave";s:11:"description";s:946:"<p>Flutterwave is a payment gateway to make and accept payments.</p>
+
+<p>With the Flutterwave app, you can easily accept payments through your Akaunting for your invoices. Once you enter your Flutterwave credentials into Akaunting within the app, the only thing that needs to be done is sending your invoices to your customer, as you are used to. This app also gives you the flexibility of managing your financials over Akaunting.</p>
+
+<p>Flutterwave offers a range of services that make it possible for you to send and receive money across the world in minutes. Accept payments via Cards, Banks and Mobile Money across Africa.</p>
+
+<p>Supported payment methods include:</p>
+
+<ul>
+	<li>Card payments</li>
+	<li>Account payments</li>
+	<li>UK Account payments</li>
+	<li>Mpesa</li>
+	<li>Ussd payments</li>
+	<li>Rwanda mobile money</li>
+	<li>Uganda mobile money</li>
+	<li>Zambia mobile money</li>
+	<li>Ghana mobile money</li>
+</ul>
+";s:9:"sort_desc";N;s:12:"installation";s:411:"<ul>
+	<li>Install the app within one click from your Akaunting &gt; Apps &gt; Flutterwave page then go to Settings &gt; PayFlexi</li>
+	<li>If you have not created an account yet, go to https://dashboard.flutterwave.com/signup and create an account. Navigate to the settings page and click on the API tabs to get your public and secret key.</li>
+	<li>Add your API keys to your Akaunting Settings</li>
+</ul>
+";s:9:"changelog";s:0:"";s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}}s:8:"category";O:8:"stdClass":8:{s:2:"id";i:1;s:6:"status";i:2;s:10:"created_at";s:19:"2017-09-11 15:14:53";s:10:"updated_at";s:19:"2017-09-11 15:14:53";s:10:"deleted_at";N;s:12:"translations";a:2:{i:0;O:8:"stdClass":6:{s:2:"id";i:1;s:11:"category_id";i:1;s:6:"locale";s:2:"en";s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";s:10:"deleted_at";N;}i:1;O:8:"stdClass":6:{s:2:"id";i:2;s:11:"category_id";i:1;s:6:"locale";s:2:"tr";s:4:"name";s:13:"Ödeme Metodu";s:4:"slug";s:12:"odeme-metodu";s:10:"deleted_at";N;}}s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";}s:6:"vendor";O:8:"stdClass":19:{s:2:"id";i:860;s:7:"user_id";i:72067;s:15:"vendor_group_id";i:1;s:8:"nickname";s:12:"Mauko Maunde";s:4:"slug";s:12:"mauko-maunde";s:6:"github";s:6:"osenco";s:14:"referrer_email";s:0:"";s:16:"payoneer_account";s:0:"";s:7:"company";s:13:"Osen Concepts";s:7:"website";s:18:"https://hela.co.ke";s:11:"description";s:58:"Helping small businesses manage their payments affordably.";s:10:"commission";s:2:"30";s:15:"billing_details";O:8:"stdClass":6:{s:4:"name";s:12:"Mauko Maunde";s:7:"address";s:27:"Kiamunyi Estate Appartments";s:4:"city";s:7:"Nairobi";s:5:"state";s:7:"Nairobi";s:9:"post_code";s:5:"80117";s:7:"country";s:3:"KEN";}s:15:"payment_details";O:8:"stdClass":9:{s:12:"payment_type";s:8:"payoneer";s:18:"payment_type_email";s:18:"maukoese@gmail.com";s:12:"account_name";s:0:"";s:14:"account_number";s:0:"";s:10:"swift_code";s:0:"";s:9:"bank_name";s:0:"";s:9:"bank_city";s:0:"";s:12:"bank_country";s:0:"";s:13:"currency_code";s:0:"";}s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-10 18:32:11";s:10:"updated_at";s:19:"2021-08-13 16:21:15";s:10:"deleted_at";N;s:4:"user";O:8:"stdClass":12:{s:2:"id";i:72067;s:5:"email";s:18:"maukoese@gmail.com";s:11:"permissions";a:0:{}s:10:"last_login";s:19:"2021-08-16 23:55:10";s:10:"first_name";s:5:"Mauko";s:9:"last_name";s:6:"Maunde";s:10:"created_at";s:19:"2020-04-10 17:17:45";s:10:"updated_at";s:19:"2021-08-16 23:55:10";s:11:"bill_fields";N;s:11:"iyzipay_key";N;s:6:"params";s:151:"{"email_verification":null,"location":{"continent":"Europe","country":"Netherlands","region":"North Holland","city":"Amsterdam"},"stage":"acquisition"}";s:10:"deleted_at";N;}}s:7:"reviews";a:0:{}s:5:"files";a:1:{i:0;O:8:"stdClass":13:{s:2:"id";i:6137;s:8:"filename";s:20:"flutterwave-logo.png";s:4:"path";O:8:"stdClass":0:{}s:9:"extension";s:3:"png";s:8:"mimetype";s:9:"image/png";s:8:"filesize";s:5:"38855";s:9:"folder_id";i:0;s:10:"created_at";s:19:"2021-08-13 16:13:20";s:10:"updated_at";s:19:"2021-08-13 16:21:11";s:10:"deleted_at";N;s:11:"path_string";s:91:"https://akaunting.com/public/assets/media/860-mauko-maunde/flutterwave/flutterwave-logo.png";s:10:"media_type";s:5:"image";s:5:"pivot";O:8:"stdClass":6:{s:12:"imageable_id";i:167;s:7:"file_id";i:6137;s:4:"zone";s:9:"thumbnail";s:2:"id";i:5380;s:10:"created_at";s:19:"2021-08-13 16:13:20";s:10:"updated_at";s:19:"2021-08-14 01:14:26";}}}s:4:"name";s:11:"Flutterwave";s:4:"slug";s:11:"flutterwave";s:11:"description";s:946:"<p>Flutterwave is a payment gateway to make and accept payments.</p>
+
+<p>With the Flutterwave app, you can easily accept payments through your Akaunting for your invoices. Once you enter your Flutterwave credentials into Akaunting within the app, the only thing that needs to be done is sending your invoices to your customer, as you are used to. This app also gives you the flexibility of managing your financials over Akaunting.</p>
+
+<p>Flutterwave offers a range of services that make it possible for you to send and receive money across the world in minutes. Accept payments via Cards, Banks and Mobile Money across Africa.</p>
+
+<p>Supported payment methods include:</p>
+
+<ul>
+	<li>Card payments</li>
+	<li>Account payments</li>
+	<li>UK Account payments</li>
+	<li>Mpesa</li>
+	<li>Ussd payments</li>
+	<li>Rwanda mobile money</li>
+	<li>Uganda mobile money</li>
+	<li>Zambia mobile money</li>
+	<li>Ghana mobile money</li>
+</ul>
+";s:12:"installation";s:414:"<ul>
+	<li>Install the app within one click from your Akaunting &gt; Apps &gt; Flutterwave page then go to Settings &gt; Flutterwave</li>
+	<li>If you have not created an account yet, go to https://dashboard.flutterwave.com/signup and create an account. Navigate to the settings page and click on the API tabs to get your public and secret key.</li>
+	<li>Add your API keys to your Akaunting Settings</li>
+</ul>
+";s:9:"changelog";b:0;s:3:"faq";s:0:"";}i:2;O:8:"stdClass":42:{s:2:"id";i:14;s:11:"category_id";i:1;s:9:"vendor_id";i:4;s:6:"amount";s:7:"49.0000";s:13:"compatibility";a:2:{i:0;s:2:"1x";i:1;s:2:"2x";}s:19:"available_languages";N;s:7:"version";s:5:"2.0.2";s:11:"dev_version";N;s:4:"demo";s:0:"";s:10:"repository";s:23:"akaunting/module-iyzico";s:12:"payment_type";s:6:"yearly";s:8:"featured";i:0;s:6:"status";i:2;s:12:"published_at";s:19:"2017-11-21 12:04:22";s:10:"created_at";s:19:"2017-11-21 12:04:22";s:10:"updated_at";s:19:"2021-04-23 15:05:20";s:10:"deleted_at";N;s:13:"category_name";s:14:"Payment Method";s:11:"vendor_name";s:13:"Akaunting Inc";s:5:"price";s:3:"$64";s:13:"special_price";s:3:"$49";s:20:"subscription_message";s:158:"All purchases are billed yearly. You may cancel the subscription at any time and can continue to use the app. Subscription refers to support and updates only.";s:4:"vote";i:5;s:12:"total_review";i:1;s:10:"total_vote";i:5;s:8:"releases";b:0;s:12:"app_releases";O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:5:{i:0;O:8:"stdClass":6:{s:9:"item_slug";s:6:"iyzico";s:17:"akaunting_version";s:6:"2.1.10";s:7:"version";s:5:"2.0.2";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-04-23 15:05:20";s:9:"changelog";s:54:"<ul>     <li>Akaunting 2.1.10 compatibility</li> </ul>";}i:1;O:8:"stdClass":6:{s:9:"item_slug";s:6:"iyzico";s:17:"akaunting_version";s:5:"2.0.0";s:7:"version";s:5:"2.0.1";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2020-07-21 00:00:00";s:9:"changelog";s:55:"<ul><li>Added: Duplicate packages to composer</li></ul>";}i:2;O:8:"stdClass":6:{s:9:"item_slug";s:6:"iyzico";s:17:"akaunting_version";s:5:"2.0.0";s:7:"version";s:5:"2.0.0";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2020-02-13 00:00:00";s:9:"changelog";s:52:"<ul><li>Added: Akaunting 2.0 compatibility</li></ul>";}i:3;O:8:"stdClass":6:{s:9:"item_slug";s:6:"iyzico";s:17:"akaunting_version";s:5:"2.0.0";s:7:"version";s:5:"1.0.1";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2019-02-02 00:00:00";s:9:"changelog";s:49:"<ul><li>Fixed: Signed URL confirm issue</li></ul>";}i:4;O:8:"stdClass":6:{s:9:"item_slug";s:6:"iyzico";s:17:"akaunting_version";s:5:"1.0.0";s:7:"version";s:5:"1.0.0";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2017-11-13 00:00:00";s:9:"changelog";s:34:"<ul><li>Initial release.</li></ul>";}}s:4:"from";i:1;s:9:"last_page";i:1;s:13:"next_page_url";N;s:4:"path";s:56:"https://api.akaunting.com/apps/categories/payment-method";s:8:"per_page";s:1:"5";s:13:"prev_page_url";N;s:2:"to";i:5;s:5:"total";i:5;}s:11:"status_type";s:6:"active";s:12:"price_prefix";s:0:"";s:12:"price_suffix";s:0:"";s:10:"categories";a:1:{i:0;O:8:"stdClass":5:{s:7:"item_id";i:14;s:11:"category_id";i:1;s:10:"created_at";s:19:"2020-08-13 20:10:54";s:10:"updated_at";s:19:"2020-08-13 20:10:54";s:10:"deleted_at";N;}}s:12:"translations";a:2:{i:0;O:8:"stdClass":14:{s:2:"id";i:27;s:7:"item_id";i:14;s:6:"locale";s:2:"en";s:5:"price";s:3:"$64";s:4:"name";s:6:"iyzico";s:4:"slug";s:6:"iyzico";s:11:"description";s:137:"<p>This app allows your customers to pay their invoices online via iyzico.com, the secure and easy way to accept credit cards online.</p>";s:9:"sort_desc";N;s:12:"installation";s:72:"<p>Install the app within one click from your Akaunting admin panel.</p>";s:9:"changelog";b:0;s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}i:1;O:8:"stdClass":14:{s:2:"id";i:28;s:7:"item_id";i:14;s:6:"locale";s:2:"tr";s:5:"price";i:0;s:4:"name";s:6:"iyzico";s:4:"slug";s:6:"iyzico";s:11:"description";s:230:"<p>Bu uygulama sayesinde İyzico ile online tahsilat alabilirsiniz. M&uuml;şterileriniz kredi kartlarını kullanarak faturaları kolaylıkla &ouml;deyebilirler.</p>
+<p><img src="http://i68.tinypic.com/23icvhs.jpg" alt="" /></p>";s:9:"sort_desc";N;s:12:"installation";s:69:"<p>Akaunting y&ouml;netim panelinden tık tıkla kurulumu yapın.</p>";s:9:"changelog";s:243:"<p>2.0.0 - 13 Şub 2020</p>
+<ul>
+<li>Eklendi: Akaunting 2.0 uyumluluğu</li>
+</ul>
+<p>1.0.1 - 2 Şub 2019</p>
+<ul>
+<li>Fixed: Signed URL confirm issue</li>
+</ul>
+<p>1.0.0 - 10 Kasım 2017</p>
+<ul>
+<li>İlk s&uuml;r&uuml;m</li>
+</ul>";s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}}s:8:"category";O:8:"stdClass":8:{s:2:"id";i:1;s:6:"status";i:2;s:10:"created_at";s:19:"2017-09-11 15:14:53";s:10:"updated_at";s:19:"2017-09-11 15:14:53";s:10:"deleted_at";N;s:12:"translations";a:2:{i:0;O:8:"stdClass":6:{s:2:"id";i:1;s:11:"category_id";i:1;s:6:"locale";s:2:"en";s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";s:10:"deleted_at";N;}i:1;O:8:"stdClass":6:{s:2:"id";i:2;s:11:"category_id";i:1;s:6:"locale";s:2:"tr";s:4:"name";s:13:"Ödeme Metodu";s:4:"slug";s:12:"odeme-metodu";s:10:"deleted_at";N;}}s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";}s:6:"vendor";O:8:"stdClass":19:{s:2:"id";i:4;s:7:"user_id";i:457;s:15:"vendor_group_id";i:1;s:8:"nickname";s:13:"Akaunting Inc";s:4:"slug";s:13:"akaunting-inc";s:6:"github";s:0:"";s:14:"referrer_email";N;s:16:"payoneer_account";s:18:"info@akaunting.com";s:7:"company";s:14:"Akaunting Inc.";s:7:"website";s:22:"https://akaunting.com/";s:11:"description";s:33:"<p>Free Accounting Software</p>
+";s:10:"commission";s:2:"30";s:15:"billing_details";O:8:"stdClass":0:{}s:15:"payment_details";O:8:"stdClass":0:{}s:6:"status";i:2;s:10:"created_at";s:19:"2017-11-01 22:05:45";s:10:"updated_at";s:19:"2017-11-08 00:13:55";s:10:"deleted_at";N;s:4:"user";O:8:"stdClass":12:{s:2:"id";i:457;s:5:"email";s:18:"info@akaunting.com";s:11:"permissions";O:8:"stdClass":135:{s:18:"block.blocks.index";b:1;s:19:"block.blocks.create";b:1;s:17:"block.blocks.edit";b:1;s:20:"block.blocks.destroy";b:1;s:16:"blog.posts.index";b:1;s:17:"blog.posts.create";b:1;s:15:"blog.posts.edit";b:1;s:18:"blog.posts.destroy";b:1;s:21:"blog.categories.index";b:1;s:22:"blog.categories.create";b:1;s:20:"blog.categories.edit";b:1;s:23:"blog.categories.destroy";b:1;s:15:"blog.tags.index";b:1;s:16:"blog.tags.create";b:1;s:14:"blog.tags.edit";b:1;s:17:"blog.tags.destroy";b:1;s:21:"cloud.companies.index";b:1;s:22:"cloud.companies.create";b:1;s:20:"cloud.companies.edit";b:1;s:23:"cloud.companies.destroy";b:1;s:29:"contact.contactrequests.index";b:1;s:28:"contact.contactrequests.show";b:1;s:31:"contact.contactrequests.destroy";b:1;s:18:"core.sidebar.group";b:1;s:15:"dashboard.index";b:1;s:16:"dashboard.update";b:1;s:15:"dashboard.reset";b:1;s:16:"docs.items.index";b:1;s:17:"docs.items.create";b:1;s:15:"docs.items.edit";b:1;s:18:"docs.items.destroy";b:1;s:18:"media.medias.index";b:1;s:19:"media.medias.create";b:1;s:17:"media.medias.edit";b:1;s:20:"media.medias.destroy";b:1;s:16:"menu.menus.index";b:1;s:17:"menu.menus.create";b:1;s:15:"menu.menus.edit";b:1;s:18:"menu.menus.destroy";b:1;s:20:"menu.menuitems.index";b:1;s:21:"menu.menuitems.create";b:1;s:19:"menu.menuitems.edit";b:1;s:22:"menu.menuitems.destroy";b:1;s:19:"module.core.version";b:1;s:20:"module.core.download";b:1;s:20:"module.vendors.index";b:1;s:21:"module.vendors.create";b:1;s:19:"module.vendors.edit";b:1;s:22:"module.vendors.destroy";b:1;s:25:"module.vendor_items.index";b:1;s:26:"module.vendor_items.create";b:1;s:24:"module.vendor_items.edit";b:1;s:27:"module.vendor_items.destroy";b:1;s:26:"module.vendor_groups.index";b:1;s:27:"module.vendor_groups.create";b:1;s:25:"module.vendor_groups.edit";b:1;s:28:"module.vendor_groups.destroy";b:1;s:24:"module.commissions.index";b:1;s:25:"module.commissions.create";b:1;s:23:"module.commissions.edit";b:1;s:26:"module.commissions.destroy";b:1;s:21:"module.balances.index";b:1;s:22:"module.balances.create";b:1;s:20:"module.balances.edit";b:1;s:23:"module.balances.destroy";b:1;s:23:"module.categories.index";b:1;s:22:"module.categories.slug";b:1;s:24:"module.categories.create";b:1;s:22:"module.categories.edit";b:1;s:25:"module.categories.destroy";b:1;s:18:"module.items.index";b:1;s:17:"module.items.slug";b:1;s:20:"module.items.version";b:1;s:21:"module.items.download";b:1;s:19:"module.items.create";b:1;s:17:"module.items.edit";b:1;s:20:"module.items.destroy";b:1;s:17:"module.paid.index";b:1;s:16:"module.new.index";b:1;s:17:"module.free.index";b:1;s:19:"module.orders.index";b:1;s:20:"module.orders.create";b:1;s:18:"module.orders.edit";b:1;s:21:"module.orders.destroy";b:1;s:29:"module.frontend.vendors.index";b:1;s:30:"module.frontend.vendors.create";b:1;s:28:"module.frontend.vendors.edit";b:1;s:31:"module.frontend.vendors.destroy";b:1;s:34:"module.frontend.vendor_items.index";b:1;s:35:"module.frontend.vendor_items.create";b:1;s:33:"module.frontend.vendor_items.edit";b:1;s:33:"module.frontend.vendor_items.show";b:1;s:36:"module.frontend.vendor_items.destroy";b:1;s:28:"module.frontend.orders.index";b:1;s:29:"module.frontend.orders.create";b:1;s:27:"module.frontend.orders.edit";b:1;s:30:"module.frontend.orders.destroy";b:1;s:16:"page.pages.index";b:1;s:17:"page.pages.create";b:1;s:15:"page.pages.edit";b:1;s:18:"page.pages.destroy";b:1;s:22:"setting.settings.index";b:1;s:21:"setting.settings.edit";b:1;s:14:"tag.tags.index";b:1;s:15:"tag.tags.create";b:1;s:13:"tag.tags.edit";b:1;s:16:"tag.tags.destroy";b:1;s:30:"translation.translations.index";b:1;s:29:"translation.translations.edit";b:1;s:31:"translation.translations.import";b:1;s:31:"translation.translations.export";b:1;s:16:"user.users.index";b:1;s:17:"user.users.create";b:1;s:15:"user.users.edit";b:1;s:18:"user.users.destroy";b:1;s:16:"user.roles.index";b:1;s:17:"user.roles.create";b:1;s:15:"user.roles.edit";b:1;s:18:"user.roles.destroy";b:1;s:22:"account.api-keys.index";b:1;s:23:"account.api-keys.create";b:1;s:24:"account.api-keys.destroy";b:1;s:20:"account.tokens.index";b:1;s:21:"account.tokens.create";b:1;s:22:"account.tokens.destroy";b:1;s:22:"workshop.sidebar.group";b:1;s:22:"workshop.modules.index";b:1;s:21:"workshop.modules.show";b:1;s:23:"workshop.modules.update";b:1;s:24:"workshop.modules.disable";b:1;s:23:"workshop.modules.enable";b:1;s:24:"workshop.modules.publish";b:1;s:21:"workshop.themes.index";b:1;s:20:"workshop.themes.show";b:1;s:23:"workshop.themes.publish";b:1;}s:10:"last_login";s:19:"2021-08-23 10:03:22";s:10:"first_name";s:9:"Akaunting";s:9:"last_name";s:3:"Inc";s:10:"created_at";s:19:"2017-11-01 21:24:31";s:10:"updated_at";s:19:"2021-08-23 10:03:22";s:11:"bill_fields";O:8:"stdClass":8:{s:9:"firstName";s:9:"Akaunting";s:8:"lastName";s:3:"Inc";s:7:"company";s:13:"Akaunting Inc";s:5:"email";s:18:"info@akaunting.com";s:15:"shippingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"billingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"identityNumber";s:11:"23362380457";s:12:"mobileNumber";s:11:"05000000000";}s:11:"iyzipay_key";s:28:"c6XJeExPXQUbeks9bVMkK3ln7SI=";s:6:"params";s:108:"{"location":{"continent":"Asia","country":"Turkey","region":"Istanbul","city":"Istanbul"},"stage":"revenue"}";s:10:"deleted_at";N;}}s:7:"reviews";a:1:{i:0;O:8:"stdClass":11:{s:2:"id";i:247;s:7:"item_id";i:14;s:7:"user_id";i:50;s:6:"author";s:5:"Gamze";s:11:"description";s:0:"";s:4:"text";s:117:"Great app! It is nice to accept payments with iyzico when sending invoice to customer and keep records automatically.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-10-24 18:10:00";s:10:"updated_at";s:19:"2020-11-03 18:08:01";s:10:"deleted_at";N;}}s:5:"files";a:1:{i:0;O:8:"stdClass":13:{s:2:"id";i:711;s:8:"filename";s:15:"iyzico-logo.png";s:4:"path";O:8:"stdClass":0:{}s:9:"extension";s:3:"png";s:8:"mimetype";s:9:"image/png";s:8:"filesize";s:5:"65380";s:9:"folder_id";i:0;s:10:"created_at";s:19:"2019-02-07 14:42:40";s:10:"updated_at";s:19:"2019-02-07 14:42:40";s:10:"deleted_at";N;s:11:"path_string";s:80:"https://akaunting.com/public/assets/media/4-akaunting-inc/iyzico/iyzico-logo.png";s:10:"media_type";s:5:"image";s:5:"pivot";O:8:"stdClass":6:{s:12:"imageable_id";i:14;s:7:"file_id";i:711;s:4:"zone";s:9:"thumbnail";s:2:"id";i:586;s:10:"created_at";s:19:"2019-02-07 14:43:32";s:10:"updated_at";s:19:"2020-07-21 18:39:30";}}}s:4:"name";s:6:"iyzico";s:4:"slug";s:6:"iyzico";s:11:"description";s:137:"<p>This app allows your customers to pay their invoices online via iyzico.com, the secure and easy way to accept credit cards online.</p>";s:12:"installation";s:72:"<p>Install the app within one click from your Akaunting admin panel.</p>";s:9:"changelog";b:0;s:3:"faq";s:0:"";}i:3;O:8:"stdClass":42:{s:2:"id";i:79;s:11:"category_id";i:1;s:9:"vendor_id";i:284;s:6:"amount";s:7:"49.0000";s:13:"compatibility";a:2:{i:0;s:2:"1x";i:1;s:2:"2x";}s:19:"available_languages";N;s:7:"version";s:5:"2.1.2";s:11:"dev_version";N;s:4:"demo";s:0:"";s:10:"repository";s:23:"akaunting/module-mollie";s:12:"payment_type";s:6:"yearly";s:8:"featured";i:0;s:6:"status";i:2;s:12:"published_at";s:19:"2019-09-23 16:51:24";s:10:"created_at";s:19:"2019-09-23 16:48:01";s:10:"updated_at";s:19:"2021-05-24 15:58:25";s:10:"deleted_at";N;s:13:"category_name";s:14:"Payment Method";s:11:"vendor_name";s:11:"Sevan Nerse";s:5:"price";s:3:"$64";s:13:"special_price";s:3:"$49";s:20:"subscription_message";s:158:"All purchases are billed yearly. You may cancel the subscription at any time and can continue to use the app. Subscription refers to support and updates only.";s:4:"vote";i:5;s:12:"total_review";i:6;s:10:"total_vote";i:30;s:8:"releases";b:0;s:12:"app_releases";O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:5:{i:0;O:8:"stdClass":6:{s:9:"item_slug";s:6:"mollie";s:17:"akaunting_version";s:6:"2.1.14";s:7:"version";s:5:"2.1.2";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-05-24 15:58:26";s:9:"changelog";s:60:"<ul>
+<li>Fixed: Missing required parameter error</li>
+</ul>
+";}i:1;O:8:"stdClass":6:{s:9:"item_slug";s:6:"mollie";s:17:"akaunting_version";s:6:"2.1.14";s:7:"version";s:5:"2.1.1";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-05-22 10:36:21";s:9:"changelog";s:52:"<ul>
+<li>Fixed: Loading is not finishing</li>
+</ul>
+";}i:2;O:8:"stdClass":6:{s:9:"item_slug";s:6:"mollie";s:17:"akaunting_version";s:6:"2.1.10";s:7:"version";s:5:"2.1.0";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-04-21 15:10:05";s:9:"changelog";s:48:"<ul><li>Akaunting 2.1.10 compatibility</li></ul>";}i:3;O:8:"stdClass":6:{s:9:"item_slug";s:6:"mollie";s:17:"akaunting_version";s:5:"2.0.0";s:7:"version";s:5:"2.0.2";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2020-05-24 00:00:00";s:9:"changelog";s:56:"<ul><li>Enhancement: app dependency is updated</li></ul>";}i:4;O:8:"stdClass":6:{s:9:"item_slug";s:6:"mollie";s:17:"akaunting_version";s:5:"2.0.0";s:7:"version";s:5:"2.0.3";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2020-05-24 00:00:00";s:9:"changelog";s:56:"<ul><li>Enhancement: app dependency is updated</li></ul>";}}s:4:"from";i:1;s:9:"last_page";i:2;s:13:"next_page_url";s:63:"https://api.akaunting.com/apps/categories/payment-method?page=2";s:4:"path";s:56:"https://api.akaunting.com/apps/categories/payment-method";s:8:"per_page";s:1:"5";s:13:"prev_page_url";N;s:2:"to";i:5;s:5:"total";i:9;}s:11:"status_type";s:6:"active";s:12:"price_prefix";s:0:"";s:12:"price_suffix";s:0:"";s:10:"categories";a:1:{i:0;O:8:"stdClass":5:{s:7:"item_id";i:79;s:11:"category_id";i:1;s:10:"created_at";s:19:"2020-08-13 20:10:54";s:10:"updated_at";s:19:"2020-08-13 20:10:54";s:10:"deleted_at";N;}}s:12:"translations";a:2:{i:0;O:8:"stdClass":14:{s:2:"id";i:157;s:7:"item_id";i:79;s:6:"locale";s:2:"en";s:5:"price";s:3:"$64";s:4:"name";s:6:"Mollie";s:4:"slug";s:6:"mollie";s:11:"description";s:1804:"<p>Quickly integrate all major payment methods in Akaunting.</p>
+<p>Mollie.com is a payment provider that helps businesses of all sizes to sell and build more efficiently with a solid but easy-to-use payment solution.&nbsp;With Mollie, you can build your business wherever you want. Whether you want to grow internationally or focus on a specific market, Mollie supports all major payment methods.</p>
+<p>This app allows your customers to pay their invoices online via Mollie, in a secure and easy way through several payment methods. We don't get any commission&nbsp;fees. Supported payment methods:</p>
+<p>Credit cards:</p>
+<ul>
+<li>VISA (International)</li>
+<li>MasterCard (International)</li>
+<li>American Express (International)</li>
+<li>Cartes Bancaires (France)</li>
+<li>CartaSi (Italy)</li>
+</ul>
+<p>Debit cards:</p>
+<ul>
+<li>V Pay (International)</li>
+<li>Maestro (International)</li>
+</ul>
+<p>European and local payment methods:</p>
+<ul>
+<li>iDEAL (Netherlands)</li>
+<li>Bancontact (Belgium)</li>
+<li>ING Home'Pay (Belgium)</li>
+<li>Giropay (Germany)</li>
+<li>EPS (Austria)</li>
+<li>Przelewy24 (Poland)</li>
+<li>SOFORT Banking (EU)</li>
+<li>Belfius (Belgium)</li>
+<li>KBC/CBC payment button (Belgium)</li>
+<li>SEPA &ndash; Credit Transfer (EU)</li>
+<li>SEPA &ndash; Direct Debit (EU)</li>
+<li>Gift cards (Netherlands)</li>
+</ul>
+<p>International payment methods:</p>
+<ul>
+<li>Apple Pay&nbsp;(International)</li>
+<li>PayPal (International)</li>
+<li>Paysafecard (International)</li>
+</ul>
+<p>Pay after delivery payment methods:</p>
+<ul>
+<li>Klarna Pay later (Netherlands, Germany, Austria, Finland)</li>
+<li>Klarna Slice it (Germany, Austria, Finland)</li>
+</ul>
+<p>Accept payments through the biggest payment processor from your accounting software.</p>";s:9:"sort_desc";N;s:12:"installation";s:104:"<p>Install the app within one click from your <strong>Akaunting &gt; Apps &gt; Mollie</strong> page.</p>";s:9:"changelog";b:0;s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}i:1;O:8:"stdClass":14:{s:2:"id";i:158;s:7:"item_id";i:79;s:6:"locale";s:2:"tr";s:5:"price";i:0;s:4:"name";s:6:"Mollie";s:4:"slug";s:6:"mollie";s:11:"description";s:465:"<p><span style="color: #555555; font-family: Lato, sans-serif;">This app allows your customers to pay their invoices online via&nbsp;Mollie.com, the secure and easy way to accept credit cards online. We don't get any commission&nbsp;fee.</span></p>
+<p><span style="color: #555555; font-family: Lato, sans-serif;">Accept payments through the biggest payment processor from your accounting software. You can also get access to international card payments.</span></p>";s:9:"sort_desc";N;s:12:"installation";s:352:"<p><span style="color: #555555; font-family: Lato, sans-serif;">Uygulamayı&nbsp;</span><strong style="box-sizing: border-box; color: #555555; font-family: Lato, sans-serif;">Akaunting &gt; Uygulamalar &gt;&nbsp;Mollie&nbsp;</strong><span style="color: #555555; font-family: Lato, sans-serif;">sayfanızdan tek bir tıklamayla y&uuml;kleyin.</span></p>";s:9:"changelog";s:889:"<p>2.0.3 - 24 Mayıs 2020</p>
+<ul>
+<li>İyileştirme: uygulama bağımlılığı g&uuml;ncellendi.</li>
+</ul>
+<p>2.0.2 - 24 Nisan 2020</p>
+<ul>
+<li>İyileştirme: bazı kaynak paketler g&uuml;ncellendi.</li>
+</ul>
+<p>2.0.1 - 21 Mart 2020</p>
+<ul>
+<li>D&uuml;zeltildi: kaynak paketler g&uuml;ncellendi.</li>
+</ul>
+<p>2.0.0 - 24 Şubat 2020</p>
+<ul>
+<li>D&uuml;zeltildi: Akaunting 2.0 ile uyumlu hale getirildi.</li>
+</ul>
+<p>1.0.3 - 28 Eyl&uuml;l 2019</p>
+<ul>
+<li>Versiyon uyumu i&ccedil;in&nbsp;k&uuml;&ccedil;&uuml;k bir sorun giderildi.</li>
+</ul>
+<p>1.0.2 - 28 Eyl&uuml;l 2019</p>
+<ul>
+<li>Link ile &ouml;deme i&ccedil;erisinde k&uuml;&ccedil;&uuml;k bir sorun giderildi.</li>
+</ul>
+<p>1.0.1 - 26 Eyl&uuml;l 2019</p>
+<ul>
+<li>K&uuml;&ccedil;&uuml;k sorunlar giderildi.</li>
+</ul>
+<p>1.0.0 - 23 Eyl&uuml;l 2019</p>
+<ul>
+<li>İlk s&uuml;r&uuml;m</li>
+</ul>";s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}}s:8:"category";O:8:"stdClass":8:{s:2:"id";i:1;s:6:"status";i:2;s:10:"created_at";s:19:"2017-09-11 15:14:53";s:10:"updated_at";s:19:"2017-09-11 15:14:53";s:10:"deleted_at";N;s:12:"translations";a:2:{i:0;O:8:"stdClass":6:{s:2:"id";i:1;s:11:"category_id";i:1;s:6:"locale";s:2:"en";s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";s:10:"deleted_at";N;}i:1;O:8:"stdClass":6:{s:2:"id";i:2;s:11:"category_id";i:1;s:6:"locale";s:2:"tr";s:4:"name";s:13:"Ödeme Metodu";s:4:"slug";s:12:"odeme-metodu";s:10:"deleted_at";N;}}s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";}s:6:"vendor";O:8:"stdClass":19:{s:2:"id";i:284;s:7:"user_id";i:19036;s:15:"vendor_group_id";i:1;s:8:"nickname";s:11:"Sevan Nerse";s:4:"slug";s:11:"sevan-nerse";s:6:"github";s:10:"sevannerse";s:14:"referrer_email";N;s:16:"payoneer_account";s:0:"";s:7:"company";s:11:"Sevan Nerse";s:7:"website";s:0:"";s:11:"description";s:0:"";s:10:"commission";s:2:"30";s:15:"billing_details";O:8:"stdClass":6:{s:4:"name";s:11:"Sevan Nerse";s:7:"address";s:51:"Pancarlı sok. No:11 D:8 Kartaltepe Mah. Bakırköy";s:4:"city";s:9:"İstanbul";s:5:"state";s:0:"";s:9:"post_code";s:0:"";s:7:"country";s:3:"TUR";}s:15:"payment_details";O:8:"stdClass":9:{s:12:"payment_type";s:8:"payoneer";s:18:"payment_type_email";s:21:"nerse.sevan@gmail.com";s:12:"account_name";s:11:"Sevan Nerse";s:14:"account_number";s:26:"TR380004600192888000437608";s:10:"swift_code";s:0:"";s:9:"bank_name";s:11:"AKBANK TAŞ";s:9:"bank_city";s:9:"İstanbul";s:12:"bank_country";s:3:"TUR";s:13:"currency_code";s:0:"";}s:6:"status";i:2;s:10:"created_at";s:19:"2018-12-22 08:15:16";s:10:"updated_at";s:19:"2020-12-30 13:31:03";s:10:"deleted_at";N;s:4:"user";O:8:"stdClass":12:{s:2:"id";i:19036;s:5:"email";s:21:"nerse.sevan@gmail.com";s:11:"permissions";a:0:{}s:10:"last_login";s:19:"2021-08-21 10:24:18";s:10:"first_name";s:5:"Sevan";s:9:"last_name";s:5:"Nerse";s:10:"created_at";s:19:"2018-11-27 20:41:06";s:10:"updated_at";s:19:"2021-08-21 10:24:18";s:11:"bill_fields";O:8:"stdClass":8:{s:9:"firstName";s:5:"Sevan";s:8:"lastName";s:5:"Nerse";s:7:"company";s:4:"null";s:5:"email";s:21:"nerse.sevan@gmail.com";s:15:"shippingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"billingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"identityNumber";s:13:"4876039219036";s:12:"mobileNumber";s:11:"05000000000";}s:11:"iyzipay_key";N;s:6:"params";s:439:"{"email_verification":{"timed_out":false,"disposable":false,"first_name":"Unknown","deliverability":"high","smtp_score":3,"overall_score":4,"generic":false,"common":true,"dns_valid":true,"honeypot":false,"frequent_complainer":false,"suspect":false,"recent_abuse":false,"valid":true,"success":true,"request_id":"4DrwVD8IZZZ3LH"},"location":{"continent":"Asia","country":"Turkey","region":"Istanbul","city":"Istanbul"},"stage":"acquisition"}";s:10:"deleted_at";N;}}s:7:"reviews";a:6:{i:0;O:8:"stdClass":11:{s:2:"id";i:294;s:7:"item_id";i:79;s:7:"user_id";i:50;s:6:"author";s:6:"Jesper";s:11:"description";s:0:"";s:4:"text";s:87:"App works smoothly and the customer department was great when helping me. Thanks a lot!";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-09-11 17:09:00";s:10:"updated_at";s:19:"2020-11-18 17:55:48";s:10:"deleted_at";N;}i:1;O:8:"stdClass":11:{s:2:"id";i:293;s:7:"item_id";i:79;s:7:"user_id";i:50;s:6:"author";s:10:"Candelario";s:11:"description";s:0:"";s:4:"text";s:118:"I like using Mollie already and the integration with Akaunting works nice. The payment processing is easier than ever!";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-08-20 17:08:00";s:10:"updated_at";s:19:"2020-11-18 17:38:01";s:10:"deleted_at";N;}i:2;O:8:"stdClass":11:{s:2:"id";i:267;s:7:"item_id";i:79;s:7:"user_id";i:50;s:6:"author";s:6:"Dandre";s:11:"description";s:0:"";s:4:"text";s:137:"I am able to get payment via almost every payment method just through to Akaunting. This is incredible! This integration works very well.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-07-24 17:07:00";s:10:"updated_at";s:19:"2020-11-04 17:07:08";s:10:"deleted_at";N;}i:3;O:8:"stdClass":11:{s:2:"id";i:176;s:7:"item_id";i:79;s:7:"user_id";i:50;s:6:"author";s:8:"Philippe";s:11:"description";s:0:"";s:4:"text";s:220:"Mollie makes it so easy and affordable to collect payments online. Strongly recommend them for any SMB who needs to collect payments via the Internet. Their technology is the best, and they have amazing customer service.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-06-21 14:09:47";s:10:"updated_at";s:19:"2020-06-21 14:09:47";s:10:"deleted_at";N;}i:4;O:8:"stdClass":11:{s:2:"id";i:138;s:7:"item_id";i:79;s:7:"user_id";i:50;s:6:"author";s:6:"Thomas";s:11:"description";s:0:"";s:4:"text";s:111:"I installed the app and within 5 min I made a test payment without any problems. So good work! 5 stars from me!";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-05-18 14:09:47";s:10:"updated_at";s:19:"2020-05-18 14:09:47";s:10:"deleted_at";N;}i:5;O:8:"stdClass":11:{s:2:"id";i:137;s:7:"item_id";i:79;s:7:"user_id";i:50;s:6:"author";s:5:"Steve";s:11:"description";s:0:"";s:4:"text";s:87:"The best solution to integrate card payments directly on Akaunting without fixed costs.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-25 14:09:47";s:10:"updated_at";s:19:"2020-04-25 14:09:47";s:10:"deleted_at";N;}}s:5:"files";O:8:"stdClass":1:{s:1:"2";O:8:"stdClass":13:{s:2:"id";i:1512;s:8:"filename";s:15:"mollie-logo.png";s:4:"path";O:8:"stdClass":0:{}s:9:"extension";s:3:"png";s:8:"mimetype";s:9:"image/png";s:8:"filesize";s:5:"29438";s:9:"folder_id";i:0;s:10:"created_at";s:19:"2019-09-23 16:48:00";s:10:"updated_at";s:19:"2019-09-23 16:51:24";s:10:"deleted_at";N;s:11:"path_string";s:80:"https://akaunting.com/public/assets/media/284-sevan-nerse/mollie/mollie-logo.png";s:10:"media_type";s:5:"image";s:5:"pivot";O:8:"stdClass":6:{s:12:"imageable_id";i:79;s:7:"file_id";i:1512;s:4:"zone";s:9:"thumbnail";s:2:"id";i:1264;s:10:"created_at";s:19:"2019-09-23 16:48:01";s:10:"updated_at";s:19:"2020-05-24 13:39:46";}}}s:4:"name";s:6:"Mollie";s:4:"slug";s:6:"mollie";s:11:"description";s:1804:"<p>Quickly integrate all major payment methods in Akaunting.</p>
+<p>Mollie.com is a payment provider that helps businesses of all sizes to sell and build more efficiently with a solid but easy-to-use payment solution.&nbsp;With Mollie, you can build your business wherever you want. Whether you want to grow internationally or focus on a specific market, Mollie supports all major payment methods.</p>
+<p>This app allows your customers to pay their invoices online via Mollie, in a secure and easy way through several payment methods. We don't get any commission&nbsp;fees. Supported payment methods:</p>
+<p>Credit cards:</p>
+<ul>
+<li>VISA (International)</li>
+<li>MasterCard (International)</li>
+<li>American Express (International)</li>
+<li>Cartes Bancaires (France)</li>
+<li>CartaSi (Italy)</li>
+</ul>
+<p>Debit cards:</p>
+<ul>
+<li>V Pay (International)</li>
+<li>Maestro (International)</li>
+</ul>
+<p>European and local payment methods:</p>
+<ul>
+<li>iDEAL (Netherlands)</li>
+<li>Bancontact (Belgium)</li>
+<li>ING Home'Pay (Belgium)</li>
+<li>Giropay (Germany)</li>
+<li>EPS (Austria)</li>
+<li>Przelewy24 (Poland)</li>
+<li>SOFORT Banking (EU)</li>
+<li>Belfius (Belgium)</li>
+<li>KBC/CBC payment button (Belgium)</li>
+<li>SEPA &ndash; Credit Transfer (EU)</li>
+<li>SEPA &ndash; Direct Debit (EU)</li>
+<li>Gift cards (Netherlands)</li>
+</ul>
+<p>International payment methods:</p>
+<ul>
+<li>Apple Pay&nbsp;(International)</li>
+<li>PayPal (International)</li>
+<li>Paysafecard (International)</li>
+</ul>
+<p>Pay after delivery payment methods:</p>
+<ul>
+<li>Klarna Pay later (Netherlands, Germany, Austria, Finland)</li>
+<li>Klarna Slice it (Germany, Austria, Finland)</li>
+</ul>
+<p>Accept payments through the biggest payment processor from your accounting software.</p>";s:12:"installation";s:104:"<p>Install the app within one click from your <strong>Akaunting &gt; Apps &gt; Mollie</strong> page.</p>";s:9:"changelog";b:0;s:3:"faq";s:0:"";}i:4;O:8:"stdClass":42:{s:2:"id";i:168;s:11:"category_id";i:0;s:9:"vendor_id";i:860;s:6:"amount";s:7:"49.0000";s:13:"compatibility";a:1:{i:0;s:3:"21x";}s:19:"available_languages";N;s:7:"version";s:5:"1.0.0";s:11:"dev_version";N;s:4:"demo";s:0:"";s:10:"repository";s:25:"akaunting/module-mtn-momo";s:12:"payment_type";s:6:"yearly";s:8:"featured";i:0;s:6:"status";i:2;s:12:"published_at";s:19:"2021-08-13 14:45:26";s:10:"created_at";s:19:"2021-08-13 17:45:26";s:10:"updated_at";s:19:"2021-08-13 18:55:11";s:10:"deleted_at";N;s:13:"category_name";s:14:"Payment Method";s:11:"vendor_name";s:12:"Mauko Maunde";s:5:"price";s:3:"$64";s:13:"special_price";s:3:"$49";s:20:"subscription_message";s:158:"All purchases are billed yearly. You may cancel the subscription at any time and can continue to use the app. Subscription refers to support and updates only.";s:4:"vote";i:0;s:12:"total_review";i:0;s:10:"total_vote";i:0;s:8:"releases";b:0;s:12:"app_releases";O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:1:{i:0;O:8:"stdClass":6:{s:9:"item_slug";s:8:"mtn-momo";s:17:"akaunting_version";s:6:"2.1.22";s:7:"version";s:5:"1.0.0";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-08-13 18:30:35";s:9:"changelog";s:77:"<p>This is the first release for the MTN Mobile Money app for Akaunting.</p>
+";}}s:4:"from";i:1;s:9:"last_page";i:1;s:13:"next_page_url";N;s:4:"path";s:56:"https://api.akaunting.com/apps/categories/payment-method";s:8:"per_page";s:1:"5";s:13:"prev_page_url";N;s:2:"to";i:1;s:5:"total";i:1;}s:11:"status_type";s:6:"active";s:12:"price_prefix";s:0:"";s:12:"price_suffix";s:0:"";s:10:"categories";a:1:{i:0;O:8:"stdClass":5:{s:7:"item_id";i:168;s:11:"category_id";i:1;s:10:"created_at";s:19:"2021-08-13 17:45:26";s:10:"updated_at";s:19:"2021-08-13 17:45:26";s:10:"deleted_at";N;}}s:12:"translations";a:2:{i:0;O:8:"stdClass":14:{s:2:"id";i:335;s:7:"item_id";i:168;s:6:"locale";s:2:"en";s:5:"price";s:3:"$64";s:4:"name";s:8:"MTN MoMo";s:4:"slug";s:8:"mtn-momo";s:11:"description";s:372:"<p>MTN MoMo is a mobile money service that works on mobile phones and allows you to receive, send and hold your money.&nbsp;</p>
+
+<p>With the MTN MoMo app, you can easily sync your account with Akaunting and start accepting payments into your account. Pay bills, send airtime, or transfer funds any time you need it.</p>
+
+<p>*MTN MoMo only works in Africa.&nbsp;</p>
+";s:9:"sort_desc";N;s:12:"installation";s:673:"<ul>
+	<li style="box-sizing: border-box; margin: 0px; padding: 0px;">Install the app within one click from your Akaunting &gt; Apps &gt;&nbsp;MtnMomo page then go to Settings &gt;&nbsp;MtnMomo</li>
+	<li style="box-sizing: border-box; margin: 0px; padding: 0px;">If you have not created an account yet, go to https://momodeveloper.mtn.com/ and create an account.&nbsp;</li>
+	<li style="box-sizing: border-box; margin: 0px; padding: 0px;">On the products page -&nbsp;https://momodeveloper.mtn.com/products, subscribe to the Collection Service.</li>
+	<li style="box-sizing: border-box; margin: 0px; padding: 0px;">Add your API keys to your Akaunting Settings</li>
+</ul>
+";s:9:"changelog";b:0;s:3:"faq";s:42:"<p>https://momodeveloper.mtn.com/faq</p>
+";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}i:1;O:8:"stdClass":14:{s:2:"id";i:336;s:7:"item_id";i:168;s:6:"locale";s:2:"tr";s:5:"price";i:0;s:4:"name";s:8:"MTN Momo";s:4:"slug";s:8:"mtn-momo";s:11:"description";s:372:"<p>MTN MoMo is a mobile money service that works on mobile phones and allows you to receive, send and hold your money.&nbsp;</p>
+
+<p>With the MTN MoMo app, you can easily sync your account with Akaunting and start accepting payments into your account. Pay bills, send airtime, or transfer funds any time you need it.</p>
+
+<p>*MTN MoMo only works in Africa.&nbsp;</p>
+";s:9:"sort_desc";N;s:12:"installation";s:673:"<ul>
+	<li style="box-sizing: border-box; margin: 0px; padding: 0px;">Install the app within one click from your Akaunting &gt; Apps &gt;&nbsp;MtnMomo page then go to Settings &gt;&nbsp;MtnMomo</li>
+	<li style="box-sizing: border-box; margin: 0px; padding: 0px;">If you have not created an account yet, go to https://momodeveloper.mtn.com/ and create an account.&nbsp;</li>
+	<li style="box-sizing: border-box; margin: 0px; padding: 0px;">On the products page -&nbsp;https://momodeveloper.mtn.com/products, subscribe to the Collection Service.</li>
+	<li style="box-sizing: border-box; margin: 0px; padding: 0px;">Add your API keys to your Akaunting Settings</li>
+</ul>
+";s:9:"changelog";s:0:"";s:3:"faq";s:42:"<p>https://momodeveloper.mtn.com/faq</p>
+";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}}s:8:"category";O:8:"stdClass":8:{s:2:"id";i:1;s:6:"status";i:2;s:10:"created_at";s:19:"2017-09-11 15:14:53";s:10:"updated_at";s:19:"2017-09-11 15:14:53";s:10:"deleted_at";N;s:12:"translations";a:2:{i:0;O:8:"stdClass":6:{s:2:"id";i:1;s:11:"category_id";i:1;s:6:"locale";s:2:"en";s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";s:10:"deleted_at";N;}i:1;O:8:"stdClass":6:{s:2:"id";i:2;s:11:"category_id";i:1;s:6:"locale";s:2:"tr";s:4:"name";s:13:"Ödeme Metodu";s:4:"slug";s:12:"odeme-metodu";s:10:"deleted_at";N;}}s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";}s:6:"vendor";O:8:"stdClass":19:{s:2:"id";i:860;s:7:"user_id";i:72067;s:15:"vendor_group_id";i:1;s:8:"nickname";s:12:"Mauko Maunde";s:4:"slug";s:12:"mauko-maunde";s:6:"github";s:6:"osenco";s:14:"referrer_email";s:0:"";s:16:"payoneer_account";s:0:"";s:7:"company";s:13:"Osen Concepts";s:7:"website";s:18:"https://hela.co.ke";s:11:"description";s:58:"Helping small businesses manage their payments affordably.";s:10:"commission";s:2:"30";s:15:"billing_details";O:8:"stdClass":6:{s:4:"name";s:12:"Mauko Maunde";s:7:"address";s:27:"Kiamunyi Estate Appartments";s:4:"city";s:7:"Nairobi";s:5:"state";s:7:"Nairobi";s:9:"post_code";s:5:"80117";s:7:"country";s:3:"KEN";}s:15:"payment_details";O:8:"stdClass":9:{s:12:"payment_type";s:8:"payoneer";s:18:"payment_type_email";s:18:"maukoese@gmail.com";s:12:"account_name";s:0:"";s:14:"account_number";s:0:"";s:10:"swift_code";s:0:"";s:9:"bank_name";s:0:"";s:9:"bank_city";s:0:"";s:12:"bank_country";s:0:"";s:13:"currency_code";s:0:"";}s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-10 18:32:11";s:10:"updated_at";s:19:"2021-08-13 16:21:15";s:10:"deleted_at";N;s:4:"user";O:8:"stdClass":12:{s:2:"id";i:72067;s:5:"email";s:18:"maukoese@gmail.com";s:11:"permissions";a:0:{}s:10:"last_login";s:19:"2021-08-16 23:55:10";s:10:"first_name";s:5:"Mauko";s:9:"last_name";s:6:"Maunde";s:10:"created_at";s:19:"2020-04-10 17:17:45";s:10:"updated_at";s:19:"2021-08-16 23:55:10";s:11:"bill_fields";N;s:11:"iyzipay_key";N;s:6:"params";s:151:"{"email_verification":null,"location":{"continent":"Europe","country":"Netherlands","region":"North Holland","city":"Amsterdam"},"stage":"acquisition"}";s:10:"deleted_at";N;}}s:7:"reviews";a:0:{}s:5:"files";a:1:{i:0;O:8:"stdClass":13:{s:2:"id";i:6146;s:8:"filename";s:17:"mtn-momo-logo.png";s:4:"path";O:8:"stdClass":0:{}s:9:"extension";s:3:"png";s:8:"mimetype";s:9:"image/png";s:8:"filesize";s:5:"47308";s:9:"folder_id";i:0;s:10:"created_at";s:19:"2021-08-13 18:14:48";s:10:"updated_at";s:19:"2021-08-13 18:19:38";s:10:"deleted_at";N;s:11:"path_string";s:85:"https://akaunting.com/public/assets/media/860-mauko-maunde/mtn-momo/mtn-momo-logo.png";s:10:"media_type";s:5:"image";s:5:"pivot";O:8:"stdClass":6:{s:12:"imageable_id";i:168;s:7:"file_id";i:6146;s:4:"zone";s:9:"thumbnail";s:2:"id";i:5389;s:10:"created_at";s:19:"2021-08-13 18:14:48";s:10:"updated_at";s:19:"2021-08-13 18:55:12";}}}s:4:"name";s:8:"MTN MoMo";s:4:"slug";s:8:"mtn-momo";s:11:"description";s:372:"<p>MTN MoMo is a mobile money service that works on mobile phones and allows you to receive, send and hold your money.&nbsp;</p>
+
+<p>With the MTN MoMo app, you can easily sync your account with Akaunting and start accepting payments into your account. Pay bills, send airtime, or transfer funds any time you need it.</p>
+
+<p>*MTN MoMo only works in Africa.&nbsp;</p>
+";s:12:"installation";s:673:"<ul>
+	<li style="box-sizing: border-box; margin: 0px; padding: 0px;">Install the app within one click from your Akaunting &gt; Apps &gt;&nbsp;MtnMomo page then go to Settings &gt;&nbsp;MtnMomo</li>
+	<li style="box-sizing: border-box; margin: 0px; padding: 0px;">If you have not created an account yet, go to https://momodeveloper.mtn.com/ and create an account.&nbsp;</li>
+	<li style="box-sizing: border-box; margin: 0px; padding: 0px;">On the products page -&nbsp;https://momodeveloper.mtn.com/products, subscribe to the Collection Service.</li>
+	<li style="box-sizing: border-box; margin: 0px; padding: 0px;">Add your API keys to your Akaunting Settings</li>
+</ul>
+";s:9:"changelog";b:0;s:3:"faq";s:42:"<p>https://momodeveloper.mtn.com/faq</p>
+";}i:5;O:8:"stdClass":42:{s:2:"id";i:81;s:11:"category_id";i:1;s:9:"vendor_id";i:284;s:6:"amount";s:7:"49.0000";s:13:"compatibility";a:2:{i:0;s:2:"1x";i:1;s:2:"2x";}s:19:"available_languages";N;s:7:"version";s:5:"2.1.3";s:11:"dev_version";N;s:4:"demo";s:0:"";s:10:"repository";s:26:"akaunting/module-pagseguro";s:12:"payment_type";s:6:"yearly";s:8:"featured";i:0;s:6:"status";i:2;s:12:"published_at";s:19:"2019-10-15 09:25:39";s:10:"created_at";s:19:"2019-10-15 09:20:03";s:10:"updated_at";s:19:"2021-06-18 12:58:12";s:10:"deleted_at";N;s:13:"category_name";s:14:"Payment Method";s:11:"vendor_name";s:11:"Sevan Nerse";s:5:"price";s:3:"$64";s:13:"special_price";s:3:"$49";s:20:"subscription_message";s:158:"All purchases are billed yearly. You may cancel the subscription at any time and can continue to use the app. Subscription refers to support and updates only.";s:4:"vote";i:5;s:12:"total_review";i:1;s:10:"total_vote";i:5;s:8:"releases";b:0;s:12:"app_releases";O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:5:{i:0;O:8:"stdClass":6:{s:9:"item_slug";s:9:"pagseguro";s:17:"akaunting_version";s:6:"2.1.16";s:7:"version";s:5:"2.1.3";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-06-18 12:58:12";s:9:"changelog";s:74:"<ul>
+<li>Added: Sandbox mode</li>
+<li>Fixed: Mandatory options</li>
+</ul>
+";}i:1;O:8:"stdClass":6:{s:9:"item_slug";s:9:"pagseguro";s:17:"akaunting_version";s:6:"2.1.14";s:7:"version";s:5:"2.1.2";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-05-24 15:58:37";s:9:"changelog";s:60:"<ul>
+<li>Fixed: Missing required parameter error</li>
+</ul>
+";}i:2;O:8:"stdClass":6:{s:9:"item_slug";s:9:"pagseguro";s:17:"akaunting_version";s:6:"2.1.14";s:7:"version";s:5:"2.1.1";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-05-21 18:50:32";s:9:"changelog";s:52:"<ul>
+<li>Fixed: Loading is not finishing</li>
+</ul>
+";}i:3;O:8:"stdClass":6:{s:9:"item_slug";s:9:"pagseguro";s:17:"akaunting_version";s:6:"2.1.10";s:7:"version";s:5:"2.1.0";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-04-21 15:14:45";s:9:"changelog";s:48:"<ul><li>Akaunting 2.1.10 compatibility</li></ul>";}i:4;O:8:"stdClass":6:{s:9:"item_slug";s:9:"pagseguro";s:17:"akaunting_version";s:5:"2.0.0";s:7:"version";s:5:"2.0.2";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2020-05-24 00:00:00";s:9:"changelog";s:56:"<ul><li>Enhancement: app dependency is updated</li></ul>";}}s:4:"from";i:1;s:9:"last_page";i:2;s:13:"next_page_url";s:63:"https://api.akaunting.com/apps/categories/payment-method?page=2";s:4:"path";s:56:"https://api.akaunting.com/apps/categories/payment-method";s:8:"per_page";s:1:"5";s:13:"prev_page_url";N;s:2:"to";i:5;s:5:"total";i:8;}s:11:"status_type";s:6:"active";s:12:"price_prefix";s:0:"";s:12:"price_suffix";s:0:"";s:10:"categories";a:1:{i:0;O:8:"stdClass":5:{s:7:"item_id";i:81;s:11:"category_id";i:1;s:10:"created_at";s:19:"2020-08-13 20:10:54";s:10:"updated_at";s:19:"2020-08-13 20:10:54";s:10:"deleted_at";N;}}s:12:"translations";a:2:{i:0;O:8:"stdClass":14:{s:2:"id";i:161;s:7:"item_id";i:81;s:6:"locale";s:2:"en";s:5:"price";s:3:"$64";s:4:"name";s:9:"PagSeguro";s:4:"slug";s:9:"pagseguro";s:11:"description";s:620:"<p>This app allows your customers to pay their invoices online via Pagseguro.uol.com.br, the easiest way to accept, process and disburse payments for online&nbsp;Brazilian businesses.&nbsp;PagSeguro is the pioneer and leader in the Brazilian online payment market.&nbsp;Belonging to UOL, the leading internet company in Brazil, PagSeguro has in its portfolio payment solutions for e-commerce, serving virtual stores, as well as for merchants. No extra commission fee.</p>
+<p>Accept payments from all major credit and debit card networks from your accounting software. Also get access to international card payments.</p>";s:9:"sort_desc";N;s:12:"installation";s:169:"<p>Install the app within one click from your&nbsp;<strong>Akaunting &gt; Apps &gt; PagSeguro</strong> page then go to&nbsp;<strong>Settings &gt; PagSeguro</strong>.</p>";s:9:"changelog";b:0;s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}i:1;O:8:"stdClass":14:{s:2:"id";i:162;s:7:"item_id";i:81;s:6:"locale";s:2:"tr";s:5:"price";i:0;s:4:"name";s:9:"PagSeguro";s:4:"slug";s:9:"pagseguro";s:11:"description";s:620:"<p>This app allows your customers to pay their invoices online via Pagseguro.uol.com.br, the easiest way to accept, process and disburse payments for online&nbsp;Brazilian businesses.&nbsp;PagSeguro is the pioneer and leader in the Brazilian online payment market.&nbsp;Belonging to UOL, the leading internet company in Brazil, PagSeguro has in its portfolio payment solutions for e-commerce, serving virtual stores, as well as for merchants. No extra commission fee.</p>
+<p>Accept payments from all major credit and debit card networks from your accounting software. Also get access to international card payments.</p>";s:9:"sort_desc";N;s:12:"installation";s:386:"<p>Uygulamayı&nbsp;<strong style="box-sizing: border-box; color: #555555; font-family: Lato, sans-serif;">Akaunting &gt; Uygulamalar &gt;&nbsp;PagSeguro</strong>&nbsp;sayfasından tek bir tıklamayla y&uuml;kleyin, ardından&nbsp;<strong style="box-sizing: border-box; color: #555555; font-family: Lato, sans-serif;">Ayarlar &gt;&nbsp;PagSeguro</strong>&nbsp;sayfasına&nbsp;gidin.</p>";s:9:"changelog";s:361:"<p>24 Mayıs 2020</p>
+<ul>
+<li>İyileştirme: uygulama bağımlılığı g&uuml;ncellendi.</li>
+</ul>
+<p>23 Mart 2020</p>
+<ul>
+<li>D&uuml;zeltildi: paketler g&uuml;ncellendi.</li>
+</ul>
+<p>25 Şubat 2020</p>
+<ul>
+<li>D&uuml;zeltildi: Akaunting 2.0 ile uyumlu hale getirildi.</li>
+</ul>
+<p>15 Ekim 2019</p>
+<ul>
+<li>İlk s&uuml;r&uuml;m</li>
+</ul>";s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}}s:8:"category";O:8:"stdClass":8:{s:2:"id";i:1;s:6:"status";i:2;s:10:"created_at";s:19:"2017-09-11 15:14:53";s:10:"updated_at";s:19:"2017-09-11 15:14:53";s:10:"deleted_at";N;s:12:"translations";a:2:{i:0;O:8:"stdClass":6:{s:2:"id";i:1;s:11:"category_id";i:1;s:6:"locale";s:2:"en";s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";s:10:"deleted_at";N;}i:1;O:8:"stdClass":6:{s:2:"id";i:2;s:11:"category_id";i:1;s:6:"locale";s:2:"tr";s:4:"name";s:13:"Ödeme Metodu";s:4:"slug";s:12:"odeme-metodu";s:10:"deleted_at";N;}}s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";}s:6:"vendor";O:8:"stdClass":19:{s:2:"id";i:284;s:7:"user_id";i:19036;s:15:"vendor_group_id";i:1;s:8:"nickname";s:11:"Sevan Nerse";s:4:"slug";s:11:"sevan-nerse";s:6:"github";s:10:"sevannerse";s:14:"referrer_email";N;s:16:"payoneer_account";s:0:"";s:7:"company";s:11:"Sevan Nerse";s:7:"website";s:0:"";s:11:"description";s:0:"";s:10:"commission";s:2:"30";s:15:"billing_details";O:8:"stdClass":6:{s:4:"name";s:11:"Sevan Nerse";s:7:"address";s:51:"Pancarlı sok. No:11 D:8 Kartaltepe Mah. Bakırköy";s:4:"city";s:9:"İstanbul";s:5:"state";s:0:"";s:9:"post_code";s:0:"";s:7:"country";s:3:"TUR";}s:15:"payment_details";O:8:"stdClass":9:{s:12:"payment_type";s:8:"payoneer";s:18:"payment_type_email";s:21:"nerse.sevan@gmail.com";s:12:"account_name";s:11:"Sevan Nerse";s:14:"account_number";s:26:"TR380004600192888000437608";s:10:"swift_code";s:0:"";s:9:"bank_name";s:11:"AKBANK TAŞ";s:9:"bank_city";s:9:"İstanbul";s:12:"bank_country";s:3:"TUR";s:13:"currency_code";s:0:"";}s:6:"status";i:2;s:10:"created_at";s:19:"2018-12-22 08:15:16";s:10:"updated_at";s:19:"2020-12-30 13:31:03";s:10:"deleted_at";N;s:4:"user";O:8:"stdClass":12:{s:2:"id";i:19036;s:5:"email";s:21:"nerse.sevan@gmail.com";s:11:"permissions";a:0:{}s:10:"last_login";s:19:"2021-08-21 10:24:18";s:10:"first_name";s:5:"Sevan";s:9:"last_name";s:5:"Nerse";s:10:"created_at";s:19:"2018-11-27 20:41:06";s:10:"updated_at";s:19:"2021-08-21 10:24:18";s:11:"bill_fields";O:8:"stdClass":8:{s:9:"firstName";s:5:"Sevan";s:8:"lastName";s:5:"Nerse";s:7:"company";s:4:"null";s:5:"email";s:21:"nerse.sevan@gmail.com";s:15:"shippingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"billingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"identityNumber";s:13:"4876039219036";s:12:"mobileNumber";s:11:"05000000000";}s:11:"iyzipay_key";N;s:6:"params";s:439:"{"email_verification":{"timed_out":false,"disposable":false,"first_name":"Unknown","deliverability":"high","smtp_score":3,"overall_score":4,"generic":false,"common":true,"dns_valid":true,"honeypot":false,"frequent_complainer":false,"suspect":false,"recent_abuse":false,"valid":true,"success":true,"request_id":"4DrwVD8IZZZ3LH"},"location":{"continent":"Asia","country":"Turkey","region":"Istanbul","city":"Istanbul"},"stage":"acquisition"}";s:10:"deleted_at";N;}}s:7:"reviews";a:1:{i:0;O:8:"stdClass":11:{s:2:"id";i:270;s:7:"item_id";i:81;s:7:"user_id";i:50;s:6:"author";s:6:"Freida";s:11:"description";s:0:"";s:4:"text";s:104:"Thanks to Akaunting cause I feel like I can find anything necessary for me to keep track of my business.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-10-19 17:10:00";s:10:"updated_at";s:19:"2020-11-04 17:14:11";s:10:"deleted_at";N;}}s:5:"files";a:1:{i:0;O:8:"stdClass":13:{s:2:"id";i:1552;s:8:"filename";s:18:"pagseguro-logo.png";s:4:"path";O:8:"stdClass":0:{}s:9:"extension";s:3:"png";s:8:"mimetype";s:9:"image/png";s:8:"filesize";s:6:"110331";s:9:"folder_id";i:0;s:10:"created_at";s:19:"2019-10-15 09:20:01";s:10:"updated_at";s:19:"2019-10-15 09:25:39";s:10:"deleted_at";N;s:11:"path_string";s:86:"https://akaunting.com/public/assets/media/284-sevan-nerse/pagseguro/pagseguro-logo.png";s:10:"media_type";s:5:"image";s:5:"pivot";O:8:"stdClass":6:{s:12:"imageable_id";i:81;s:7:"file_id";i:1552;s:4:"zone";s:9:"thumbnail";s:2:"id";i:1298;s:10:"created_at";s:19:"2019-10-15 09:20:03";s:10:"updated_at";s:19:"2020-05-24 16:44:35";}}}s:4:"name";s:9:"PagSeguro";s:4:"slug";s:9:"pagseguro";s:11:"description";s:620:"<p>This app allows your customers to pay their invoices online via Pagseguro.uol.com.br, the easiest way to accept, process and disburse payments for online&nbsp;Brazilian businesses.&nbsp;PagSeguro is the pioneer and leader in the Brazilian online payment market.&nbsp;Belonging to UOL, the leading internet company in Brazil, PagSeguro has in its portfolio payment solutions for e-commerce, serving virtual stores, as well as for merchants. No extra commission fee.</p>
+<p>Accept payments from all major credit and debit card networks from your accounting software. Also get access to international card payments.</p>";s:12:"installation";s:169:"<p>Install the app within one click from your&nbsp;<strong>Akaunting &gt; Apps &gt; PagSeguro</strong> page then go to&nbsp;<strong>Settings &gt; PagSeguro</strong>.</p>";s:9:"changelog";b:0;s:3:"faq";s:0:"";}i:6;O:8:"stdClass":42:{s:2:"id";i:80;s:11:"category_id";i:1;s:9:"vendor_id";i:284;s:6:"amount";s:7:"49.0000";s:13:"compatibility";a:2:{i:0;s:2:"1x";i:1;s:2:"2x";}s:19:"available_languages";N;s:7:"version";s:5:"2.1.2";s:11:"dev_version";N;s:4:"demo";s:0:"";s:10:"repository";s:24:"akaunting/module-payfast";s:12:"payment_type";s:6:"yearly";s:8:"featured";i:0;s:6:"status";i:2;s:12:"published_at";s:19:"2019-10-14 19:16:49";s:10:"created_at";s:19:"2019-10-14 19:14:57";s:10:"updated_at";s:19:"2021-06-23 18:47:49";s:10:"deleted_at";N;s:13:"category_name";s:14:"Payment Method";s:11:"vendor_name";s:11:"Sevan Nerse";s:5:"price";s:3:"$64";s:13:"special_price";s:3:"$49";s:20:"subscription_message";s:158:"All purchases are billed yearly. You may cancel the subscription at any time and can continue to use the app. Subscription refers to support and updates only.";s:4:"vote";i:5;s:12:"total_review";i:3;s:10:"total_vote";i:15;s:8:"releases";b:0;s:12:"app_releases";O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:5:{i:0;O:8:"stdClass":6:{s:9:"item_slug";s:7:"payfast";s:17:"akaunting_version";s:6:"2.1.14";s:7:"version";s:5:"2.1.2";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-05-24 15:58:23";s:9:"changelog";s:60:"<ul>
+<li>Fixed: Missing required parameter error</li>
+</ul>
+";}i:1;O:8:"stdClass":6:{s:9:"item_slug";s:7:"payfast";s:17:"akaunting_version";s:6:"2.1.14";s:7:"version";s:5:"2.1.1";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-05-22 10:37:27";s:9:"changelog";s:52:"<ul>
+<li>Fixed: Loading is not finishing</li>
+</ul>
+";}i:2;O:8:"stdClass":6:{s:9:"item_slug";s:7:"payfast";s:17:"akaunting_version";s:6:"2.1.10";s:7:"version";s:5:"2.1.0";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-04-21 15:12:49";s:9:"changelog";s:48:"<ul><li>Akaunting 2.1.10 compatibility</li></ul>";}i:3;O:8:"stdClass":6:{s:9:"item_slug";s:7:"payfast";s:17:"akaunting_version";s:5:"2.0.0";s:7:"version";s:5:"2.0.2";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2020-05-24 00:00:00";s:9:"changelog";s:56:"<ul><li>Enhancement: app dependency is updated</li></ul>";}i:4;O:8:"stdClass":6:{s:9:"item_slug";s:7:"payfast";s:17:"akaunting_version";s:5:"2.0.0";s:7:"version";s:5:"2.0.1";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2020-03-20 00:00:00";s:9:"changelog";s:42:"<ul><li>Fixed: packages updated.</li></ul>";}}s:4:"from";i:1;s:9:"last_page";i:2;s:13:"next_page_url";s:63:"https://api.akaunting.com/apps/categories/payment-method?page=2";s:4:"path";s:56:"https://api.akaunting.com/apps/categories/payment-method";s:8:"per_page";s:1:"5";s:13:"prev_page_url";N;s:2:"to";i:5;s:5:"total";i:8;}s:11:"status_type";s:6:"active";s:12:"price_prefix";s:0:"";s:12:"price_suffix";s:0:"";s:10:"categories";a:1:{i:0;O:8:"stdClass":5:{s:7:"item_id";i:80;s:11:"category_id";i:1;s:10:"created_at";s:19:"2020-08-13 20:10:54";s:10:"updated_at";s:19:"2020-08-13 20:10:54";s:10:"deleted_at";N;}}s:12:"translations";a:2:{i:0;O:8:"stdClass":14:{s:2:"id";i:159;s:7:"item_id";i:80;s:6:"locale";s:2:"en";s:5:"price";s:3:"$64";s:4:"name";s:7:"PayFast";s:4:"slug";s:7:"payfast";s:11:"description";s:647:"<p>Accept payments online and get paid faster.</p>
+
+<p>This app allows your customers to pay their invoices online via Payfast.co.za, the easiest way to accept, process and disburse payments for online South African businesses. PayFast is a payment processing service for South Africans and South African websites. We don&#39;t get any commission fees. Supported payment methods:</p>
+
+<ul>
+	<li>Visa</li>
+	<li>Mastercard</li>
+	<li>EFT (instant)</li>
+	<li>mobicred</li>
+	<li>Masterpass</li>
+	<li>Zapper</li>
+	<li>SCode</li>
+</ul>
+
+<p>Accept payments from credit/debit cards and alternative methods from your accounting software.</p>
+";s:9:"sort_desc";N;s:12:"installation";s:162:"<p>Install the app within one click from your <strong>Akaunting &gt; Apps &gt; PayFast</strong>&nbsp;page then go to <strong>Settings &gt; PayFast</strong>.</p>
+";s:9:"changelog";b:0;s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}i:1;O:8:"stdClass":14:{s:2:"id";i:160;s:7:"item_id";i:80;s:6:"locale";s:2:"tr";s:5:"price";i:0;s:4:"name";s:7:"PayFast";s:4:"slug";s:7:"payfast";s:11:"description";s:445:"<p>This app allows your customers to pay their invoices online via Payfast.co.za, the easiest way to accept, process and disburse payments for online South African businesses. PayFast is a payments processing service for South Africans and South African websites. No extra commission fee.</p>
+
+<p>Accept payments from all major credit and debit card networks from your accounting software. Also get access to international card payments.</p>
+";s:9:"sort_desc";N;s:12:"installation";s:274:"<p><span style="color: #555555; font-family: Lato, sans-serif;">Uygulamayı <strong>Akaunting &gt; Uygulamalar &gt;&nbsp;PayFast</strong> sayfasından tek bir tıklamayla y&uuml;kleyin, ardından <strong>Ayarlar &gt;&nbsp;PayFast</strong> sayfasına&nbsp;gidin.</span></p>
+";s:9:"changelog";s:451:"<p>24 Mayıs 2020</p>
+
+<ul>
+	<li>İyileştirme: uygulama bağımlılığı g&uuml;ncellendi.</li>
+</ul>
+
+<p>23 Mart 2020</p>
+
+<ul>
+	<li>D&uuml;zeltildi: paketler g&uuml;ncellendi.</li>
+</ul>
+
+<p>29 Şubat 2020</p>
+
+<ul>
+	<li>Eklendi: Akaunting 2.0 ile uyumlu hale getirildi.</li>
+</ul>
+
+<p>22 Ekim 2019</p>
+
+<ul>
+	<li>Yeni &ouml;zellikler eklendi</li>
+</ul>
+
+<p>14 Ekim 2019</p>
+
+<ul>
+	<li>İlk s&uuml;r&uuml;m</li>
+</ul>
+";s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}}s:8:"category";O:8:"stdClass":8:{s:2:"id";i:1;s:6:"status";i:2;s:10:"created_at";s:19:"2017-09-11 15:14:53";s:10:"updated_at";s:19:"2017-09-11 15:14:53";s:10:"deleted_at";N;s:12:"translations";a:2:{i:0;O:8:"stdClass":6:{s:2:"id";i:1;s:11:"category_id";i:1;s:6:"locale";s:2:"en";s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";s:10:"deleted_at";N;}i:1;O:8:"stdClass":6:{s:2:"id";i:2;s:11:"category_id";i:1;s:6:"locale";s:2:"tr";s:4:"name";s:13:"Ödeme Metodu";s:4:"slug";s:12:"odeme-metodu";s:10:"deleted_at";N;}}s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";}s:6:"vendor";O:8:"stdClass":19:{s:2:"id";i:284;s:7:"user_id";i:19036;s:15:"vendor_group_id";i:1;s:8:"nickname";s:11:"Sevan Nerse";s:4:"slug";s:11:"sevan-nerse";s:6:"github";s:10:"sevannerse";s:14:"referrer_email";N;s:16:"payoneer_account";s:0:"";s:7:"company";s:11:"Sevan Nerse";s:7:"website";s:0:"";s:11:"description";s:0:"";s:10:"commission";s:2:"30";s:15:"billing_details";O:8:"stdClass":6:{s:4:"name";s:11:"Sevan Nerse";s:7:"address";s:51:"Pancarlı sok. No:11 D:8 Kartaltepe Mah. Bakırköy";s:4:"city";s:9:"İstanbul";s:5:"state";s:0:"";s:9:"post_code";s:0:"";s:7:"country";s:3:"TUR";}s:15:"payment_details";O:8:"stdClass":9:{s:12:"payment_type";s:8:"payoneer";s:18:"payment_type_email";s:21:"nerse.sevan@gmail.com";s:12:"account_name";s:11:"Sevan Nerse";s:14:"account_number";s:26:"TR380004600192888000437608";s:10:"swift_code";s:0:"";s:9:"bank_name";s:11:"AKBANK TAŞ";s:9:"bank_city";s:9:"İstanbul";s:12:"bank_country";s:3:"TUR";s:13:"currency_code";s:0:"";}s:6:"status";i:2;s:10:"created_at";s:19:"2018-12-22 08:15:16";s:10:"updated_at";s:19:"2020-12-30 13:31:03";s:10:"deleted_at";N;s:4:"user";O:8:"stdClass":12:{s:2:"id";i:19036;s:5:"email";s:21:"nerse.sevan@gmail.com";s:11:"permissions";a:0:{}s:10:"last_login";s:19:"2021-08-21 10:24:18";s:10:"first_name";s:5:"Sevan";s:9:"last_name";s:5:"Nerse";s:10:"created_at";s:19:"2018-11-27 20:41:06";s:10:"updated_at";s:19:"2021-08-21 10:24:18";s:11:"bill_fields";O:8:"stdClass":8:{s:9:"firstName";s:5:"Sevan";s:8:"lastName";s:5:"Nerse";s:7:"company";s:4:"null";s:5:"email";s:21:"nerse.sevan@gmail.com";s:15:"shippingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"billingAddress";O:8:"stdClass":4:{s:4:"city";s:4:"null";s:7:"country";s:4:"null";s:7:"address";s:4:"null";s:3:"vat";s:4:"null";}s:14:"identityNumber";s:13:"4876039219036";s:12:"mobileNumber";s:11:"05000000000";}s:11:"iyzipay_key";N;s:6:"params";s:439:"{"email_verification":{"timed_out":false,"disposable":false,"first_name":"Unknown","deliverability":"high","smtp_score":3,"overall_score":4,"generic":false,"common":true,"dns_valid":true,"honeypot":false,"frequent_complainer":false,"suspect":false,"recent_abuse":false,"valid":true,"success":true,"request_id":"4DrwVD8IZZZ3LH"},"location":{"continent":"Asia","country":"Turkey","region":"Istanbul","city":"Istanbul"},"stage":"acquisition"}";s:10:"deleted_at";N;}}s:7:"reviews";a:3:{i:0;O:8:"stdClass":11:{s:2:"id";i:271;s:7:"item_id";i:80;s:7:"user_id";i:50;s:6:"author";s:8:"Miloslav";s:11:"description";s:0:"";s:4:"text";s:143:"This module saves me from doing a double job and accept payments easily. It is good to have someone to help you when you need it. Thanks a lot!";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-07-16 17:07:00";s:10:"updated_at";s:19:"2020-11-04 17:16:14";s:10:"deleted_at";N;}i:1;O:8:"stdClass":11:{s:2:"id";i:180;s:7:"item_id";i:80;s:7:"user_id";i:50;s:6:"author";s:7:"Lindile";s:11:"description";s:0:"";s:4:"text";s:286:"Payfast has the best customer service I have come across in the business world. They make everything very easy to understand even to a novice like myself! I would highly recommend them to anyone looking for a new merchant processor! Thanks so much for making it available for Akaunting!";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-06-17 14:09:47";s:10:"updated_at";s:19:"2020-06-17 14:09:47";s:10:"deleted_at";N;}i:2;O:8:"stdClass":11:{s:2:"id";i:144;s:7:"item_id";i:80;s:7:"user_id";i:50;s:6:"author";s:5:"Chris";s:11:"description";s:0:"";s:4:"text";s:139:"This app works really well and is easily integrated. The developer is amazing, he were so helpful with the issue I had.
+
+Thank you again.";s:6:"rating";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2020-05-23 14:09:47";s:10:"updated_at";s:19:"2020-05-23 14:09:47";s:10:"deleted_at";N;}}s:5:"files";a:1:{i:0;O:8:"stdClass":13:{s:2:"id";i:1548;s:8:"filename";s:16:"payfast-logo.png";s:4:"path";O:8:"stdClass":0:{}s:9:"extension";s:3:"png";s:8:"mimetype";s:9:"image/png";s:8:"filesize";s:5:"80830";s:9:"folder_id";i:0;s:10:"created_at";s:19:"2019-10-14 19:14:56";s:10:"updated_at";s:19:"2019-10-14 19:16:49";s:10:"deleted_at";N;s:11:"path_string";s:82:"https://akaunting.com/public/assets/media/284-sevan-nerse/payfast/payfast-logo.png";s:10:"media_type";s:5:"image";s:5:"pivot";O:8:"stdClass":6:{s:12:"imageable_id";i:80;s:7:"file_id";i:1548;s:4:"zone";s:9:"thumbnail";s:2:"id";i:1294;s:10:"created_at";s:19:"2019-10-14 19:14:57";s:10:"updated_at";s:19:"2021-06-23 18:47:49";}}}s:4:"name";s:7:"PayFast";s:4:"slug";s:7:"payfast";s:11:"description";s:647:"<p>Accept payments online and get paid faster.</p>
+
+<p>This app allows your customers to pay their invoices online via Payfast.co.za, the easiest way to accept, process and disburse payments for online South African businesses. PayFast is a payment processing service for South Africans and South African websites. We don&#39;t get any commission fees. Supported payment methods:</p>
+
+<ul>
+	<li>Visa</li>
+	<li>Mastercard</li>
+	<li>EFT (instant)</li>
+	<li>mobicred</li>
+	<li>Masterpass</li>
+	<li>Zapper</li>
+	<li>SCode</li>
+</ul>
+
+<p>Accept payments from credit/debit cards and alternative methods from your accounting software.</p>
+";s:12:"installation";s:162:"<p>Install the app within one click from your <strong>Akaunting &gt; Apps &gt; PayFast</strong>&nbsp;page then go to <strong>Settings &gt; PayFast</strong>.</p>
+";s:9:"changelog";b:0;s:3:"faq";s:0:"";}i:7;O:8:"stdClass":42:{s:2:"id";i:137;s:11:"category_id";i:0;s:9:"vendor_id";i:1203;s:6:"amount";s:6:"0.0000";s:13:"compatibility";a:1:{i:0;s:3:"21x";}s:19:"available_languages";N;s:7:"version";s:5:"1.2.1";s:11:"dev_version";N;s:4:"demo";s:0:"";s:10:"repository";s:32:"akaunting/module-new-app-1203-72";s:12:"payment_type";s:6:"yearly";s:8:"featured";i:0;s:6:"status";i:2;s:12:"published_at";s:19:"2021-03-17 11:15:11";s:10:"created_at";s:19:"2021-03-16 22:15:11";s:10:"updated_at";s:19:"2021-06-25 18:44:45";s:10:"deleted_at";N;s:13:"category_name";s:14:"Payment Method";s:11:"vendor_name";s:9:"PayFlexi ";s:5:"price";i:0;s:13:"special_price";N;s:20:"subscription_message";s:158:"All purchases are billed yearly. You may cancel the subscription at any time and can continue to use the app. Subscription refers to support and updates only.";s:4:"vote";i:0;s:12:"total_review";i:0;s:10:"total_vote";i:0;s:8:"releases";b:0;s:12:"app_releases";O:8:"stdClass":10:{s:12:"current_page";i:1;s:4:"data";a:4:{i:0;O:8:"stdClass":6:{s:9:"item_slug";s:8:"payflexi";s:17:"akaunting_version";s:6:"2.1.17";s:7:"version";s:5:"1.2.1";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-06-25 18:44:46";s:9:"changelog";s:65:"<p>Release to fix error with wrong <code>API</code> endpoint</p>
+";}i:1;O:8:"stdClass":6:{s:9:"item_slug";s:8:"payflexi";s:17:"akaunting_version";s:6:"2.1.17";s:7:"version";s:5:"1.2.0";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-06-22 21:46:03";s:9:"changelog";s:50:"<p>Added support for Paystack payment gateway</p>
+";}i:2;O:8:"stdClass":6:{s:9:"item_slug";s:8:"payflexi";s:17:"akaunting_version";s:6:"2.1.10";s:7:"version";s:5:"1.1.0";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-04-21 20:34:39";s:9:"changelog";s:48:"<ul><li>Akaunting 2.1.10 compatibility</li></ul>";}i:3;O:8:"stdClass":6:{s:9:"item_slug";s:8:"payflexi";s:17:"akaunting_version";s:5:"2.1.x";s:7:"version";s:5:"1.0.0";s:5:"stage";s:8:"released";s:11:"released_at";s:19:"2021-03-17 17:13:12";s:9:"changelog";s:36:"<ul> 	<li>Initial Release</li> </ul>";}}s:4:"from";i:1;s:9:"last_page";i:1;s:13:"next_page_url";N;s:4:"path";s:56:"https://api.akaunting.com/apps/categories/payment-method";s:8:"per_page";s:1:"5";s:13:"prev_page_url";N;s:2:"to";i:4;s:5:"total";i:4;}s:11:"status_type";s:6:"active";s:12:"price_prefix";s:0:"";s:12:"price_suffix";s:0:"";s:10:"categories";a:1:{i:0;O:8:"stdClass":5:{s:7:"item_id";i:137;s:11:"category_id";i:1;s:10:"created_at";s:19:"2021-03-16 22:15:32";s:10:"updated_at";s:19:"2021-03-16 22:15:32";s:10:"deleted_at";N;}}s:12:"translations";a:2:{i:0;O:8:"stdClass":14:{s:2:"id";i:273;s:7:"item_id";i:137;s:6:"locale";s:2:"en";s:5:"price";i:0;s:4:"name";s:8:"PayFlexi";s:4:"slug";s:8:"payflexi";s:11:"description";s:1198:"<p>PayFlexi.co is a payment option that allows you to accept installment (partial) or full payments for invoices from your customers.<span class="Apple-converted-space">&nbsp;</span></p>
+<p>PayFlexi supports automatic recurring payments are such that the customer will be charged automatically for his next due amount based on their payment schedule.</p>
+<p>Our new bring-your-own-payment-processor allows merchants to use their existing payment gateway to receive payment. We currently support the following payment gateways:</p>
+<ul>
+<li>Stripe</li>
+<li>Paystack</li>
+<li>Flutterwave</li>
+</ul>
+<p>Features</p>
+<ul>
+<li>Accept one-time payment or installment payment from your customers.</li>
+<li>Let customers customize plans within the limits that you set.</li>
+<li>Set the minimum amount to enable installment payment.</li>
+<li>Set the minimum amount to enable weekly or monthly installment payment.</li>
+<li>Accept payments via your existing payment processor and get paid instantly.</li>
+<li>Manage and view all payment schedules from your dedicated merchant dashboard.</li>
+<li>Customers have access to a dedicated dashboard for managing their payment schedules.</li>
+</ul>";s:9:"sort_desc";N;s:12:"installation";s:309:"<ul>
+<li>Install the app within one click from your <strong>Akaunting &gt; Apps &gt; PayFlexi</strong>&nbsp;page then go to <strong>Settings &gt; PayFlexi</strong>.</li>
+<li>Create a Merchant Account on PayFlexi - payflexi.co</li>
+<li>Add your API keys to your Akaunting Settings</li>
+</ul>
+<p>&nbsp;</p>";s:9:"changelog";b:0;s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}i:1;O:8:"stdClass":14:{s:2:"id";i:274;s:7:"item_id";i:137;s:6:"locale";s:2:"tr";s:5:"price";i:0;s:4:"name";s:8:"PayFlexi";s:4:"slug";s:8:"payflexi";s:11:"description";s:1198:"<p>PayFlexi.co is a payment option that allows you to accept installment (partial) or full payments for invoices from your customers.<span class="Apple-converted-space">&nbsp;</span></p>
+<p>PayFlexi supports automatic recurring payments are such that the customer will be charged automatically for his next due amount based on their payment schedule.</p>
+<p>Our new bring-your-own-payment-processor allows merchants to use their existing payment gateway to receive payment. We currently support the following payment gateways:</p>
+<ul>
+<li>Stripe</li>
+<li>Paystack</li>
+<li>Flutterwave</li>
+</ul>
+<p>Features</p>
+<ul>
+<li>Accept one-time payment or installment payment from your customers.</li>
+<li>Let customers customize plans within the limits that you set.</li>
+<li>Set the minimum amount to enable installment payment.</li>
+<li>Set the minimum amount to enable weekly or monthly installment payment.</li>
+<li>Accept payments via your existing payment processor and get paid instantly.</li>
+<li>Manage and view all payment schedules from your dedicated merchant dashboard.</li>
+<li>Customers have access to a dedicated dashboard for managing their payment schedules.</li>
+</ul>";s:9:"sort_desc";N;s:12:"installation";s:162:"<p>Install the app within one click from your <strong>Akaunting &gt; Apps &gt; PayFlexi</strong>&nbsp;page then go to <strong>Settings &gt; PayFlexi</strong>.</p>";s:9:"changelog";s:65:"<p>1.0.0 - 17 Mar 2021</p>
+<ul>
+<li>Initial Release</li>
+</ul>";s:3:"faq";s:0:"";s:15:"marketing_title";N;s:21:"marketing_description";N;s:10:"deleted_at";N;}}s:8:"category";O:8:"stdClass":8:{s:2:"id";i:1;s:6:"status";i:2;s:10:"created_at";s:19:"2017-09-11 15:14:53";s:10:"updated_at";s:19:"2017-09-11 15:14:53";s:10:"deleted_at";N;s:12:"translations";a:2:{i:0;O:8:"stdClass":6:{s:2:"id";i:1;s:11:"category_id";i:1;s:6:"locale";s:2:"en";s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";s:10:"deleted_at";N;}i:1;O:8:"stdClass":6:{s:2:"id";i:2;s:11:"category_id";i:1;s:6:"locale";s:2:"tr";s:4:"name";s:13:"Ödeme Metodu";s:4:"slug";s:12:"odeme-metodu";s:10:"deleted_at";N;}}s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";}s:6:"vendor";O:8:"stdClass":19:{s:2:"id";i:1203;s:7:"user_id";i:109638;s:15:"vendor_group_id";i:1;s:8:"nickname";s:8:"PayFlexi";s:4:"slug";s:8:"payflexi";s:6:"github";s:9:"stanwarri";s:14:"referrer_email";N;s:16:"payoneer_account";s:0:"";s:7:"company";s:8:"PayFlexi";s:7:"website";s:19:"https://payflexi.co";s:11:"description";s:40:"<p>I&#39;m a developer at PayFlexi</p>
+";s:10:"commission";s:2:"30";s:15:"billing_details";O:8:"stdClass":6:{s:4:"name";s:0:"";s:7:"address";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:9:"post_code";s:0:"";s:7:"country";s:0:"";}s:15:"payment_details";O:8:"stdClass":9:{s:12:"payment_type";N;s:18:"payment_type_email";N;s:12:"account_name";s:0:"";s:14:"account_number";s:0:"";s:10:"swift_code";s:0:"";s:9:"bank_name";s:0:"";s:9:"bank_city";s:0:"";s:12:"bank_country";s:0:"";s:13:"currency_code";s:0:"";}s:6:"status";i:2;s:10:"created_at";s:19:"2021-01-29 03:05:56";s:10:"updated_at";s:19:"2021-03-17 13:18:57";s:10:"deleted_at";N;s:4:"user";O:8:"stdClass":12:{s:2:"id";i:109638;s:5:"email";s:23:"stanley.warri@gmail.com";s:11:"permissions";a:0:{}s:10:"last_login";s:19:"2021-06-25 18:51:59";s:10:"first_name";s:8:"PayFlexi";s:9:"last_name";s:0:"";s:10:"created_at";s:19:"2021-01-29 03:04:15";s:10:"updated_at";s:19:"2021-06-25 18:51:59";s:11:"bill_fields";N;s:11:"iyzipay_key";N;s:6:"params";s:135:"{"email_verification":null,"location":{"continent":"Africa","country":"Nigeria","region":"Lagos","city":"Lagos"},"stage":"acquisition"}";s:10:"deleted_at";N;}}s:7:"reviews";a:0:{}s:5:"files";O:8:"stdClass":1:{s:1:"1";O:8:"stdClass":13:{s:2:"id";i:4611;s:8:"filename";s:22:"payflexi-akaunting.png";s:4:"path";O:8:"stdClass":0:{}s:9:"extension";s:3:"png";s:8:"mimetype";s:9:"image/png";s:8:"filesize";s:5:"57081";s:9:"folder_id";i:0;s:10:"created_at";s:19:"2021-03-16 22:15:08";s:10:"updated_at";s:19:"2021-03-17 13:09:35";s:10:"deleted_at";N;s:11:"path_string";s:87:"https://akaunting.com/public/assets/media/1203-payflexi/payflexi/payflexi-akaunting.png";s:10:"media_type";s:5:"image";s:5:"pivot";O:8:"stdClass":6:{s:12:"imageable_id";i:137;s:7:"file_id";i:4611;s:4:"zone";s:9:"thumbnail";s:2:"id";i:3994;s:10:"created_at";s:19:"2021-03-16 22:15:27";s:10:"updated_at";s:19:"2021-03-17 23:05:17";}}}s:4:"name";s:8:"PayFlexi";s:4:"slug";s:8:"payflexi";s:11:"description";s:1198:"<p>PayFlexi.co is a payment option that allows you to accept installment (partial) or full payments for invoices from your customers.<span class="Apple-converted-space">&nbsp;</span></p>
+<p>PayFlexi supports automatic recurring payments are such that the customer will be charged automatically for his next due amount based on their payment schedule.</p>
+<p>Our new bring-your-own-payment-processor allows merchants to use their existing payment gateway to receive payment. We currently support the following payment gateways:</p>
+<ul>
+<li>Stripe</li>
+<li>Paystack</li>
+<li>Flutterwave</li>
+</ul>
+<p>Features</p>
+<ul>
+<li>Accept one-time payment or installment payment from your customers.</li>
+<li>Let customers customize plans within the limits that you set.</li>
+<li>Set the minimum amount to enable installment payment.</li>
+<li>Set the minimum amount to enable weekly or monthly installment payment.</li>
+<li>Accept payments via your existing payment processor and get paid instantly.</li>
+<li>Manage and view all payment schedules from your dedicated merchant dashboard.</li>
+<li>Customers have access to a dedicated dashboard for managing their payment schedules.</li>
+</ul>";s:12:"installation";s:309:"<ul>
+<li>Install the app within one click from your <strong>Akaunting &gt; Apps &gt; PayFlexi</strong>&nbsp;page then go to <strong>Settings &gt; PayFlexi</strong>.</li>
+<li>Create a Merchant Account on PayFlexi - payflexi.co</li>
+<li>Add your API keys to your Akaunting Settings</li>
+</ul>
+<p>&nbsp;</p>";s:9:"changelog";b:0;s:3:"faq";s:0:"";}}s:4:"from";i:1;s:9:"last_page";i:2;s:13:"next_page_url";s:63:"https://api.akaunting.com/apps/categories/payment-method?page=2";s:4:"path";s:56:"https://api.akaunting.com/apps/categories/payment-method";s:8:"per_page";i:8;s:13:"prev_page_url";N;s:2:"to";i:8;s:5:"total";i:12;}s:10:"categories";a:17:{i:0;O:8:"stdClass":8:{s:2:"id";i:13;s:6:"status";i:2;s:10:"created_at";s:19:"2018-01-18 14:44:24";s:10:"updated_at";s:19:"2018-01-18 14:44:24";s:11:"category_id";i:13;s:6:"locale";s:2:"en";s:4:"name";s:10:"Accounting";s:4:"slug";s:10:"accounting";}i:1;O:8:"stdClass":8:{s:2:"id";i:11;s:6:"status";i:2;s:10:"created_at";s:19:"2017-11-13 18:59:10";s:10:"updated_at";s:19:"2017-11-13 18:59:10";s:11:"category_id";i:11;s:6:"locale";s:2:"en";s:4:"name";s:9:"Analytics";s:4:"slug";s:9:"analytics";}i:2;O:8:"stdClass":8:{s:2:"id";i:5;s:6:"status";i:2;s:10:"created_at";s:19:"2017-11-03 23:19:17";s:10:"updated_at";s:19:"2017-11-03 23:19:22";s:11:"category_id";i:5;s:6:"locale";s:2:"en";s:4:"name";s:3:"CRM";s:4:"slug";s:3:"crm";}i:3;O:8:"stdClass":8:{s:2:"id";i:3;s:6:"status";i:2;s:10:"created_at";s:19:"2017-11-01 22:09:05";s:10:"updated_at";s:19:"2017-11-01 22:09:05";s:11:"category_id";i:3;s:6:"locale";s:2:"en";s:4:"name";s:9:"eCommerce";s:4:"slug";s:9:"ecommerce";}i:4;O:8:"stdClass":8:{s:2:"id";i:6;s:6:"status";i:2;s:10:"created_at";s:19:"2017-11-03 23:19:36";s:10:"updated_at";s:19:"2017-11-03 23:19:36";s:11:"category_id";i:6;s:6:"locale";s:2:"en";s:4:"name";s:9:"Help Desk";s:4:"slug";s:9:"help-desk";}i:5;O:8:"stdClass":8:{s:2:"id";i:15;s:6:"status";i:2;s:10:"created_at";s:19:"2018-12-18 08:24:48";s:10:"updated_at";s:19:"2018-12-18 08:24:48";s:11:"category_id";i:15;s:6:"locale";s:2:"en";s:4:"name";s:2:"HR";s:4:"slug";s:2:"hr";}i:6;O:8:"stdClass":8:{s:2:"id";i:2;s:6:"status";i:2;s:10:"created_at";s:19:"2017-09-11 15:15:11";s:10:"updated_at";s:19:"2018-12-18 08:09:04";s:11:"category_id";i:2;s:6:"locale";s:2:"en";s:4:"name";s:13:"Import Export";s:4:"slug";s:13:"import-export";}i:7;O:8:"stdClass":8:{s:2:"id";i:10;s:6:"status";i:2;s:10:"created_at";s:19:"2017-11-05 15:01:34";s:10:"updated_at";s:19:"2017-11-05 21:56:06";s:11:"category_id";i:10;s:6:"locale";s:2:"en";s:4:"name";s:9:"Inventory";s:4:"slug";s:9:"inventory";}i:8;O:8:"stdClass":8:{s:2:"id";i:14;s:6:"status";i:2;s:10:"created_at";s:19:"2018-05-04 22:40:52";s:10:"updated_at";s:19:"2018-12-18 08:10:53";s:11:"category_id";i:14;s:6:"locale";s:2:"en";s:4:"name";s:12:"Notification";s:4:"slug";s:12:"notification";}i:9;O:8:"stdClass":8:{s:2:"id";i:9;s:6:"status";i:2;s:10:"created_at";s:19:"2017-11-05 15:01:21";s:10:"updated_at";s:19:"2017-11-05 15:01:21";s:11:"category_id";i:9;s:6:"locale";s:2:"en";s:4:"name";s:9:"Operation";s:4:"slug";s:9:"operation";}i:10;O:8:"stdClass":8:{s:2:"id";i:1;s:6:"status";i:2;s:10:"created_at";s:19:"2017-09-11 15:14:53";s:10:"updated_at";s:19:"2017-09-11 15:14:53";s:11:"category_id";i:1;s:6:"locale";s:2:"en";s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";}i:11;O:8:"stdClass":8:{s:2:"id";i:7;s:6:"status";i:2;s:10:"created_at";s:19:"2017-11-03 23:21:38";s:10:"updated_at";s:19:"2017-11-03 23:21:43";s:11:"category_id";i:7;s:6:"locale";s:2:"en";s:4:"name";s:13:"Point of Sale";s:4:"slug";s:13:"point-of-sale";}i:12;O:8:"stdClass":8:{s:2:"id";i:20;s:6:"status";i:2;s:10:"created_at";s:19:"2020-05-25 13:51:36";s:10:"updated_at";s:19:"2020-05-25 13:51:36";s:11:"category_id";i:20;s:6:"locale";s:2:"en";s:4:"name";s:18:"Project Management";s:4:"slug";s:18:"project-management";}i:13;O:8:"stdClass":8:{s:2:"id";i:17;s:6:"status";i:2;s:10:"created_at";s:19:"2019-03-29 12:23:42";s:10:"updated_at";s:19:"2019-03-29 12:23:42";s:11:"category_id";i:17;s:6:"locale";s:2:"en";s:4:"name";s:10:"Regulation";s:4:"slug";s:10:"regulation";}i:14;O:8:"stdClass":8:{s:2:"id";i:19;s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-19 12:58:35";s:10:"updated_at";s:19:"2020-04-19 12:59:04";s:11:"category_id";i:19;s:6:"locale";s:2:"en";s:4:"name";s:6:"Report";s:4:"slug";s:6:"report";}i:15;O:8:"stdClass":8:{s:2:"id";i:4;s:6:"status";i:2;s:10:"created_at";s:19:"2017-11-03 23:18:04";s:10:"updated_at";s:19:"2017-11-03 23:18:10";s:11:"category_id";i:4;s:6:"locale";s:2:"en";s:4:"name";s:13:"Time Tracking";s:4:"slug";s:13:"time-tracking";}i:16;O:8:"stdClass":8:{s:2:"id";i:18;s:6:"status";i:2;s:10:"created_at";s:19:"2020-04-19 12:58:20";s:10:"updated_at";s:19:"2020-04-19 12:58:20";s:11:"category_id";i:18;s:6:"locale";s:2:"en";s:4:"name";s:6:"Widget";s:4:"slug";s:6:"widget";}}s:8:"category";O:8:"stdClass":8:{s:2:"id";i:1;s:6:"status";i:2;s:10:"created_at";s:19:"2017-09-11 15:14:53";s:10:"updated_at";s:19:"2017-09-11 15:14:53";s:10:"deleted_at";N;s:12:"translations";a:2:{i:0;O:8:"stdClass":6:{s:2:"id";i:1;s:11:"category_id";i:1;s:6:"locale";s:2:"en";s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";s:10:"deleted_at";N;}i:1;O:8:"stdClass":6:{s:2:"id";i:2;s:11:"category_id";i:1;s:6:"locale";s:2:"tr";s:4:"name";s:13:"Ödeme Metodu";s:4:"slug";s:12:"odeme-metodu";s:10:"deleted_at";N;}}s:4:"name";s:14:"Payment Method";s:4:"slug";s:14:"payment-method";}}

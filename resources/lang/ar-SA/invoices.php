@@ -2,7 +2,7 @@
 
 return [
 
-    'invoice_number'        => 'رقم فاتورة البيع',
+    'invoice_number'        => 'رقم اذن البيع',
     'invoice_date'          => 'تاريخ فاتورة البيع',
     'total_price'           => 'السعر الإجمالي',
     'due_date'              => 'تاريخ الاستحقاق',

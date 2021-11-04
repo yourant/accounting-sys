@@ -74,11 +74,11 @@ class DocumentTransactions extends Controller
                         'text' => trans('general.cancel'),
                         'class' => 'btn-outline-secondary'
                     ],
-                    'payment' => [
-                        'text' => trans('invoices.accept_payments'),
-                        'class' => 'long-texts',
-                        'url' => route('apps.categories.show', 'payment-method')
-                    ],
+                    //'payment' => [
+                    //    'text' => trans('invoices.accept_payments'),
+                    //    'class' => 'long-texts',
+                    //    'url' => route('apps.categories.show', 'payment-method')
+                    //],
                     'confirm' => [
                         'text' => trans('general.save'),
                         'class' => 'btn-success'

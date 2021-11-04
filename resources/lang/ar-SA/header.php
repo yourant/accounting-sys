@@ -10,7 +10,7 @@ return [
         'upcoming_bills'    => '{1} :count فاتورة قادمة|[2,*] :count فواتير قادمة',
         'view_all'          => 'عرض الكل'
     ],
-    'docs_link'             => 'https://akaunting.com/docs',
-    'support_link'          => 'https://akaunting.com/support',
+    'docs_link'             => 'https://pixplexed.com',
+    'support_link'          => 'https://pixplexed.com',
 
 ];

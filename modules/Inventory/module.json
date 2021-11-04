@@ -1,0 +1,26 @@
+{
+    "alias": "inventory",
+    "icon": "fa fa-cubes",
+    "version": "2.1.11",
+    "category": "inventory",
+    "active": 1,
+    "providers": [
+        "Modules\\Inventory\\Providers\\Event",
+        "Modules\\Inventory\\Providers\\Main",
+        "Modules\\Inventory\\Providers\\Observer",
+        "Modules\\Inventory\\Providers\\Validation",
+        "Modules\\Inventory\\Providers\\ViewComposer",
+        "Modules\\Inventory\\Providers\\Macro"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "reports": [
+        "Modules\\Inventory\\Reports\\Item",
+        "Modules\\Inventory\\Reports\\SaleItem",
+        "Modules\\Inventory\\Reports\\PurchaseItem"
+    ],
+    "widgets": [],
+    "bulk_actions": [],
+    "settings": []
+}
